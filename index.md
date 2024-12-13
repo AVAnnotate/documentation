@@ -6,10 +6,10 @@ nav_order: 1
 
 # AVAnnotate
 AVAnnotate uses free and open-source web tools (Jekyll and GitHub Pages) to create static sites on GitHub to share context around AV artifacts. 
-Researchers, teachers, and LAMs use the AVAnnotate app to…
-…generate IIIF manifests and an associated GitHub repository
-…upload annotations and a URL to their AV item 
-…present and share their timestamped notes, annotations, and contextual writing around AV artifacts
+Archivists, librarians, researchers, teachers, and students use the AVAnnotate application to
+- generate IIIF manifests and an associated GitHub repository
+- upload annotations and a URL to their AV item 
+- present and share their timestamped notes, annotations, and contextual writing around AV artifacts
 
 The AVAnnotate player is a React Player, a versatile React component that supports a wide range of media formats and sources. 
 
