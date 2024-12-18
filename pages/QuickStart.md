@@ -7,7 +7,7 @@ nav_order: 6
 
 ## Step 1: Log into AVAnnotate with your GitHub credentials and create a new project
 
-Navigate to the [AVAnnotate application](https://avannotate.netlify.app/) and sign in with your GitHub credentials, or create a new GitHub [GitHub](https://github.com/join) account by providing a username, email address, and password.
+Navigate to the [AVAnnotate application](https://avannotate.netlify.app/) and sign in with your GitHub credentials, or create a new [GitHub](https://github.com/join) account by providing a username, email address, and password.
 
 Select “Add,” and input information about the new project, including the project title, description, language, a URL “slug,” and collaborators.
 
