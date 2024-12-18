@@ -1,10 +1,12 @@
 ---
-title: Supported AV Formats
+title: AV File Formats and Support
 layout: home
 nav_order: 6
 ---
 
-# The AVAnnotate player is a React Player, a versatile React component that supports a wide range of media formats and sources. Here's a breakdown of the supported formats:  <br>
+# AV File Formats and Support
+
+AVAnnotate does not store AV files. The suggested means for making AV available is by uploading files to the Internet Archive. 
 
 ## Video Formats:
 **File Paths:** Play video files directly hosted on a server or accessible via URLs, such as MP4, MOV, AVI, MKV, and more.  <br>
