@@ -7,7 +7,7 @@ nav_order: 6
 # The AVAnnotate player is a React Player, a versatile React component that supports a wide range of media formats and sources. Here's a breakdown of the supported formats:  <br>
 
 ## Video Formats:
-**File Paths:** You can directly play video files hosted on your server or accessible via URLs, such as MP4, MOV, AVI, MKV, and more.  <br>
+**File Paths:** Play video files directly hosted on a server or accessible via URLs, such as MP4, MOV, AVI, MKV, and more.  <br>
 **YouTube:** Embed YouTube videos using their URLs.  <br>
 **Facebook:** Embed Facebook videos using their URLs.  <br>
 **Vimeo:** Embed Vimeo videos using their URLs.  <br>
