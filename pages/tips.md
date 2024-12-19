@@ -4,7 +4,7 @@ layout: home
 parent: Quick Start
 nav_order: 1
 ---
-## Helpful tips before getting started
+## Helpful tips before [getting started](quickstart.md)
 1. Logging into [AVAnnotate](https://avannotate.netlify.app/) requires a [GitHub account](https://github.com/).
 2. AVAnnotate does not import AV files. Collect AV and image URLs or manifests before starting projects. See [AV Formats and Support](av.md) for a list of supported AV URL types.
 3. Editing Events, Tags, and Annotations in the AVAnnotate dashboard is possible, but it is highly recommended to create spreadsheets for events, tags, and annotations using spreadsheet software (Excel, Google Sheets, etc.) then uploading and auto-generating projects. See (Spreadsheet Templates](templates.md) for spreadhseet templates, documentation, and examples
