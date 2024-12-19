@@ -1,20 +1,9 @@
 ---
 title: Quick Start
 layout: home
-nav_order: 6
+nav_order: 1
 ---
 # Quick Start: How to Use AVAnnotate
-
-## Helpful tips before getting started:
-1. AVAnnotate does not import AV files. Collect AV URLs or manifests before starting projects. See ?? for list of supported AV URL types.
-2. While you can edit in AVAnnotate, we recommend that you create spreadsheets for events, tags, and annotations. See templates.   
-3. GitHub is slow. If you are making many changes at once, turn off Generate Pages in the Project settings page and toggle it back on when you are ready for the application to build your online project pages. 
-4. The application assumes an order of tasks: if you have tags, upload them first before uploading any annotations with those tags. Tags take a long time to update on the backend.
-5. Check and double check your tags! Tags can only have certain characters. See??
-6. If you get a blank page when publishing and viewing a project, refresh the page. 
-7. If you are creating projects without associated media (i.e., no URLs): upload event spreadsheet  leaving the URL column blank. (individually labeling as Offline disables the player for events without media/URL)
-8. Keep “Projects” tab open/open individual projects in new windows to avoid waiting for “Loading your projects” screen
-
 
 ## Step 1: Log into AVAnnotate with your GitHub credentials and create a new project
 
