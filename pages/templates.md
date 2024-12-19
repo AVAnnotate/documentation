@@ -1,7 +1,7 @@
 ---
 title: Spreadsheet Templates
 layout: home
-parent: Quick Start
+parent: start
 nav_order: 2
 ---
 
