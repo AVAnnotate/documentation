@@ -10,7 +10,8 @@ Tags are labels used in a published AVAnnotate project to index, organize, and d
 
 ## Tags Management System
 The AVAnnotate TMS can be used to:
-- upload [Tag spreadsheets](templates.md) and create project-level tags and categories. Tag spreadsheets should be imported before annotation spreadsheets that have tags; when annotation spreadsheets containing tags are imported, they are matched to the tags.
+- upload [Tag spreadsheets]({% link templates.md %})
+- and create project-level tags and categories. Tag spreadsheets should be imported before annotation spreadsheets that have tags; when annotation spreadsheets containing tags are imported, they are matched to the tags.
 - Modify and delete individual tags and categories. Once modified, tags and categories will change across all annotations.
 
 ## Creating Tags
