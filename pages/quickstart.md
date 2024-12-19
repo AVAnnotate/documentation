@@ -20,7 +20,7 @@ AVAnnotate does not store AV or image files. AVAnnoate references AV and image f
 
 An “Event” in AVAnnotate can comprise single or multiple AV files and single or multiple sets of annotations. AVAnnotate will create or ingest a IIIF manifest for each event. Event pages can be auto-generated or customized by the user.
 
-Select `+ Add` and input information about the new event, including the event `Label` `Item Type` `AV label` `URL` `Duration` `Description` and `Citation`. For more information, see [Events](events.md).
+Select `+ Add` and input information about the new event, including the event `Label` `Item Type` `AV label` `URL` `Duration` `Description` and `Citation`. For more information, see [Events](events.md). 
 
 ## Step 4: Add tags
 
