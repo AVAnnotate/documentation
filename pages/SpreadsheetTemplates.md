@@ -2,7 +2,7 @@
 title: Spreadsheet Templates
 layout: home
 parent: Quick Start
-nav_order: 1
+nav_order: 2
 ---
 
 [Spreadsheet Examples](#Examples)
