@@ -4,38 +4,37 @@ layout: home
 parent: Quick Start
 nav_order: 2
 ---
-
+# Spreadsheet Templates
 [Spreadsheet Examples](#Examples)
 
-This guide provides templates for uploading projects in bulk via spreadsheets. AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
+This guide provides templates for uploading project information to AVAnnotate in bulk via spreadsheets. AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
 
-**1. Project Level:** Every AVAnnotate project will include one Event and one Tag spreadsheet. 
-* Event Spreadsheet: Each row in the event spreadsheet is a unique “event” in the project.
+**1. Project Level:** Include one Event and one Tag spreadsheet. 
+* Event Spreadsheet: Each row in the event spreadsheet is a unique “event” in the project. Note: Events may include multiple AV files. See below.
 * Tag Spreadsheet: Each row in the tag spreadsheet is a unique tag in the project.
   
-**2. Event Level:** Regardless of how many events a project includes, one Annotation spreadsheet will correspond to one Event spreadsheet, such that projects with multiple events require multiple annotation spreadsheets. 
-* Annotation Spreadsheet: Each row in an annotation spreadsheet is an single annotation for a timestamp on the event.
+**2. Event Level:** Annotation spreadsheets (or "sets") correspond to each AV file. AV files may have multiple corresponding sets. Events may have multiple corresponding AV files with multiple annotation sets.  
+* Annotation Spreadsheet: Each row in an annotation spreadsheet is a single annotation corresponding to a timestamp on the AV file.
   
 ---
 # [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
-This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. (This list is not exhaustive, and the audiovisual material you’re working with may or may not fall into one of these “event” categories.) Each row in the Event template corresponds to one recording. If your event spans multiple recordings, additional recordings must be added to the event after upload.
+This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. This list is not exhaustive. Each row in the Event template corresponds to one recording. If an event spans multiple recordings, additional recordings may be added to the event after the initial upload.
 
 **Spreadsheet Header** <br>
 **Column A:** Event Label (“Interview 1”) <br>
 **Column B:** Event Item Type (“Audio” or “Video”) <br>
 **Column C:** AV File Label (name for the file; create a name even if there is not an AV URL) <br>
-**Column D:** AV File URL <br>
+**Column D:** AV File URL (optional) <br>
 **Column E:** Event Citation (optional) <br>
 **Column F:** Event Description (optional) <br>
 
 ---
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
-This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
-Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a category). Consistency with the spelling and capitalization of tags is imperative, as AVAnnotate will read each tag individually and cannot control for differences in case or spelling. 
+This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags into groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the category “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a category). Consistency with the spelling and capitalization of tags is imperative. Different spelling or capitalizations = different tags. 
 
 **Note:** 
 A tag can belong to multiple categories. For example, the tag “Zora Neale Hurston” may be found in the categories “Speaker” and “Topic” (depending on the event context) or may not be categorized at all. 
-A single tag can contain multiple words and punctuation, but should not use colons or pipes (e.g., “Allende Gossens, Salvador, 1908-1973”).
+A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anzaldúa, Texas, 1942-2004"), but should adhere to "Safe URL" guidelines (see [Tags](tags.md).
 
 **Spreadsheet Header** <br>
 **Column A:** Tag (one tag per cell) <br>
