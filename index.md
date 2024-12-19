@@ -11,7 +11,7 @@ Archivists, librarians, researchers, teachers, and students use the AVAnnotate a
 - upload annotations and a URL to their AV item 
 - present and share their timestamped notes, annotations, and contextual writing around AV artifacts
 
-[Get Started](quickstart){:.btn .btn-primary target="_blank" rel="noopener"}
+[Get Started](quickstart){:.btn .btn-primary target="_blank" rel="noopener"} 
 
  # Need Help? Want to contribute? Want to learn more? 
  
