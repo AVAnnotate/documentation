@@ -3,6 +3,7 @@ title: Tags
 layout: home
 nav_order: 4
 ---
+
 # Tags
 Tags are labels used in a published AVAnnotate project to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups.
 - Event pages have tag filtering for annotations.
@@ -10,7 +11,7 @@ Tags are labels used in a published AVAnnotate project to index, organize, and d
 
 ## Tags Management System
 The AVAnnotate TMS can be used to:
-- upload [Tag spreadsheets]({% link templates %})
+
 - and create project-level tags and categories. Tag spreadsheets should be imported before annotation spreadsheets that have tags; when annotation spreadsheets containing tags are imported, they are matched to the tags.
 - Modify and delete individual tags and categories. Once modified, tags and categories will change across all annotations.
 
