@@ -17,10 +17,5 @@ Select `+ Add` and input information about the new project, including
 - `Project Authors`
 - `Collaborators`
 
-# Creating Offline Projects
-AVAnnotate projects can be downloaded and used offline or on a private server as a free-standing site. See [Offline Projects](offline.md).
-- Offline / private projects with up to 3 collaborators can be created using GH private repos. See [Private Projects](private.md).
-- For projects containing offline AV, see [AV Formats and Support](av.md).
-
 
 
