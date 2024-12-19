@@ -23,11 +23,11 @@ An “Event” in AVAnnotate can comprise single or multiple AV files and single
 Select `+ Add` and input information about the new event, including the event `Label` `Item Type` `AV label` `URL` `Duration` `Description` and `Citation`. For more information, see [Events](events.md).
 
 ## Step 4: Add tags
-Tags are labels used in the published project to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For more information, see [tags](tags.md).
+Tags are labels used in the published project to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For more information, see [Tags](tags.md).
 
 ## Step 5: Add annotations and timestamps
 
-Timestamped annotations are added to each event. Annotations and timestamps are user-created and correspond to a point or range in the audio or video. Annotations contain information about the media that might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. Annotations often include tags for indexing.  For more information, see [annotations](annotations.md).
+Timestamped annotations are added to each event. Annotations and timestamps are user-created and correspond to a point or range in the audio or video. Annotations contain information about the media that might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. Annotations often include tags for indexing.  For more information, see [Annotations](annotations.md).
 
 ## Step 6: Customize pages to build context
 
