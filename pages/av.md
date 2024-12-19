@@ -31,3 +31,6 @@ AVAnnotate references audio and video files hosted on other servers directly via
 **SoundCloud:** Play SoundCloud tracks as mentioned above.  <br>
 **Mixcloud:** Play Mixcloud tracks as mentioned above.  <br>
 
+## Offline AV
+AVAnnotate will create projects without URLS. Users can toggle `URL` to `Offline` on the `Event` settings page or, see more information in [Spreadsheet Templates](templates.md) on creating bulk uploads without AV URLs.
+
