@@ -30,5 +30,5 @@ Users can create auto-generated pages for each event as well as design custom pa
 
 ## Step 6: Share your AVAnnotate project with the world!
 
-# Read more about how to use AVAnnotate [here](https://hipstas.github.io/ava_documentation/pages/SpreadsheetTemplates/), including bulk uploads.
+## Refer to [Spreadsheet Templates](templates.md) for bulk uploading using spreadsheets.
 
