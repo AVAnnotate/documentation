@@ -5,13 +5,13 @@ nav_order: 1
 ---
 
 # AVAnnotate
+[Get Started](quickstart){:.btn .btn-primary target="_blank" rel="noopener"} 
+
 AVAnnotate uses free and open-source web tools (Jekyll and GitHub Pages) to create static sites on GitHub to share context around AV artifacts. 
 Archivists, librarians, researchers, teachers, and students use the AVAnnotate application to
 - generate IIIF manifests and an associated GitHub repository
 - upload annotations and a URL to their AV item 
 - present and share their timestamped notes, annotations, and contextual writing around AV artifacts
-
-[Get Started](quickstart){:.btn .btn-primary target="_blank" rel="noopener"} 
 
  # Need Help? Want to contribute? Want to learn more? 
  
