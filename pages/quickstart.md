@@ -10,16 +10,17 @@ nav_order: 1
 
 Navigate to the [AVAnnotate application](https://avannotate.netlify.app/) and sign in with your GitHub credentials, or create a new [GitHub](https://github.com/join) account by providing a username, email address, and password.
 
-Select “Add,” and input information about the new project, including the project title, description, language, a URL “slug,” and collaborators. For more information, see [Projects](projects.md).
+Select `+ Add` and input information about the new project, including `Title` `Description` `Language` a URL ` Project Slug` and `Project Authors` and `Collaborators`. For more information, see [Projects](projects.md).
 
-## Step 2: Find a URL or IIIF Manifest for your AV file
+## Step 2: Locate a URL or IIIF Manifest for your AV file
 
+AVAnnotate does not store AV or image files. AVAnnoate references AV and image files through [URLs](av.md) or [IIIF manifests](iiif.md).
 
 ## Step 3: Add an Event
 
-An “Event” in AVAnnotate can comprise single or multiple AV files and single or multiple sets of annotations. AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_iiif_resources/) for each event. Event pages can be auto-generated or created by the user.
+An “Event” in AVAnnotate can comprise single or multiple AV files and single or multiple sets of annotations. AVAnnotate will create or ingest a IIIF manifest for each event. Event pages can be auto-generated or customized by the user.
 
-Select “Add,” and input information about the new event, including the event label; item type (audio or video); AV label, URL, and duration; description; and citation. For more information, see [Events](events.md).
+Select `+ Add` and input information about the new event, including the event label; item type (audio or video); AV label, URL, and duration; description; and citation. For more information, see [Events](events.md).
 
 ## Step 4: Add tags
 Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For more information, see [tags](tags.md).
