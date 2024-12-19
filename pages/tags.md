@@ -3,6 +3,9 @@ title: Tags
 layout: home
 nav_order: 4
 ---
+## Tags
+Tags are labels used in the published project to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups.
+
 Check and double check tags! Tags should only be comprised of URL safe characters and commas, including commas and the following characters with and without accents:
 
 ```
