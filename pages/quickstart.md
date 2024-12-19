@@ -23,6 +23,7 @@ An “Event” in AVAnnotate can comprise single or multiple AV files and single
 Select `+ Add` and input information about the new event, including the event `Label` `Item Type` `AV label` `URL` `Duration` `Description` and `Citation`. For more information, see [Events](events.md).
 
 ## Step 4: Add tags
+
 Tags are labels used in the published project to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For more information, see [Tags](tags.md).
 
 ## Step 5: Add annotations and timestamps
@@ -31,7 +32,7 @@ Timestamped annotations are added to each event. Annotations and timestamps are 
 
 ## Step 6: Customize pages to build context
 
-Users can create auto-generated pages for each event as well as design custom pages that include text, whole events, or AV clips with or without associated annotations, event or AV clip comparisons, and images (via URL links). What appears on these pages is entirely up to the user; users may add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc. For more information, see [Customize](custom.md).
+Users can create auto-generated pages for each event as well as design custom pages that include text, whole events, or AV clips with or without associated annotations, event or AV clip comparisons, and images (via URL links). What appears on these pages is entirely up to the user; users may add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc. For more information, see [Customizations](customize.md).
 
 ## Step 6: Share your AVAnnotate project with the world!
 
