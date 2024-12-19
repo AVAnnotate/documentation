@@ -1,7 +1,7 @@
 ---
-title: Quick Start
+title: How to Use AVAnnotate
 layout: home
-parent: start
+parent: Quick Start
 nav_order: 1
 ---
 # Quick Start: How to Use AVAnnotate
