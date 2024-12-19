@@ -2,7 +2,7 @@
 title: Helpful Tips
 layout: home
 parent: Quick Start
-nav_order: 2
+nav_order: 1
 ---
 1. AVAnnotate does not import AV files. Collect AV URLs or manifests before starting projects. See (AV Formats and Support)[av.md] for a list of supported AV URL types.
 2. Editing details in AVAnnotate is possible, it is highly recommended to create spreadsheets for events, tags, and annotations for bulk uploading and auto-generating projects. See (Spreadsheet Templates)[templates.md].
