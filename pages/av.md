@@ -6,7 +6,11 @@ nav_order: 6
 
 # AV File Formats and Support
 
-AVAnnotate does not store AV files. The suggested means for making AV available is by uploading files to the Internet Archive. 
+AVAnnotate references audio and video files hosted on other servers directly via URLs or through IIIF manifests. The suggested means for making files available in these ways is to (upload files to the Internet Archive)[https://help.archive.org/help/uploading-a-basic-guide/]. 
+
+## Note: 
+-Only File Paths, HLS, and DASH references will generate a valid IIIF manifest.  <br>
+-The player does not support files shared through links that reference Box, Dropbox, or Google Drive.
 
 ## Video Formats:
 **File Paths:** Play video files directly hosted on a server or accessible via URLs, such as MP4, MOV, AVI, MKV, and more.  <br>
@@ -27,6 +31,3 @@ AVAnnotate does not store AV files. The suggested means for making AV available 
 **SoundCloud:** Play SoundCloud tracks as mentioned above.  <br>
 **Mixcloud:** Play Mixcloud tracks as mentioned above.  <br>
 
-## Notes: 
--Only the File Paths, HLS, and DASH formats will generate a valid IIIF manifest.  <br>
--The player does not support Box, Dropbox, or Google Drive share links.
