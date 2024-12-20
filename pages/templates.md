@@ -16,19 +16,19 @@ This guide provides templates for uploading project information to AVAnnotate in
 * Annotation Spreadsheet: Each row in an annotation spreadsheet is a single annotation corresponding to a timestamp on the AV file.
   
 ---
-# Event Spreadsheet Template
+## [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. This list is not exhaustive. Each row in the Event template corresponds to one recording. If an event spans multiple recordings, additional recordings may be added to the event after the initial upload.
 
 **Spreadsheet Header** <br>
-**Column A:** Event Label (“Interview 1”) <br>
-**Column B:** Event Item Type (“Audio” or “Video”) <br>
-**Column C:** AV File Label (name for the file; create a name even if there is not an AV URL) <br>
-**Column D:** AV File URL (optional) <br>
-**Column E:** Event Citation (optional) <br>
-**Column F:** Event Description (optional) <br>
+**Event Label:** Descriptive title of the event. <br>
+**Event Item Type:** “Audio” or “Video” <br>
+**AV File Label:** Name for the file; create a name even if there is not an AV URL <br>
+**AV File URL:**  (optional) See [AV File Formats and Support](https://avannotate.github.io/documentation/pages/av/) for more information. <br>
+**Event Description:**  (optional) <br>
+**Event Citation:**  (optional) <br>
 
 ---
-# Tag Spreadsheet Template
+## [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
 This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags into groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the category “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a category). Consistency with the spelling and capitalization of tags is imperative. Different spelling or capitalizations = different tags. 
 
 **Note:** 
@@ -36,11 +36,11 @@ A tag can belong to multiple categories. For example, the tag “Zora Neale Hurs
 A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anzaldúa, Texas, 1942-2004"), but should adhere to "Safe URL" guidelines (see [Tags](tags.md).
 
 **Spreadsheet Header** <br>
-**Column A:** Tag (one tag per cell) <br>
-**Column B:** Category <br>
+**Tag:** Each unique tag that occurs across the project. Tags are only repeated if they belong to multiple categories.<br>
+**Category:** Each unique category that occurs across the project. Categories may not repeat.<br>
 
 ---
-# Annotation Spreadsheet Template
+## [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template includes project annotations. Annotations correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. 
 Annotations are linked to an event as part of the upload process. 
 
@@ -48,13 +48,10 @@ Annotations are linked to an event as part of the upload process.
 Annotations may overlap in time and will appear in sequence in the interface according to the earliest start time.
 
 **Spreadsheet Header** <br>
-**Column A:** Start Time marks the point in time in minutes and seconds that is the target of an annotation. <br>
-**Column B:** End Time may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
-**Column C:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
-**Column D:** Tags are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
-
-**Note:** 
-The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
+**Start Time:**  marks the point in time in minutes and seconds that is the target of an annotation. <br>
+**End Time:**  may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
+**Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
+**Tags:**  are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
 
 # Examples
 Sample Audio Spreadsheets - 

@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # AVAnnotate
-[Get Started](quickstart){:.btn .btn-primary target="_blank" rel="noopener"} 
+[Get Started](https://avannotate.github.io/documentation/pages/start/){:.btn .btn-primary target="_blank" rel="noopener"} 
 
 AVAnnotate uses free and open-source web tools (Jekyll and GitHub Pages) to create static sites on GitHub to share context around AV artifacts. 
 Archivists, librarians, researchers, teachers, and students use the AVAnnotate application to
