@@ -11,4 +11,4 @@ Select `+ Add` and input information about the new project, including:
 - `Language`
 - `Project Slug` that will appear in the URL.
 - `Project Authors`
-- `Collaborators` GitHub collaborators can be searched via AVAnnotate.
+- `Collaborators` GitHub collaborators can be searched via AVAnnotate. 
