@@ -108,5 +108,5 @@ callouts:
     color: purple
   warning:
     title: Warning
-    color: red
+    color: $red-000
 
