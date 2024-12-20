@@ -115,7 +115,7 @@ callouts:
     color: purple
   warning:
     title: Warning
-    color: red
+    color: #FF0000
 
 
 
