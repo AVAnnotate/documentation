@@ -93,6 +93,8 @@ search:
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
 
+color_scheme: nil
+
 kramdown:
   syntax_highlighter_opts:
     block:
