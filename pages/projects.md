@@ -8,14 +8,6 @@ AVAnnotate projects are sometimes used as exhibits or editions, as class project
 - Projects can be saved in any organization that a user has permission to access in GitHub.
 - Collaborators can be added on the `Project Settings` page through a search for GitHub usernames.
 
-## Creating Projects
-Select `+ Add` and input information about the new project, including 
-- `Title`
-- `Description`
-- `Language`
-- `Project Slug` that will appear in the URL.
-- `Project Authors`
-- `Collaborators` GitHub collaborators can be searched via AVAnnotate.
 
 
 
