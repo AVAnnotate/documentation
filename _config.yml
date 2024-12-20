@@ -93,6 +93,17 @@ search:
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
 callouts_level: quiet # or loud
 callouts:
   highlight:
@@ -108,5 +119,5 @@ callouts:
     color: purple
   warning:
     title: Warning
-    color: $red-000
+    color: red
 
