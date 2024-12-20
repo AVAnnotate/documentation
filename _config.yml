@@ -93,10 +93,7 @@ search:
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
 
-  plugins:
-  - jekyll-default-layout
-
-  callouts_level: quiet # or loud
+callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
