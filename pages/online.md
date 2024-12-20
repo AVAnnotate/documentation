@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 1
 ---
 ## Creating Online Projects
-Select `+ Add` and input information about the new project, including 
+Select `+ Add` and input information about the new project, including: 
 - `Title`
 - `Description`
 - `Language`
