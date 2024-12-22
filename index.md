@@ -23,8 +23,5 @@ Outside contributors are always welcome and encouraged to help make AVAnnotate b
 
 Finally, follow us on [AVAnnotate Announcements](https://github.com/orgs/AVAnnotate/discussions/categories/announcements), on [Bluesky](https://app.bsky.cz/profile/avannotate.bsky.social), or join the [AV-Annotate Google Group](https://groups.google.com/u/0/g/av-annotate) for updates, conversations, and invitations to workshops and events. 
 
-# Contact Us
-_AVAnnotate Support_ av-annotate [@] gmail.com
-
-_General Inquiries_ tclement [@] utexas.edu
+[Contact Us](mailto:av-annotate@gmail.com){:.btn .btn-primary target="_blank" rel="noopener"} 
 
