@@ -33,7 +33,7 @@ This template contains tags and tag categories used in a project. Tags are label
 
 **Note:** 
 A tag can belong to multiple categories. For example, the tag “Zora Neale Hurston” may be found in the categories “Speaker” and “Topic” (depending on the event context) or may not be categorized at all. 
-A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anzaldúa, Texas, 1942-2004"), but should adhere to "Safe URL" guidelines (see [Tags](tags.md).
+A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anzaldúa, Texas, 1942-2004"), but should adhere to "Safe URL" guidelines (see [Tags](https://avannotate.github.io/documentation/pages/tags/)).
 
 **Spreadsheet Header** <br>
 **Tag:** Each unique tag that occurs across the project. Tags are only repeated if they belong to multiple categories.<br>
