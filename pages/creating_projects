@@ -1,4 +1,10 @@
-## Creating Projects
+---
+title: Offline
+layout: home
+parent: Projects
+nav_order: 2
+---
+# Creating Projects
 Select `+ Add` and input information about the new project, including:
 - `GitHub Organization` Projects can be saved in any organization that a user has permission to access in GitHub.
 - `Use Private Repository`
