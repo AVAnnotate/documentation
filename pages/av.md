@@ -1,7 +1,7 @@
 ---
 title: AV File Formats and Support
 layout: home
-parent: Getting Started
+parent: Get Started
 nav_order: 6
 ---
 
