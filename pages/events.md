@@ -1,7 +1,8 @@
 ---
 title: Events
 layout: home
-nav_order: 3
+parent: Projects
+nav_order: 2
 ---
 ## Events
 
