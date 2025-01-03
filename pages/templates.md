@@ -54,7 +54,14 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 **Spreadsheet Header** <br>
 **Start Time:**  marks the point in time in minutes and seconds that is the target of an annotation. <br>
 **End Time:**  may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
-**Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
+**Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) Basic HTML tags are allowed in the body of annotations including: b
+`em`
+`i`
+`b`
+`br`
+`blockquote`
+`p`
+`a`<br>
 **Tags:** (optional) are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”).<br> 
 
 {: .warning }
