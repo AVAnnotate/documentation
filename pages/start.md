@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Get Started
 layout: home
 nav_order: 1
 ---
