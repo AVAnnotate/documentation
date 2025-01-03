@@ -1,7 +1,7 @@
 ---
 title: Spreadsheet Templates
 layout: home
-parent: Quick Start
+parent: Getting Started
 nav_order: 2
 ---
 # Spreadsheet Templates and Examples
