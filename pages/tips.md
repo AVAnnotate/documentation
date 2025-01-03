@@ -1,8 +1,8 @@
 ---
 title: Helpful Tips
 layout: home
-parent: Quick Start
-nav_order: 1
+parent: Get Started
+nav_order: 4
 ---
 ## Helpful tips before getting started
 1. Logging into [AVAnnotate](https://avannotate.netlify.app/) requires a [GitHub account](https://github.com/).<br>
