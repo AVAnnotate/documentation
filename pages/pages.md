@@ -1,6 +1,7 @@
 ---
-title: Customizations
+title: Pages
 layout: home
+parent: Projects
 nav_order: 7
 ---
 ## Pages
