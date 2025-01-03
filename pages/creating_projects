@@ -4,6 +4,7 @@ layout: home
 parent: Projects
 nav_order: 1
 ---
+
 # Creating Projects
 Select `+ Add` and input information about the new project, including:
 - `GitHub Organization` Projects can be saved in any organization that a user has permission to access in GitHub.
