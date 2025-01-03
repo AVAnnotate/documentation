@@ -12,8 +12,12 @@ This guide provides templates for uploading project information to AVAnnotate in
 * [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true): Each row in the event spreadsheet is a unique “event” in the project. Note: Events may include multiple AV files. See below.
 * [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true): Each row in the tag spreadsheet is a unique tag in the project.
   
-**2. Event Level:** [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true) (or "sets") correspond to each AV file. AV files may have multiple corresponding sets. Events may have multiple corresponding AV files with multiple annotation sets.  
+**2. Event Level:** [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true) (or "sets") correspond to each AV file. AV files may have multiple corresponding annotation sets. Events may have multiple corresponding AV files with multiple annotation sets.  
 * Annotation Spreadsheet: Each row in an annotation spreadsheet is a single annotation corresponding to a timestamp on the AV file.
+
+{: .warning }
+> **Important Note:** All cells must be filled out. If a value is optional, that column can be blank (currently the one exception is the `tag` within the annotation speadsheet.   
+
   
 ---
 ## [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
@@ -51,7 +55,10 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 **Start Time:**  marks the point in time in minutes and seconds that is the target of an annotation. <br>
 **End Time:**  may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
 **Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
-**Tags:**  are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
+**Tags:** (optional) are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”).<br> 
+
+{: .warning }
+> **Important Note:** In the current version, tags are optional in the spreadsheeet upload but the header "tag" is required. Oterwise, the column can remain blank. 
 
 # Examples
 Sample Audio Spreadsheets - 
