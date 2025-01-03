@@ -1,7 +1,7 @@
 ---
 title: How to Use AVAnnotate
 layout: home
-parent: Quick Start
+parent: Getting Started
 nav_order: 1
 ---
 # Quick Start: How to Use AVAnnotate
