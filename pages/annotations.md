@@ -13,7 +13,7 @@ Annotations must include timestamps and can include tags.
 - Annotations, timestamps, and tags can be added, edited, or deleted through the AVAnnotate dashboard.
 - Multiple annotations can be included for the same timestamp or spanning timestamps.
    
-# Creating and Modifying Annotations Sets
+# Creating and Modifying Annotation Sets
 AVAnnotate allows users to organize their annotations for AV files via different "sets" such as one set for Transcripts and another for Notes or one annotation set in English and another in Spanish.  
 - Annotations can be added to the 'Default' set or to a newly created set through `Event` settings. The 'Default' set can be renamed but cannot be deleted.
 - Annotation sets can be added by manually, via a IIIF manifest, or imported via a seperate spreadsheet or .VTT file (Web Video Text Track file).
