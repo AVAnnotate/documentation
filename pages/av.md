@@ -7,7 +7,7 @@ nav_order: 6
 
 # AV File Formats and Support
 
-AVAnnotate references audio and video files hosted on other servers directly via URLs or through [IIIF manifests](iiif.md). The suggested means for making files available in these ways is to [upload files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/). 
+AVAnnotate references audio and video files hosted on other servers directly via URLs or through [IIIF manifests](iiif.md). Making files available in these ways is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/). 
 
 ## Note: 
 -Only File Paths, HLS, and DASH references will generate a valid IIIF manifest.  <br>
