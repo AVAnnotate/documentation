@@ -6,13 +6,17 @@ nav_order: 1
 ---
 # Quick Start: How to Use AVAnnotate
 
-## Step 1: Log into AVAnnotate with your GitHub credentials and create a new project
+## Step 1: Log into AVAnnotate with your GitHub credentials
 
-Navigate to the [AVAnnotate application](https://avannotate.netlify.app/) and sign in with your GitHub credentials, or create a new [GitHub](https://github.com/join) account by providing a username, email address, and password.
+ [Log into AVAnnotate now](https://avannotate.netlify.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+Sign in with your GitHub credentials, or create a new [GitHub](https://github.com/join) account by providing a username, email address, and password.
+
+## Step 2: Create a New Project
 
 Select `+ Add` and input information about the new project, including `Title` `Description` `Language` ` Project Slug` and `Project Authors` and `Collaborators`. For more information, see [Projects](https://avannotate.github.io/documentation/pages/projects/). 
 
-## Step 2: Locate a URL or IIIF Manifest for your AV file
+## Step 3: Locate a URL or IIIF Manifest for your AV file
 
 AVAnnotate does not store AV or image files. AVAnnoate references AV and image files through [URLs](https://avannotate.github.io/documentation/pages/av/) or [IIIF manifests](iiif.md).
 
