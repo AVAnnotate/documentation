@@ -1,7 +1,7 @@
 ---
 title: Collaborations
 layout: home
-nav_order: 10
+nav_order: 8
 ---
 # Collaborations
 Steps for including collaborators on projects:
