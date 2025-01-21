@@ -9,20 +9,22 @@ AVAnnotate projects can be downloaded and used offline or on a private server as
 
 1. Navigate to the user's project GitHub respository. Use the green `Code` button to `Download ZIP` and save the .zip file. Unzip the file on the local computer. A “site” directory contains the static pages. 
 2. The “site” folder contains a set of instructions for how to deploy a static AVAnnotate site to any web server (i.e. Apache, NginX).
-3. To run the site locally on your computer, the simplest approach is to use the Python web server.
+3. To run the site locally on a computer, the simplest approach is to use the Python web server.
    
-## Install Python
-[On Windows](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
-[On Mac](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
+``
+## Using the Python Web Server
+1. Install Python
+- [On Windows](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
+- [On Mac](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
 
 ## Run http.server
-1. Navigate to your local copy of the /site directory in the appropriate terminal for your OS.
+1. Navigate to the local copy of the /site directory in the appropriate terminal for the OS.
 2. Enter the following command at the terminal prompt:
-python3 -m http.server 8000
-3. Navigate your browser to ‘http://localhost:8000’
+`python3 -m http.server 8000`
+3. To view the project, navigate a browser to ‘http://localhost:8000’
 
-4. The instructions, pasted below, [are available online here](https://github.com/AVAnnotate/project-client/blob/develop/static-site-readme.md).
+``
 
-5. A static site can also be run locally on your machine. The 
+5. The instructions, pasted below, [are available online here](https://github.com/AVAnnotate/project-client/blob/develop/static-site-readme.md).
 
   
