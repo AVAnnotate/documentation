@@ -1,7 +1,7 @@
 ---
 title: User-Built Pages
 layout: home
-parent: Projects
-grand_parent: Pages
+parent: Pages
+grand_parent: Projects
 nav_order: 2
 ---
