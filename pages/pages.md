@@ -10,11 +10,21 @@ What appears on customized pages is entirely up to the user; users may add a pag
 
 Users can create customized pages for AV files, events, and clips that include text, whole events, or AV clips with or without associated annotations, event or AV clip comparisons, and images (via URL links).
 
-- AV with or without annotations
-- AV clips with or without annotations
-- Comparisons
-- Frames
-- Images
-- Table of Contents
-- Text
+# AV with or without annotations
+
+
+# AV clips with or without annotations
+
+
+# Comparisons
+
+
+
+# Frames
+
+# Images
+
+# Table of Contents
+
+# Text
  
