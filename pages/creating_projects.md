@@ -8,7 +8,7 @@ nav_order: 1
 Select `+ Add` and input information about the new project, including:
 - `GitHub Organization` Projects can be saved in any organization in which a user has write permissions in GitHub.
 - `Use Private Repository`
-- `Generate GitHub Pages Site` If unchecked a static site will be created and checked into the project repository.
+- `Generate GitHub Pages Site` If unchecked, a static site will be created in the project repository.
 - `Title` The title of the project will appear in the header on the site. 
 - `Description` The description will appear on the front page of the auto-generated site. 
 - `Language`
