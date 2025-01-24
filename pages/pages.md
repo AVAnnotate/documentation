@@ -13,5 +13,5 @@ What appears on customized pages is entirely up to the user. While AVAnnotate au
 - Explain the annotation choices made in the project;
 - List project contributors; etc.
 
-Users can create customized pages (see (User-Built Pages)[https://avannotate.github.io/documentation/pages/UserBuiltPages/]) for AV files, events, and clips that include text, entire events, or AV clips with or without associated annotations, event or AV clip comparisons, and images (via URL links).
+Users can create customized pages (see [Custom Pages](https://avannotate.github.io/documentation/pages/UserBuiltPages/)) for AV files, events, and clips that include text, entire events, or AV clips with or without associated annotations, event or AV clip comparisons, and images (via URL links).
  
