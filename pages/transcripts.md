@@ -4,7 +4,7 @@ layout: home
 parent: Resources
 nav_order: 1
 ---
-## Resources for creating transcripts.
+## Resources for Creating Transcripts
 
 1. A [Google Colab Notebook](https://github.com/tanyaclement/audio-class/blob/main/transcribe_audio_with_whisper.ipynb) for creating transcripts using Whisper AI. 
     1. Select the "Open in Colab" button which will go the user's Google Drive and open a Colab window.
