@@ -1,14 +1,3 @@
-Using the Mel Gussow Interview Recordings, students will identify an interview of interest of no less than an hour in length for which they will create a brief description and a transcript with annotations. These materials will be used to create pages for a selection of interviews as an AVAnnotate project.
-
-Students will:
-
-Identify a recording of interest, provide a link to the MP3, a citation, and a brief, one paragraph description of what’s on it. These descriptions can come from the metadata about the recording at Ransom Center. 
-Provide a spreadsheet (Google, Excel, or Numbers) with the following columns:
-Start time
-End time
-Annotations including an accurate transcript, separated by speaker and/or by a “natural” break in ideas depending on the nature of the recording and notes.
-Tags including speaker names (e.g., “Mel Gussow | Transcript”) and topics (e.g., Home Life | Notes).
-
 Other resources for creating transcripts.
 
  A Google Colab Notebook for creating transcripts using Whisper AI. 
