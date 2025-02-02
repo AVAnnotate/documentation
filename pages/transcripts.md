@@ -1,6 +1,11 @@
-Other resources for creating transcripts.
+title: Transcripts
+layout: home
+parent: Resources
+nav_order: 1
 
- A Google Colab Notebook for creating transcripts using Whisper AI. 
+* Resources for creating transcripts.
+
+A Google Colab Notebook for creating transcripts using Whisper AI. 
 Select the "Open in Colab" button which will go the user's Google Drive and open a Colab window.
 In the notebook, insert information about the file to be transcribed and the result file. (E.g., put the URL to the file or YouTube Video to be transcribed, select file type (.tsv, etc.), and "Download.")
 In the Colab menu, select "Runtime" and "Run All."
