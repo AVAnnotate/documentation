@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: Example Projects
 layout: home
 nav_order: 8
 ---
