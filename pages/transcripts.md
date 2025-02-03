@@ -17,7 +17,7 @@ nav_order: 1
     3. Copy the concatenated data in Column D.
     4. To paste the concatenated data in Column C, select the "first cell", right-click and choose "Paste Special" and "Value Only."
     5. Update the timestamps, keeping the Start time associated with the "first cell" and the End time associated with the last cell of the concatenated cells. Keep the extra rows until you have confirmed the speaker names.
-    6. Create a new Column E called Tags. Include the speaker name and a transcript tag separated by a pipe (Tanya Clement | Transcript).
+    6. Create a new Column E called Tags. Include the speaker name and a transcript tag separated by a pipe (Tanya Clement &#124; Transcript).
     7. Listen to the recording in areas where you are not sure who is speaking. Update the speaker names.
     8. Delete the extra rows, keeping the updated "first cell" of the concatenated rows.
     9. Delete the extra Column D. "Tags" will become the new Column D. 
