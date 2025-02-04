@@ -17,9 +17,9 @@ Using the Python Web Server
 - [On Windows](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
 - [On Mac](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
 2. Run http.server
-      1. Navigate to the local copy of the /site directory in the appropriate terminal for the OS.
+      1. Navigate to the local copy of the /site directory in the appropriate terminal for the OS. (On a Mac, shift+right-click on the /site directory and select 'New Terminal at Folder')
       2. Enter the following command at the terminal prompt: `python3 -m http.server 8000`
-4. To view the project, navigate a browser to ‘http://localhost:8000’
+3. To view the project, navigate a browser to ‘http://localhost:8000’
 
 ```
 These instructions [are also available online here](https://github.com/AVAnnotate/project-client/blob/develop/static-site-readme.md).
