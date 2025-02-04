@@ -11,4 +11,5 @@ Steps for including collaborators on projects:
 2. Determine the collaborator's GitHub username.
 3. In the AVAnnotate dashboard, open the project settings and navigate to `Users`, select `Add`.
 4. Enter the collaborator's GitHub username.
-5. When the collaborator logs into the AVAnnotate dashboard, the project will appear under the `Shared Projects` tab.
+5. When the collaborator logs into the AVAnnotate dashboard, the project will appear under the `Shared Projects` tab and that user will be able to edit the project.
+6. For other types of colloborations and permissions, please 
