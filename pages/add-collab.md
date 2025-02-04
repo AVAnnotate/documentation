@@ -1,11 +1,11 @@
 ---
-title: Adding Collaborators
+title: AVAnnotate Collaborators
 layout: home
 parent: Collaborations
 nav_order: 2
 ---
 
-# Adding Collaborators
+# Adding AVAnnotate Collaborators
 Steps for including collaborators on projects:
 1. Create a project. See "[Get Started](https://avannotate.github.io/documentation/pages/quickstart/)"
 2. Determine the collaborator's GitHub username.
