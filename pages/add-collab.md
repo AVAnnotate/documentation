@@ -2,7 +2,7 @@
 title: AVAnnotate Collaborators
 layout: home
 parent: Collaborations
-nav_order: 2
+nav_order: 1
 ---
 
 # Adding AVAnnotate Collaborators
