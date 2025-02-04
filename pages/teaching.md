@@ -1,7 +1,7 @@
 ---
 title: Teaching
 layout: home
-parent: Examples
+parent: Example Projects
 nav_order: 3
 ---
 ## Teaching Examples
