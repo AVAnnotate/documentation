@@ -9,7 +9,10 @@ nav_order: 2
 Custom pages can be used for the home page; event pages or other pages with text; AV clips with or without associated annotations; AV event or clip comparisons; and images (via URL links).
 
 Home and Event pages can be customized by disabling [auto-generation](https://avannotate.github.io/documentation/pages/auto/). To disable auto-generation on a given Home or Event page, click on the three dots and select “Disable Auto-Generation.” Image 1 illustrates how to disable auto-generation on the project dashboard.
--image 1 goes here
+
+![image 1 goes here](../../assets/images/small-image.jpg)
+
+
 ![Image 1](pages/assets/customimage1.png)
 
 Custom author-generated pages may include context about events and clips, but can also comprise events and clips. Create a custom author-generated page by clicking on the “Add” button in the project dashboard. 
