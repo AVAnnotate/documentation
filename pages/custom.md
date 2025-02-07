@@ -22,14 +22,14 @@ nav_order: 2
 <br>
 <br>
 
-### Once the page is added, authors can add a title and text; assign a parent page; and customize the page layout using the "Insert" option.<br>
+### Once the page is added, authors can add a title and text; assign a parent page; and customize the text on the page via the rich text editor.<br>
 ![Image 3: Custom text editor layout options](../assets/customimage3.png) 
 **Image 3: Custom text editor layout options**
 <br>
 <br>
 <br>
 
-### Authors have many choices for how to customize page layout on custom pages.<br> 
+### Project authors can also customize page layout on custom pages.<br> 
 ![Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)](../assets/customimage4.png)
 **Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)**
 <br>
