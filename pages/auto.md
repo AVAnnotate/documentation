@@ -30,7 +30,7 @@ nav_order: 1
 
 ### Auto-generated Event pages by default feature a media player alongside space for the project author’s user-generated annotations.<br> 
 ![Image 4](../assets/autoimage4.png)
-**Image 4: Public-facing/front-end view of an auto-generated video event page. At its most basic, an auto-generated event page contains 1) a title (and optional description), and 2) a media player to display the A/V event that has been uploaded to the project.** 
+**Image 4: Front-end view of an auto-generated video event page. The most basic auto-generated event page contains 1) a title (and optional description), and 2) a media player to display the A/V event that has been uploaded to the project.** 
 <br>
 <br>
 <br>
