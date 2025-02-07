@@ -12,18 +12,26 @@ nav_order: 2
 ![Image 1: How to disable auto-generation on the project dashboard](../assets/customimage1.png)
 Image 1: How to disable auto-generation on the project dashboard
 <br>
+<br>
+<br>
 
 ### Custom author-generated pages may include context about events and clips, but can also comprise events and clips. Create a custom author-generated page by clicking on the “Add” button in the project dashboard.<br>
 ![Image 2: How to add a custom author-generated page](../assets/customimage2.png) 
 Image 2: How to add a custom author-generated page
+<br>
+<br>
 <br>
 
 ### Once the page is added, authors can add a title and text; assign a parent page; and customize the page layout using the "Insert" option.<br>
 ![Image 3: Custom text editor layout options](../assets/customimage3.png) 
 Image 3: Custom text editor layout options
 <br>
+<br>
+<br>
 
 ### Authors have many choices for how to customize text layout through custom pages.<br> 
 ![Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)](../assets/customimage4.png)
 Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)
+<br>
+<br>
 <br>
