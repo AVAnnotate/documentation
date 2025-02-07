@@ -29,7 +29,7 @@ Image 3: Custom text editor layout options
 <br>
 <br>
 
-### Authors have many choices for how to customize text layout through custom pages.<br> 
+### Authors have many choices for how to customize page layout on custom pages.<br> 
 ![Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)](../assets/customimage4.png)
 Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)
 <br>
