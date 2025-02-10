@@ -10,7 +10,7 @@ nav_order: 2
 ### Home and Event pages can be customized by disabling [auto-generation](https://avannotate.github.io/documentation/pages/auto/). To disable auto-generation on a given Home or Event page, click on the three dots and select “Disable Auto-Generation.” <br>
 ![Image 1: How to disable auto-generation on the project dashboard](../assets/customimage1.png)
 
-![Testing](../../assets/images/customimage1.png)
+![Testing](../../assets/customimage1.png)
 **Image 1: How to disable auto-generation on the project dashboard**
 <br>
 <br>
