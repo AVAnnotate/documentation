@@ -10,7 +10,7 @@ Auto-generated pages are selected on the [Add a Project](https://avannotate.gith
 
 ## When adding an Event, "auto-generate web page" is toggled on by default, but can be disabled at any point in the Event settings.
 ![Image 1: Auto-generate web page is toggled on by default, but can be disabled at any point](../assets/autoimage1.png)
-![Testing](../assets/autoimage1.png)
+![Testing](./assets/autoimage1.png)
 **Image 1: Authors can toggle "auto-generate web page" on/off on "Add Event" page**
 
 ## On the dashboard for a project, auto-generated pages are marked as “Auto-Generated - Home” (to indicate the project home page) or “Auto-Generated - Event” (to indicate an event page).<br>
