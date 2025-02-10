@@ -22,7 +22,7 @@ Auto-generated pages are selected on the [Add a Project](https://avannotate.gith
 <br>
 <br>
 
-## Disable auto-generated home and event pages by selecting the three dots and clicking "Disable Auto-Generation," creating a [custom page](https://avannotate.github.io/documentation/pages/custom/).<br>
+## Disable auto-generated home and event pages by selecting the three-dot menu and clicking "Disable Auto-Generation." This will generate an empty page for creating a [custom page](https://avannotate.github.io/documentation/pages/custom/).<br>
 ![Image 3: ](../assets/autoimage3.png) 
 **Image 3: A project with auto-generated events pages and a custom project home page, which is not tagged as “Auto-Generated Home” because the project’s author disabled auto-generation in order to customize the home page.**
 <br>
