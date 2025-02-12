@@ -38,7 +38,7 @@ Timestamped annotations are added to each AV file. Annotations and timestamps ar
 
 Users can create auto-generated pages for each event as well as design custom pages that include text, whole events, or AV clips with or without associated annotations, event or AV clip comparisons, and images (via URL links). What appears on these pages is entirely up to the user; users may add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc. For more information, see [Pages](https://avannotate.github.io/documentation/pages/pages/).
 
-## Step 6: Share your AVAnnotate project with the world!
+## Step 8: Share your AVAnnotate project with the world!
 
 ## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/tips/) before getting started and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for bulk uploading using spreadsheets. 
 
