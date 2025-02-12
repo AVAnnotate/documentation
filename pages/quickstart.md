@@ -28,7 +28,7 @@ Select `+ Add` and input information about the new event, including the event `L
 
 ## Step 4: Add tags
 
-"Tags" are labels used in the published project to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For more information, see [Tags](https://avannotate.github.io/documentation/pages/tags/).
+"Tags" are labels used in the published project to index, organize, and discover topics in the annotations. Groups can be used to organize the tags. For more information, see [Tags](https://avannotate.github.io/documentation/pages/tags/).
 
 ## Step 5: Add annotations and timestamps
 
