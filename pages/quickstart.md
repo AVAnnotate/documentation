@@ -14,7 +14,7 @@ Sign in with your GitHub credentials, or create a new [GitHub](https://github.co
 
 ## Step 2: Create a New Project
 
-Select `+ Add` and input information about the new project, including `Title` `Description` `Language` ` Project Slug` and `Project Authors` and `Collaborators`. For more information, see [Projects](https://avannotate.github.io/documentation/pages/projects/). 
+Select `+ Add` and input information about the new project, including `Title` `Description` `Language` `Project Slug` and `Project Authors` and `Collaborators`. For more information, see [Projects](https://avannotate.github.io/documentation/pages/projects/). 
 
 ## Step 3: Locate a URL or IIIF Manifest for your AV file
 
