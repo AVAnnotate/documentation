@@ -33,15 +33,15 @@ This template organizes the events in a project and associates the AV files with
 
 ---
 ## [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
-This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags into groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the category “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a category). Consistency with the spelling and capitalization of tags is imperative. Different spelling or capitalizations = different tags. 
+This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Group  can be used to organize the tags. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the group “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a group). Consistency with the spelling and capitalization of tags is imperative. Different spelling or capitalizations = different tags. 
 
 **Note:** 
-A tag can belong to multiple categories. For example, the tag “Zora Neale Hurston” may be found in the categories “Speaker” and “Topic” (depending on the event context) or may not be categorized at all. 
+A tag can belong to multiple groups. For example, the tag “Zora Neale Hurston” may be found in the groups “Speaker” and “Topic” (depending on the event context) or may not be categorized as part of a group at all. 
 A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anzaldúa, Texas, 1942-2004"), but should adhere to "Safe URL" guidelines (see [Tags](https://avannotate.github.io/documentation/pages/tags/)).
 
 **Spreadsheet Header** <br>
-**Tag:** Each unique tag that occurs across the project. Tags are only repeated if they belong to multiple categories.<br>
-**Category:** Each unique category that occurs across the project. Categories may not repeat.<br>
+**Tag:** Each unique tag that occurs across the project. Tags are only repeated if they belong to multiple groups.<br>
+**Group:** Each unique category of tag that occurs across the project. Groups may not repeat.<br>
 
 ---
 ## [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
@@ -52,8 +52,8 @@ Annotations are linked to an event as part of the upload process.
 Annotations may overlap in time and will appear in sequence in the interface according to the earliest start time.
 
 **Spreadsheet Header** <br>
-**Start Time:**  marks the point in time in minutes and seconds that is the target of an annotation. <br>
-**End Time:**  may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
+**Start Time:**  Marks the point in time in minutes and seconds that is the target of an annotation. <br>
+**End Time:**  May be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
 **Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) Basic HTML tags are allowed in the body of annotations including: `b`
 `em`
 `i`
@@ -63,7 +63,7 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 `blockquote`
 `p`
 `a`<br>
-**Tags:** (optional) are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”).<br> 
+**Tags:** (optional) are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple groups, the group must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”).<br> 
 
 {: .warning }
 > **Important Note:** In the current version, tags are optional in the spreadsheeet upload but the header "tag" is required. Oterwise, the column can remain blank. 
