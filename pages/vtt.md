@@ -1,7 +1,7 @@
 ---
 title: WebVTT
 layout: home
-parent: Annotations
+parent: Timestamped Annotations
 nav_order: 1
 ---
 # Uploading WebVTT files with speaker names.
