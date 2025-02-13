@@ -9,7 +9,8 @@ nav_order: 1
 Auto-generated pages are selected on the [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/) page and the [Add an Event](https://avannotate.github.io/documentation/pages/events/) page. When auto-generated pages are selected in `Event,` AVAnnotate will generate a home page with a table of contents. If an 'Event' has an auto-generated page, the published event page will include a media player, annotations, and a description. Auto-generated pages appear in the generated Table of Contents and navigation menu. 
 
 ### Authors can toggle "auto-generate web page" on/off on "Add Event" page
-When adding an Event, "auto-generate web page" is toggled on by default, but can be disabled at any point in the Event settings.<br><br>
+When adding an Event, "auto-generate web page" is toggled on by default, but can be disabled at any point in the Event settings.
+<br><br>
 ![Image 1: Auto-generate web page is toggled on by default, but can be disabled at any point](../../assets/autoimage1.png)
 
 ### Home and Event auto-generated pages in the dashboard.
