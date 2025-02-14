@@ -12,22 +12,28 @@ Auto-generated pages are selected on the [Add a Project](https://avannotate.gith
 When adding an Event, "auto-generate web page" is toggled on by default, but can be disabled at any point in the Event settings.
 <br><br>
 ![Image 1: Auto-generate web page is toggled on by default, but can be disabled at any point](../../assets/autoimage1.png)
+<br><br>
 
-### Home and Event auto-generated pages in the dashboard.
+### Home and Event auto-generated pages in the dashboard
 On the dashboard for a project, auto-generated pages are marked as “Auto-Generated - Home” (to indicate the project home page) or “Auto-Generated - Event” (to indicate an event page).<br>
 ![Image 2: Home and Event auto-generated pages in the dashboard.](../../assets/autoimage2.png)
+<br><br>
 
-
-Disable auto-generated home and event pages by selecting the three-dot menu and clicking "Disable Auto-Generation." This will generate an empty page for creating a [custom page](https://avannotate.github.io/documentation/pages/custom/).<br>
+### Pages will be designated "Auto-Generated" until the project's author disables auto-generation in order to customize the page. A project with auto-generated events pages can contain a custom project home page, and vice versa.
+Disable auto-generated home and event pages by selecting the three-dot menu and clicking "Disable Auto-Generation." This will generate an empty page for creating a [custom page](https://avannotate.github.io/documentation/pages/custom/).
+<br><br>
 ![Image 3: ](../../assets/autoimage3.png) 
-**Image 3: A project with auto-generated events pages and a custom project home page, which is not tagged as “Auto-Generated Home” because the project’s author disabled auto-generation in order to customize the home page.**
+<br><br>
 
-Auto-generated Event pages by default feature a media player alongside space for the project author’s user-generated annotations.<br> 
+### The most basic auto-generated event page contains 1) a title (and optional description), and 2) a media player to display the A/V event that has been uploaded to the project.
+Auto-generated Event pages by default feature a media player alongside space for the project author’s user-generated annotations.
+<br><br>
 ![Image 4](../../assets/autoimage4.png)
-**Image 4: Front-end view of an auto-generated video event page. The most basic auto-generated event page contains 1) a title (and optional description), and 2) a media player to display the A/V event that has been uploaded to the project.** 
+<br><br>
 
-Once the user uploads annotations for an event, they will display next to (video) or under (audio) the media player.<br>
+### Layout for an auto-generated Event page with imported annotations.
+Once the user uploads annotations for an event, they will display next to (video) or under (audio) the media player.
+<br><br>
 ![Image 5](../../assets/autoimage5.png)
-**Image 5: Layout for an auto-generated Event page with imported annotations**
-
+<br><br>
 
