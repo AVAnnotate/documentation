@@ -20,7 +20,6 @@ Custom author-generated pages may include context about the project's events and
 <br><br>
 ![Image 2: How to add a custom author-generated page](../../assets/customimage2.png) 
 <br><br>
-<br>
 
 ### Custom text editor layout options
 Once the page is added, authors can add a title and text; assign a parent page; and customize the text on the page via the rich text editor.
@@ -34,6 +33,5 @@ Insert page layout options including columns, horizontal separators, and single 
 <br><br>
 ![Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)](../../assets/customimage4.png)
 <br><br>
-<br>
 
 
