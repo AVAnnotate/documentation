@@ -13,7 +13,6 @@ To disable auto-generation on a given Home or Event page, click on the three dot
 <br><br>
 ![Image 1: How to disable auto-generation on the project dashboard](../../assets/customimage1.png)
 <br><br>
-<br>
 
 ### Create a custom author-generated page by clicking on the “Add” button in the project dashboard
 Custom author-generated pages may include context about the project's events and clips, but can also comprise events and/or event clips. 
