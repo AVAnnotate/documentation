@@ -19,12 +19,14 @@ On the dashboard for a project, auto-generated pages are marked as “Auto-Gener
 ![Image 2: Home and Event auto-generated pages in the dashboard.](../../assets/autoimage2.png)
 <br><br>
 <br>
+
 ### Pages will be designated "Auto-Generated-Event" or "Auto-Generated-Home" until the project's author disables auto-generation in order to customize the page
 Disable auto-generated home and event pages by selecting the three-dot menu and clicking "Disable Auto-Generation." This will generate an empty page for creating a [custom page](https://avannotate.github.io/documentation/pages/custom/).
 <br><br>
 ![Image 3: ](../../assets/autoimage3.png) 
 <br><br>
 <br>
+
 ### The most basic auto-generated event page contains 1) a title (and optional description), and 2) a media player to display the A/V event that has been uploaded to the project
 Auto-generated Event pages by default feature a media player alongside space for the project author’s user-generated annotations.
 <br><br>
