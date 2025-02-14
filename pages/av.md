@@ -7,31 +7,40 @@ nav_order: 6
 
 # AV File Formats and Support
 
-AVAnnotate references audio and video files hosted on other servers directly via URLs or through [IIIF manifests](iiif.md). Making files available in these ways is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/). 
+AVAnnotate references audio and video files hosted on other servers directly via URLs or through [IIIF manifests](iiif.md). 
 
-## Note: 
--Only File Paths, HLS, and DASH references will generate a valid IIIF manifest.  <br>
--The player does not support files shared through links that reference Box, Dropbox, or Google Drive.
+# Hosting AV 
+AVAnnotate does not host audio and video files. Making files available is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/) where direct links to .mp3 and .mp4 files are easy to find. Simply follow [the download directions](https://help.archive.org/help/how-to-download-files/) and instead of downloading, click on the file name and copy the URL to the file.
 
-## Video Formats:
-**File Paths:** Play video files directly hosted on a server or accessible via URLs, such as MP4, MOV, AVI, MKV, and more.  <br>
-**YouTube:** Embed YouTube videos using their URLs.  <br>
-**Facebook:** Embed Facebook videos using their URLs.  <br>
-**Vimeo:** Embed Vimeo videos using their URLs.  <br>
-**DailyMotion:** Embed DailyMotion videos using their URLs.  <br>
-**Twitch:** Embed Twitch streams using their URLs.  <br>
-**Wistia:** Embed Wistia videos using their URLs.  <br>
-**Streamable:** Embed Streamable videos using their URLs.  <br>
-**SoundCloud:** Embed SoundCloud tracks using their URLs.  <br>
-**Mixcloud:** Embed Mixcloud tracks using their URLs.  <br>
-**HLS (HTTP Live Streaming):** Play live and on-demand video streams using HLS.  <br>
-**DASH (Dynamic Adaptive Streaming over HTTP):** Play video streams using DASH.  <br>
+## Valid Formats for IIIF Manifests
+Only File Paths, HLS, and DASH references will generate a valid IIIF manifest. 
 
-## Audio Formats:
-**File Paths:** Directly play audio files like MP3, WAV, OGG, etc.  <br>
-**SoundCloud:** Play SoundCloud tracks as mentioned above.  <br>
-**Mixcloud:** Play Mixcloud tracks as mentioned above.  <br>
+### Video
+- **File Paths:** Video files directly hosted on a server or accessible via URLs, such as MP4, MOV, AVI, and MKV, etc. 
+- **HLS (HTTP Live Streaming):** Live and on-demand video streams using HLS
+- **DASH (Dynamic Adaptive Streaming over HTTP):** Video streams using DASH
 
-## Offline AV
-AVAnnotate will create projects without URLS. Users can toggle `URL` to `Offline` on the `Event` settings page or, see more information in [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) on creating bulk uploads without AV URLs.
+- ## Audio
+**File Paths:** Audio files directly hosted on a server or accessible via URLs like MP3, WAV, OGG, etc.
+
+### Formats that are Invalid for IIIF Manifests
+These file types will appear in published projects but will not appear in the associated IIIF manifests.
+
+### Video
+- **YouTube:** YouTube URLs  
+- **Facebook:** Facebook URLs 
+- **Vimeo:** Vimeo URLs
+- **DailyMotion:** DailyMotion URLs
+- **Twitch:** Twitch stream URLs
+- **Wistia:** Wistia URLs
+- **Streamable:** Streamable URLs
+- **SoundCloud:** SoundCloud URLs
+- **Mixcloud:** Mixcloud URLs
+- 
+### Audio
+- **SoundCloud:** SoundCloud tracks.
+- **Mixcloud:** Mixcloud tracks
+
+# Offline AV
+Note: AVAnnotate projects may include AV Events without media URLS. Users can toggle `URL` to `Offline` in the `Event` settings. See more information in [Events](https://avannotate.github.io/documentation/pages/events/) and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) on creating bulk uploads without AV URLs.
 
