@@ -8,7 +8,7 @@ nav_order: 1
 
 ![Image 1](../../assets/addprojectimage1.png)
 
-Select `+ Add` and input information about the new project, including:
+### Select `+ Add` and input information about the new project, including:
 - `GitHub Organization` Projects can be saved in any organization in which a user has write permissions in GitHub.
 - `Use Private Repository`
 - `Generate GitHub Pages Site` If unchecked, a static site will be created in the project repository.
