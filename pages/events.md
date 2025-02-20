@@ -8,7 +8,7 @@ nav_order: 2
 An “Event” in AVAnnotate can comprise single or multiple AV files and single or multiple sets of annotations. AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_iiif_resources/) for each event. Event pages can be [auto-generated](https://avannotate.github.io/documentation/pages/auto/) or [created by the user](https://avannotate.github.io/documentation/pages/custom/).
 
 ### Add new events by selecting `+ Add` on the Event dashboard
-<br><br>
+<br>
 ![Image 1](../../assets/eventimage1.png)
 <br><br>
 
