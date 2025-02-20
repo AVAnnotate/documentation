@@ -14,17 +14,11 @@ Tags are labels used in a published AVAnnotate project to index, organize, and d
 The AVAnnotate TMS can be used to:
 - Upload [Tag Spreadsheets](https://avannotate.github.io/documentation/pages/templates/) and create project-level tags and tag groups. Tag spreadsheets should be imported before annotation spreadsheets that have tags; when annotation spreadsheets containing tags are imported, they are matched to the tags.
 - Modify and delete individual tags and tag groups. Once modified, tags and groups will change across all annotations.
-![Image 1](../../insert tagsimage1)
-taggroupimage1
+![Image 1](../../assets/addtagsimage1.png)
 
 
 ## Creating Tags
-Add tags to a project by selecting `Tags` uploading a completed tag spreadsheet. 
-[insert image]
-
-*Check and double check all project tags!* 
-
-Tags should only be comprised of URL-safe characters, including commas and the following characters with and without accents:
+*Check and double check all project tags!* Tags should only be comprised of URL-safe characters, including commas and the following characters with and without accents:
 
 ```
 a b c d e f g h I j k l m n o p q r s t u v w x y z
