@@ -25,7 +25,10 @@ Note: Annotation sets can be added to an event after the event has been added an
 
 ### Edit events by clicking into an event on the dashboard, and then selecting `Edit` 
 <br>
-![Image 2](../../assets/eventimage2.png) 
-<br><br>
+![Image 2](../../assets/eventimage2.png)
 
+On the edit page, modify information about the event media (Label, Item Type, etc.) and add annotation sets. 
+<br>
+
+![Image 3](insert) 
   
