@@ -29,8 +29,8 @@ Note: Annotation sets can be added to an event after the event has been added an
 
 ![Image 2](../../assets/eventimage2.png)
 
-On the edit page, modify information about the event media (Label, Item Type, etc.) and add annotation sets. 
+On the edit page, modify information about the event media (Label, Item Type, AV Label, etc.) and add annotation sets. 
 <br>
 
 ![Image 3](../../assets/eventimage3.png) 
-  
+![Image 4](insert) 
