@@ -9,6 +9,7 @@ An “Event” in AVAnnotate can comprise single or multiple AV files and single
 
 ### Add new events by selecting `+ Add` on the Event dashboard
 <br>
+
 ![Image 1](../../assets/eventimage1.png)
 <br><br>
 
@@ -25,10 +26,11 @@ Note: Annotation sets can be added to an event after the event has been added an
 
 ### Edit events by clicking into an event on the dashboard, and then selecting `Edit` 
 <br>
+
 ![Image 2](../../assets/eventimage2.png)
 
 On the edit page, modify information about the event media (Label, Item Type, etc.) and add annotation sets. 
 <br>
 
-![Image 3](insert) 
+![Image 3](../../assets/eventimage3.png) 
   
