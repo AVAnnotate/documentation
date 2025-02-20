@@ -33,4 +33,4 @@ On the edit page, modify information about the event media (Label, Item Type, AV
 <br>
 
 ![Image 3](../../assets/eventimage3.png) 
-![Image 4](insert) 
+![Image 4](../../assets/eventimage4.png) 
