@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Add a Project
 
-![Image 1](../../insert)
+![Image 1](../../assets/addprojectimage1.png)
 
 Select `+ Add` and input information about the new project, including:
 - `GitHub Organization` Projects can be saved in any organization in which a user has write permissions in GitHub.
