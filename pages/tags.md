@@ -16,6 +16,7 @@ The AVAnnotate TMS can be used to:
 - Modify and delete individual tags and tag groups. Once modified, tags and groups will change across all annotations.
 ![Image 1](../../assets/addtagsimage1.png)
 ![Image 2](../../assets/addtaggroupsimage1.png)
+![Image 3](../../assets/edittagimage1.png)
 
 ## Creating Tags
 *Check and double check all project tags!* Tags should only be comprised of URL-safe characters, including commas and the following characters with and without accents:
