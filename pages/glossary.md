@@ -6,8 +6,6 @@ nav_order: 2
 ---
 # AVAnnotate Glossary
 
-To familiarize users with AVAnnotate terms, this page serves as an AVAnnotate term glossary. 
-
 **Annotation:** [Annotations](https://avannotate.github.io/documentation/pages/annotations/) are user-created and correspond to a point of time or a range of time in the audio or video. Annotations contain information about the media that might include a transcript; captions; information about features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises, like fans or car horns; or conceptual notes or themes among a wide range of possible topics. Annotations are optionally associated with tags, which allows for searching and indexing annotations across a project.
 
 **Annotation Set:** [Annotation sets](https://avannotate.github.io/documentation/pages/annotations/) refer to multiple sets of annotations that can be associated with a given media. Media that might refer to multiple annotation could include one annotation set in English and one annotation set in Spanish or different annotation sets for transcripts and caption annotations. Tags and tag groups can be associated with particular annotation sets, and annotation sets can be filtered separately on the published site. 
