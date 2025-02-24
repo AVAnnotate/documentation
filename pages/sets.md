@@ -1,7 +1,7 @@
 ---
 title: Annotation Sets
 layout: home
-parent: Timestamped Annotations
+parent: Annotations
 nav_order: 2
 ---
 # Creating and Modifying Annotation Sets
