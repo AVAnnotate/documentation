@@ -5,10 +5,9 @@ grand_parent: Projects
 parent: Pages
 nav_order: 1
 ---
-# Creating and Disabling Auto-Generated Pages 
-Auto-generated pages are selected on the [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/) page and the [Add an Event](https://avannotate.github.io/documentation/pages/events/) page. When auto-generated pages are selected in `Event,` AVAnnotate will generate a home page with a table of contents. 
-
-If an 'Event' has an auto-generated page, the published event page will include a media player, annotations, and a description. Links to auto-generated pages also appear in the generated Table of Contents and navigation menu. 
+# Creating and Disabling Auto-Generated Projects 
+AVAnnotate will create an auto-generated project when selected on the [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/). The auto-generated project will have a Home Page including a generated Table of Contents, a page for each Event created, an index with any created [Tags](https://avannotate.github.io/documentation/pages/tags/), and and a navigation menu. Auto-generated pages can also be created for each Event when selected on the [Add an Event](https://avannotate.github.io/documentation/pages/events/) page. 
+If an Event has an auto-generated page, the published Event page will include a media player, annotations, and a description. 
 <br><br>
 ![Image 4: ](../../assets/autoimage4.png)
 <br><br>
