@@ -1,7 +1,8 @@
 ---
 title: Delete and Transfer
 layout: home
-parent: Projects
+parent: Add a Project
+grand_parent: Projects
 nav_order: 6
 ---
 # Deleting Projects and Transfering Ownership
