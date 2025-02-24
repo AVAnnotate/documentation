@@ -1,5 +1,5 @@
 ---
-title: Auto-Generated
+title: Auto-Generated Projects
 layout: home
 grand_parent: Projects
 parent: Pages
