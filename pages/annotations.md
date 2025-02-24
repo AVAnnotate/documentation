@@ -1,5 +1,5 @@
 ---
-title: Timestamped Annotations
+title: Annotations
 layout: home
 parent: Projects
 nav_order: 4
