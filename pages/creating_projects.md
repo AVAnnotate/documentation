@@ -1,5 +1,5 @@
 ---
-title: Add a Project
+title: Create a Project
 layout: home
 parent: Projects
 nav_order: 1
