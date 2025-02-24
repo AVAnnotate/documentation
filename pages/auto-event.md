@@ -2,6 +2,7 @@
 title: Auto-Generated
 layout: home
 parent: Events
+grand_parent: Projects
 nav_order: 1
 ---
 # Auto-Generated Event Pages
