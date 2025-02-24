@@ -1,8 +1,7 @@
 ---
 title: Auto-Generated
 layout: home
-grand_parent: Events
-parent: Pages
+parent: Events
 nav_order: 1
 ---
 # Auto-Generated Event Pages
