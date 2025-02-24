@@ -1,7 +1,7 @@
 ---
 title: Creating and Modifying
 layout: home
-parent: Timestamped Annotations
+parent: Annotations
 nav_order: 1
 ---
 # Creating and Modifying Timestamped Annotations
