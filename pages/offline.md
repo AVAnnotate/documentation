@@ -1,7 +1,8 @@
 ---
 title: Offline
 layout: home
-parent: Projects
+parent: Add a Project
+grand_parent: Projects
 nav_order: 6
 ---
 # Creating Offline or Alternative Server Projects
