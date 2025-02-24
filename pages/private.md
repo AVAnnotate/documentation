@@ -1,7 +1,8 @@
 ---
 title: Private
 layout: home
-parent: Projects
+parent: Add a Project
+grand_parent: Projects
 nav_order: 7
 ---
 
