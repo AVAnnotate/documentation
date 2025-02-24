@@ -2,7 +2,7 @@
 title: Auto-Generated
 layout: home
 grand_parent: Projects
-parent: Add a Project
+parent: Create a Project
 nav_order: 1
 ---
 # Creating and Disabling Auto-Generated Projects 
