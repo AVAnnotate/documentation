@@ -1,5 +1,5 @@
 ---
-title: Auto-Generated
+title: Auto-Generated Events
 layout: home
 parent: Events
 grand_parent: Projects
