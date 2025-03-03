@@ -10,7 +10,7 @@ nav_order: 2
 
 **Annotation Set:** [Annotation sets](https://avannotate.github.io/documentation/pages/annotations/) refer to multiple sets of annotations that can be associated with a given media. Media that might refer to multiple annotation could include one annotation set in English and one annotation set in Spanish or different annotation sets for transcripts and caption annotations. Tags and tag groups can be associated with particular annotation sets, and annotation sets can be filtered separately on the published site. 
 
-**Event:** An [event](https://avannotate.github.io/documentation/pages/events/) comprises single or multiple AV files, which may be optionally associated with annotations in a project. 
+**Event:** An [Event](https://avannotate.github.io/documentation/pages/events/) comprises single or multiple AV files, which may be optionally associated with annotations in a project. 
 
 **Index:** The index is a set of auto-generated pages that organizes and visualizes tag groups and tags across the project, allowing users to search, filter, and compare annotations, tags, and tag groups.
 
