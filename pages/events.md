@@ -10,7 +10,7 @@ An “Event” in AVAnnotate can comprise single or multiple AV files and single
 ### Add new events by selecting `+ Add` on the Event dashboard
 <br>
 ![Image 1](../../assets/eventimage1.png)
-<br><br>
+<br>
 
 ### Input information about the new event, including: 
 - `Label` A descriptive title of the event
