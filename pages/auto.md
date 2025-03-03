@@ -1,10 +1,11 @@
 ---
 title: Auto-Generated
 layout: home
-grand_parent: Projects
 parent: Pages
+grand_parent: Projects
 nav_order: 1
 ---
+
 # Creating and Disabling Auto-Generated Pages 
 AVAnnotate will create auto-generated pages for a project when selected on [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/). The auto-generated pages will include a generated Home Page with a generated Table of Contents, a page for each Event created, an index with any created [Tags](https://avannotate.github.io/documentation/pages/tags/), and  a navigation menu. 
 
