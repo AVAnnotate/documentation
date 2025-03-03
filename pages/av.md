@@ -1,8 +1,9 @@
 ---
-title: AV File Formats and Support
+title: AV Items
 layout: home
-parent: Get Started
-nav_order: 6
+parent: Create a Project
+grand_parent: Projects
+nav_order: 1
 ---
 
 # AV File Formats and Support
