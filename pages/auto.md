@@ -1,13 +1,15 @@
 ---
 title: Auto-Generated
 layout: home
-grand_parent: Projects
+grand_parent: Pages
 parent: Create a Project
 nav_order: 1
 ---
-# Creating and Disabling Auto-Generated Projects 
-AVAnnotate will create an auto-generated project when selected on the [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/). The auto-generated project will have a Home Page including a generated Table of Contents, a page for each Event created, an index with any created [Tags](https://avannotate.github.io/documentation/pages/tags/), and and a navigation menu. Auto-generated pages can also be created for each Event when selected on the [Add an Event](https://avannotate.github.io/documentation/pages/events/) page. 
-If an Event has an auto-generated page, the published Event page will include a media player, annotations, and a description. 
+# Creating and Disabling Auto-Generated Pages 
+AVAnnotate will create auto-generated pages for a project when selected on [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/). The auto-generated pages will include a generated Home Page with a generated Table of Contents, a page for each Event created, an index with any created [Tags](https://avannotate.github.io/documentation/pages/tags/), and  a navigation menu. 
+
+### Auto-generate event page
+Auto-generated pages can also be created for each Event when selected on the [Add an Event](https://avannotate.github.io/documentation/pages/events/) page. If an Event has an auto-generated page, the published Event page will include a media player, annotations, and a description. 
 <br><br>
 ![Image 4: ](../../assets/autoimage4.png)
 <br><br>
@@ -17,7 +19,6 @@ Once the user uploads annotations for an event, they will display next to (video
 ![Image 5](../../assets/autoimage5.png)
 <br><br>
 
-### Auto-generate event page
 On the [Event](https://avannotate.github.io/documentation/pages/events/) edit page, "auto-generate web page" is toggled on by default, but can be disabled at any point in the Event settings.
 <br><br>
 ![Image 1: Auto-generate web page is toggled on by default, but can be disabled at any point](../../assets/autoimage1.png)
