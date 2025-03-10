@@ -19,7 +19,6 @@ Researchers creating projects with AVAnnotate should read through this documenta
 Basic AVAnnotate project components include [Events](https://avannotate.github.io/documentation/pages/events/), [Tag Groups (or categories) and Tags](https://avannotate.github.io/documentation/pages/tags/), [Annotation Sets](https://avannotate.github.io/documentation/pages/sets/) and [Annotations](https://avannotate.github.io/documentation/pages/create-ann/). Users can deploy these components on published AVAnnotate project pages.  
 <br>
 ![Project1Image](../project.png)
-![Project1Image](../../assets/project1.png)
 <br>
 
 # Get Help
