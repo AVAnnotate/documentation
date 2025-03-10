@@ -10,6 +10,8 @@ nav_order: 2
 
 **Annotation Set:** [Annotation sets](https://avannotate.github.io/documentation/pages/annotations/) refer to multiple sets of annotations that can be associated with a given media. Media that might refer to multiple annotation could include one annotation set in English and one annotation set in Spanish or different annotation sets for transcripts and caption annotations. Tags and tag groups can be associated with particular annotation sets, and annotation sets can be filtered separately on the published site. 
 
+**AV Items:** AV items in AVAnnotate refer to AV moving-image or sound artifacts (both digital and analog). In AVAnnotate, annotations are associated with timestamps that correspond to these time-based artifacts. AV items are playable in an AVAnnotate project when they have been digitized, are freely available online, and can be referenced [as links.](https://avannotate.github.io/documentation/pages/av/) AVAnnotate does not store AV items. While users can still create and display indexable, time-stamped annotations for “Offline Media” such as Analog AV artifacts and digital AV artifacts that are not available online, these media cannot be referenced via links and are therefore not playable in an AVAnnotate project. 
+
 **Event:** An [Event](https://avannotate.github.io/documentation/pages/events/) comprises single or multiple AV files, which may be optionally associated with annotations in a project. 
 
 **Index:** The index is a set of auto-generated pages that organizes and visualizes tag groups and tags across the project, allowing users to search, filter, and compare annotations, tags, and tag groups.
