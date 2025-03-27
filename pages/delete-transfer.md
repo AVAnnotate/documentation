@@ -10,6 +10,7 @@ Every AVAnnotate project corresponds to a repository in the user's GitHub accoun
 <br><br>
 ![Image 1: How to delete and transfer ownership of a project](../../assets/transferdeleteimage1.png) 
 <br><br>
+
 Further information can be found on the GitHub documentation:
 1. [Transfering a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository)
 2. [Deleting ownership of a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository) 
