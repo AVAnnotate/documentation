@@ -15,3 +15,8 @@ Annotations always correspond to an associated event. To add annotations to an e
 Selecting an event will open its settings page. On the settings page for a given event, annotations can be uploaded in various file formats via the Import button, or added individually via the Add button. 
 ![image 2](../../assets/annotationsimage2.png)
 
+Annotations can be customized to appear during the corresponding time in the event.
+![image 2](../../assets/annotationsimage3.png)
+
+Annotation sets for an event can be imported seperately by selecting a spreadsheet file.
+![image 2](../../assets/annotationsimage4.png)
