@@ -10,3 +10,8 @@ AVAnnotate allows users to organize their annotations for AV files via different
 - Annotation sets can be added manually, via a IIIF manifest, or imported via a separate spreadsheet or .VTT file (Web Video Text Track file).
 - Annotation sets can be set as captions on a video file (note: this does not work for YouTube, which has its own captioning system) by selecting the settings of an annotation set in the `Event` settings. 
 
+Annotations can be customized to appear during the corresponding time in the event.
+![image 2](../../assets/annotationsimage3.png)
+
+Annotation sets for an event can be imported seperately by selecting a spreadsheet file.
+![image 2](../../assets/annotationsimage4.png)
