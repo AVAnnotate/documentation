@@ -1,5 +1,5 @@
 ---
-title: AVAnnotate Basics
+title: Quick Start
 layout: home
 parent: Get Started
 nav_order: 1
