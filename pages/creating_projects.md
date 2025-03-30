@@ -9,7 +9,7 @@ nav_order: 1
 ![Image 1](../../assets/addprojectimage1.png)
 
 ### Select `+ Add` and input information about the new project, including:
-- `GitHub Organization` Projects can be saved in any organization in which a user has write permissions in GitHub. See more at GitHub Organizations. 
+- `GitHub Organization` Projects can be saved in any organization in which a user has write permissions in GitHub. See more at [GitHub Accounts and Organizations](https://avannotate.github.io/documentation/pages/orgs/). 
 - `Use Private Repository` Projects can be kept private. See more at [Private Projects](https://avannotate.github.io/documentation/pages/private/). 
 - `Generate GitHub Pages Site` If checked, a static site will be created in the project repository and viewable online.
 - `Title` The title of the project will appear in the header on the site. 
