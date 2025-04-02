@@ -6,7 +6,10 @@ grand_parent: Projects
 nav_order: 2
 ---
 # Customizing Pages 
-Custom pages can be used for the project home page and made to include AV events and clips with or without associated annotations; AV event or clip comparisons; and images (via URL links). Auto-generated Event pages can be disabled to create custom pages. 
+Custom pages can be used for the project home page and made to include AV events and clips with or without associated annotations; AV event or clip comparisons; and images (via URL links). 
+
+{: .note }
+> **Important Note:** Event pages can be disabled to create custom pages. See below. 
 
 ### Create a custom author-generated page by clicking on the “Add” button in the project dashboard
 Custom author-generated pages may include context about the project's events and clips, but can also comprise events and/or event clips. 
