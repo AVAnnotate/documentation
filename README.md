@@ -6,7 +6,6 @@ AVAnnotate is the second phase of the AudiAnnotate project, which was supported 
 Tanya Clement, Associate Professor, UT Austin
 Ben Brumfield, Brumfield Labs
 Sara Brumfield, Brumfield Labs
-Shawn Averkamp, AVP
 Nick Laiacona, Performant Software
 Anindita Basu Sempere, Performant Software
 Sam Turner, Graduate Research Assistant, UT Austin
@@ -22,12 +21,5 @@ Steven Holloway, Director of Metadata Strategies, James Madison University
 Jim Kuhn, Associate Director, Harry Ransom Center, UT Austin 
 Stephen Naron, Director of the Fortunoff Video Archive for Holocaust Testimonies, Yale Libraries
 
-## Advisory Board
-Aaron Choate, Director of Digital Strategies, University of Texas at Austin Libraries 
-Jason Camlot, Professor and University Research Chair in Literature and Sound Studies, Concordia University, Montreal; PI, SpokenWeb Research Program
-Jon Dunn, Assistant Dean for Library Technologies at Indiana University, Co-Chair, IIIF A/V Technical Specification Group; Director of Avalon Media System 
-Jennifer Guiliano, University of Indiana University – Purdue University Indianapolis and Director, Humanities Intensive Learning and Training – HILT 
-Virginia Millington, Archivist, StoryCorps
-
 ## Support: 
-AWE has been generously funded by the Andrew W. Mellon Foundation
+AVAnnotate has been generously funded by the Andrew W. Mellon Foundation
