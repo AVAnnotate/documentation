@@ -12,7 +12,7 @@ An “Event” in AVAnnotate can comprise single or multiple AV files and single
 ![Image 1](../../assets/eventimage1.png)
 <br>
 
-### Input information about the new event, including: 
+### 'Create Manifest' by inputting information about the new event, including: 
 - `Label` A descriptive title of the event
 - `Item Type` Audio or video
 - `AV label` A descriptive title of the audio or video file
@@ -23,9 +23,11 @@ An “Event” in AVAnnotate can comprise single or multiple AV files and single
 
 Note: Annotation sets can be added to an event after the event has been added and saved. 
 
-### Referencing a IIIF manifest
+### 'Import Manifest' by referencing a IIIF manifest
 
-The validator checks the structure but not the links themselves.
+Include a link from a IIIF manifest. 
+
+The AVAnnotate validator checks that the structure is correct but does not check links.
 
 ### Edit events by clicking into an event on the dashboard, and then selecting `Edit` 
 <br>
