@@ -21,14 +21,15 @@ An “Event” in AVAnnotate can comprise single or multiple AV files and single
 - `Description` (optional)
 - `Citation` (optional)
 
-Note: Annotation sets can be added to an event after the event has been added and saved. 
+{: .note }
+> Annotation sets can be added to an event after the event has been added and saved. 
 
 ### 'Import Manifest' by referencing a IIIF manifest
 
 Include a link from a IIIF manifest. 
 
 {: .warning }
-> **Important Note:** The AVAnnotate validator checks that the IIIF manifest structure is valid but does not check links. Broken or invalid links (see  will not render in an AVAnnotate project. 
+> **Important Note:** The AVAnnotate validator checks that the IIIF manifest structure is valid but does not check links. Broken or invalid links (see [Valid IIIF AV Types](https://avannotate.github.io/documentation/pages/av/)] will not render in an AVAnnotate project. 
 
 ### Edit events by clicking into an event on the dashboard, and then selecting `Edit` 
 <br>
