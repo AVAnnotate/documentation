@@ -27,7 +27,8 @@ Note: Annotation sets can be added to an event after the event has been added an
 
 Include a link from a IIIF manifest. 
 
-The AVAnnotate validator checks that the structure is correct but does not check links.
+{: .warning }
+> **Important Note:** The AVAnnotate validator checks that the IIIF manifest structure is valid but does not check links. Broken or invalid links (see  will not render in an AVAnnotate project. 
 
 ### Edit events by clicking into an event on the dashboard, and then selecting `Edit` 
 <br>
