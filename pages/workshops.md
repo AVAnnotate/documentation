@@ -1,8 +1,8 @@
 ---
 title: Workshops
 layout: home
-parent: Resources
-grand_parent: Teaching Materials
+parent: Teaching Materials
+grand_parent: Resources
 nav_order: 1
 ---
 # Workshops 
