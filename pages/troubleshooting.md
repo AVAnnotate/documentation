@@ -1,5 +1,5 @@
 ---
-title: Helpful Tips
+title: Troubleshooting
 layout: home
 parent: Get Started
 nav_order: 4
