@@ -8,8 +8,8 @@ nav_order: 6
 # Creating Offline or Alternative Server Projects
 AVAnnotate projects can be downloaded and used offline or on a private server as a free-standing site. 
 
-{ .note}
-For projects that are private, start with the instructions for [creating a private repository](https://avannotate.github.io/documentation/pages/private). For projects containing offline AV that are still publicly available online, see [AV Formats and Support](https://avannotate.github.io/documentation/pages/av).
+{: .note }
+> For projects that are private, start with the instructions for [Creating a Private Repository](https://avannotate.github.io/documentation/pages/private). For projects containing offline AV that are still publicly available online, see [AV Formats and Support](https://avannotate.github.io/documentation/pages/av).
 
 ## Instructions
 
