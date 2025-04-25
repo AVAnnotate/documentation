@@ -1,7 +1,7 @@
 ---
-title: Project Basics
+title: Creating Projects
 layout: home
-parent: Projects
+parent: Project Basics
 nav_order: 1
 ---
 # Information needed to create a project
