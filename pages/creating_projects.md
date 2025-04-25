@@ -2,8 +2,10 @@
 title: Creating Projects
 layout: home
 parent: Project Basics
+grand_parent: Projects
 nav_order: 1
 ---
+
 # Information needed to create a project
 
 ![Image 1](../../assets/addprojectimage1.png)
