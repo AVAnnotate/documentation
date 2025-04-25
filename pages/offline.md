@@ -13,9 +13,10 @@ AVAnnotate projects can be downloaded and used offline or on a private server as
 
 ## Instructions
 
-1. Navigate to the user's project GitHub respository. Use the green `Code` button to `Download ZIP` and save the .zip file.
-2. Unzip the file on the local computer. A “site” directory contains the static pages. The “site” folder contains a set of instructions for how to deploy a static AVAnnotate site to any web server (i.e. Apache, NginX).
-3. To run the site locally on a computer, the simplest approach is to use the Python web server.
+1. Navigate to Project Settings on the AVAnnotate Dashboard to toggle-off "Generate GitHub Pages Site" (project owner only).
+2. Navigate to the project GitHub respository. Use the green `Code` button to `Download ZIP` and save the .zip file.
+3. Unzip the file on the local computer. A “site” directory contains the static pages. The “site” folder contains a set of instructions for how to deploy a static AVAnnotate site to any web server (i.e. Apache, NginX).
+4. To run the site locally on a computer, the simplest approach is to use the Python web server.
    
 ```
 Using the Python Web Server
