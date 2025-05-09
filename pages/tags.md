@@ -27,4 +27,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 ```
 
 {: .warning }
-> **Important Note:** DO NOT DELETE “Uncategorized” tag category. 
+> **Important Note:** DO NOT DELETE “Uncategorized” tag category.
+
+## Uploading Tags and Tag Groups
+Sets of tags and tag groups can be uploaded via spreadsheet. See [Spreadsheet Templates and Examples] (https://avannotate.github.io/documentation/pages/templates/#annotation-spreadsheet-template) 
