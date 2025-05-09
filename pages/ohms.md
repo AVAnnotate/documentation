@@ -1,9 +1,15 @@
+---
+title: Converting Legacy OHMS
+layout: home
+parent: About AVAnnotate
+nav_order: 4
+---
+
 Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
 
-### To produce this AVAnnotate project from an OHMS item:
+### To produce an AVAnnotate project from an OHMS item:
 
 1) Locate OHMS xml file for audio item.
-
 
 #### Remove unconvertable material
 Some OHMS-XML files contain header information with item-level data which is difficult for commercial converters to handle.  This must be removed verfore conversion, or else the converter is likely to produce a single-row spreadsheet unusable for AVAnnotate
