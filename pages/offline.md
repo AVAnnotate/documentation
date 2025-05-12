@@ -21,7 +21,7 @@ AVAnnotate projects can be downloaded and used offline or on a private server as
 4. Unzip the file on the local computer. A “site” directory contains the static pages. The “site” folder contains a set of instructions for how to deploy a static AVAnnotate site to any web server (i.e. Apache, NginX).
 5. To run the site locally on a computer, the simplest approach is to use the Python web server.
    
-Using the Python Web Server
+## Using the Python Web Server
 1. Install Python
 - [On Windows](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
 - [On Mac]([https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows](https://www.dataquest.io/blog/installing-python-on-mac/)
