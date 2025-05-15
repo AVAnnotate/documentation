@@ -7,6 +7,8 @@ nav_order: 4
 
 Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
 
+![Image 4: ](../../assets/ohms.png)
+
 ### To produce an AVAnnotate project from an OHMS item:
 
 1) Locate OHMS xml file for audio item.
