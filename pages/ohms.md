@@ -19,7 +19,7 @@ Some OHMS-XML files contain header information with item-level data which is dif
   b) `vtt_transcript` (at the bottom of the file)
 
 #### Convert the XML file to a CSV File
-3)  Go to: https://www.convertcsv.com/xml-to-csv.htm 
+3)  Go to: [https://www.convertcsv.com/xml-to-csv.htm](https://www.convertcsv.com/xml-to-csv.htm)
 4)  Upload your OHMS xml file into the field in step 1.  ![Upload the file](assets/images/UploadOHMSFile.png)
 5)  Skip step 2.
 6)  In step 3, "Generate output", Choose "XML to Excel".  This will automatically generate an Excel file for download.  ![Generate the Excel file](assets/images/XMLtoExcel.png)
