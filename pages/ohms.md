@@ -1,7 +1,6 @@
 ---
 title: Converting Legacy OHMS
 layout: home
-grandparent: Projects
 parent: Project Basics
 nav_order: 4
 ---
