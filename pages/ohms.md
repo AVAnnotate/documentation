@@ -1,7 +1,8 @@
 ---
 title: Converting Legacy OHMS
 layout: home
-parent: About AVAnnotate
+grandparent: Projects
+parent: Project Basics
 nav_order: 4
 ---
 
