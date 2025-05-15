@@ -1,7 +1,7 @@
 ---
 title: About AVAnnotate
 layout: home
-nav_order: 1
+nav_order: 20
 ---
 
 # AVAnnotate
