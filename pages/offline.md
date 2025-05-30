@@ -9,11 +9,11 @@ nav_order: 6
 AVAnnotate projects can be downloaded and used offline or on a private server as a free-standing site. 
 
 {: .note }
-> For projects that are private, start with the instructions for [Creating a Private Repository](https://avannotate.github.io/documentation/pages/private). For projects containing offline AV that are still publicly available online, see [AV Formats and Support](https://avannotate.github.io/documentation/pages/av).
+> These instructions are for projects that are completely offline with offline AV that will be placed in a directory associated with the AVAnnotate project. If the media files will stil be accessible online, do not replace the URLS or create a media folder. 
 
-## Instructions
-{: .note }
-> These instructions are for projects that are completely offline with offline AV that will be placed in a directory associated with the AVAnnotate project. 
+For projects that are private, start with the instructions for [Creating a Private Repository](https://avannotate.github.io/documentation/pages/private).
+
+## Instructions 
 
 1. Edit the file reference for each AV item in the project. In the AVAnnotate dashboard, go to each [Event](https://avannotate.github.io/documentation/pages/events/) setting and edit the AV URL references by inserting a slash, the "media" directory name, slash, and the name of the AV file (e.g., `/media/file.mp3`).  
 2. Pubish a Static Site. When publishing your AVAnnotate project, select "Static Site". A new repository will appear in your project's GitHub repository named "site." 
