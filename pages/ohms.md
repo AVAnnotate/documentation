@@ -33,5 +33,5 @@ If there are keywords in the OHMS file, open the file in Excel, search and repla
 
 7) Add an `end_time` column.  AVAnnotate requires start and end times for annotations, but many OHMS project only annotate a point in time.  Add a new End Time column to the spreadsheet and copy the start time (up-shifted one row) values into it.
 
-#### Add the spreadsheet to AudiAnnotate
+#### Add the spreadsheet to AVAnnotate
 After creating a new project and item in AVAnnotate, upload the OHMS spreadsheet file.  Each type of data coming from OHMS will require a separate upload -- once for each annotation set from the columns in the spreadsheet.  Typically `partial transcript`, `synopsis`, and `title` make appropriate columns to convert into annotation sets.  Typical OHMS files use both `keywords` and `subjects`.  The `keywords` tend to be more similar to AVAnnotate tags. It is recommended to import that column as tags each time the OHMS spreadsheet is imported.
