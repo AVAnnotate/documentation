@@ -15,7 +15,7 @@ Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
 1) Locate OHMS xml file for audio item.
 
 #### Remove unconvertable material
-Some OHMS-XML files contain header information with item-level data which is difficult for commercial converters to handle.  This must be removed verfore conversion, or else the converter is likely to produce a single-row spreadsheet unusable for AVAnnotate
+Some OHMS-XML files contain header information with item-level data which is difficult for commercial converters to handle.  This must be removed before conversion, or else the converter is likely to produce a single-row spreadsheet unusable for AVAnnotate
 
 2) Use a text editor to delete the following elements from the file:
   a) All elements between the opening `record` tag and the `index` tag beginning timestamped annotations.  (This may include `version`, `date`, `series_id` and others.)
