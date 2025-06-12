@@ -6,7 +6,7 @@ nav_order: 1
 
 Audio and Video is Difficult to Search.
 
-[AVAnnotate](https://av-annotate.org/) makes audio and video artifacts easily discoverable.
+[AVAnnotate](https://av-annotate.org/) is a system for creating, organizing, and publishing collections of annotations for audio and video resources, making these artifacts easily discoverable and searchable.
 
 Created by [Dr. Tanya Clement](https://tanyaclement.org/), [Brumfield Labs](https://www.brumfieldlabs.com/), and [Performant Software Solutions](https://www.performantsoftware.com/), AVAnnotate is a free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials.
 
