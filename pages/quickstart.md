@@ -39,5 +39,5 @@ Users can create auto-generated pages for each event as well as design custom pa
 
 ## Step 8: Share your AVAnnotate project with the world!
 
-## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/tips/) before getting started and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for bulk uploading using spreadsheets. 
+## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/troubleshooting/) before getting started and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for bulk uploading using spreadsheets. 
 
