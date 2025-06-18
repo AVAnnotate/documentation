@@ -25,7 +25,7 @@ Only File Paths, HLS, and DASH references will generate a valid IIIF manifest.
 **File Paths:** Audio files directly hosted on a server or accessible via URLs like MP3, WAV, OGG, etc.
 
 ### Formats that are Invalid for IIIF Manifests
-These file types will appear in published projects but will not appear in the associated IIIF manifests.
+Projects may be created with audiovisual material from the following sources. However, while AVAnnotate supports these audiovisual file formats, the below formats will not be reflected in the IIIF manifests associated with events from Youtube, Facebook, Vimeo, and others. These file types will appear in published projects but will not appear in the associated IIIF manifests.
 
 ### Video
 - **YouTube:** YouTube URLs  
