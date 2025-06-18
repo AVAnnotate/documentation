@@ -29,8 +29,6 @@ Projects may be created with audiovisual material from the following sources. Ho
 
 For example, users may be interested in presenting annotations associated with a YouTube video, though the manifest associated with their published project is not compatable with IIIF. If a working IIIF manifest is required, valid audiovisual formats (MP4, MOV, AVI, and MKV, etc.) must be used for developing project events. 
 
-creating a project with a YouTube video
-
 ### Video
 - **YouTube:** YouTube URLs  
 - **Facebook:** Facebook URLs 
