@@ -25,11 +25,11 @@ Basic AVAnnotate project components include [Events](https://avannotate.github.i
  
 [AVAnnotate Discussion Forum](https://github.com/orgs/AVAnnotate/discussions){:.btn .btn-primary target="_blank" rel="noopener"}
 
-The most direct way to get help and to help others is to post questions and seek answers on the [AVAnnotate Discussion Forum](https://github.com/orgs/AVAnnotate/discussions). If help is needed or there seems to be a bug, provide a link to the impacted project repository and a screenshot of the problem to aid in discussing and debugging the issue.
+The most direct way to get help and to help others is to post questions and seek answers on the [AVAnnotate Discussion Forum](https://github.com/orgs/AVAnnotate/discussions). The AVAnnotate team can best troubleshoot issues that include a link to the impacted project repository (within the Data Manager, select the three-dot menu and "Repository" to copy the GitHub repository URL. A member of the AVAnnotate team will respond to the discussion and help to debug the issue. 
 
 # Contribute
 
-Outside contributors are always welcome and encouraged to help make AVAnnotate better. Please use the forum to describe a proposed feature or to share a project. 
+AVAnnotate is made better by outside contributors! Please use the [AVAnnotate GitHub Discussion forum](https://github.com/orgs/AVAnnotate/discussions) to share published or in-process projects, submit issues for troubleshooting, or propose features and use-cases of AVAnnotate. 
 
 # How to Get in Touch
 
