@@ -18,7 +18,7 @@ Select `+ Add` and input information about the new project, including `Title` `D
 
 ## Step 3: Locate a URL or IIIF Manifest for your AV file
 
-AVAnnotate does not store AV or image files. AVAnnotate references AV and image files through [URLs](https://avannotate.github.io/documentation/pages/av/) or [IIIF manifests](iiif.md).
+AVAnnotate can reference AV and images through [URLs](https://avannotate.github.io/documentation/pages/av/) or [IIIF manifests](https://avannotate.github.io/documentation/pages/iiif/). (Note: AVAnnotate does not store AV or image files.)
 
 ## Step 4: Add an Event
 
