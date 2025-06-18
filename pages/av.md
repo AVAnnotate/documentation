@@ -27,6 +27,10 @@ Only File Paths, HLS, and DASH references will generate a valid IIIF manifest.
 ### Formats that are Invalid for IIIF Manifests
 Projects may be created with audiovisual material from the following sources. However, while AVAnnotate supports these audiovisual file formats, the below formats will not be reflected in the IIIF manifests associated with events from Youtube, Facebook, Vimeo, and others. These file types will appear in published projects but will not appear in the associated IIIF manifests.
 
+For example, users may be interested in presenting annotations associated with a YouTube video, though the manifest associated with their published project is not compatable with IIIF. If a working IIIF manifest is required, valid audiovisual formats (MP4, MOV, AVI, and MKV, etc.) must be used for developing project events. 
+
+creating a project with a YouTube video
+
 ### Video
 - **YouTube:** YouTube URLs  
 - **Facebook:** Facebook URLs 
