@@ -12,7 +12,7 @@ Created by [Dr. Tanya Clement](https://tanyaclement.org/), [Brumfield Labs](http
 
 [Example projects.](https://av-annotate.org/example-projects/)
 
-Leveraging [IIIF[(https://avannotate.github.io/documentation/pages/iiif/) and GitHub for sharing curated annotations of audiovisual materials held at libraries, archives, and museums, AVAnnotate allows users to combine metadata for online audio and video assets with user-generated annotations and contextual essays to create simple, playable web-based editions and exhibits.
+Leveraging [IIIF](https://avannotate.github.io/documentation/pages/iiif/) and GitHub for sharing curated annotations of audiovisual materials held at libraries, archives, and museums, AVAnnotate allows users to combine metadata for online audio and video assets with user-generated annotations and contextual essays to create simple, playable web-based editions and exhibits.
 
 The [Monster Mash Documentation Project](https://avannotate.github.io/mm/) is a sample project that demonstrates what kinds of pages users can make using AVAnnotate and is referenced from the AVAnnotate documentation.
 
