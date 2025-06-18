@@ -10,8 +10,6 @@ Audio and Video is Difficult to Search. This "Get Started" section outlines the 
 
 Created by [Dr. Tanya Clement](https://tanyaclement.org/), [Brumfield Labs](https://www.brumfieldlabs.com/), and [Performant Software Solutions](https://www.performantsoftware.com/), AVAnnotate is a free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials.
 
-[Example projects.](https://av-annotate.org/example-projects/)
-
 The [Monster Mash Documentation Project](https://avannotate.github.io/mm/) is a sample project that demonstrates what kinds of pages users can make using AVAnnotate and is referenced from the AVAnnotate documentation.
 
  [Log into AVAnnotate now](https://avannotate.netlify.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
