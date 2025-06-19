@@ -3,8 +3,9 @@ title: Converting Legacy OHMS
 layout: home
 parent: Project Basics
 grand_parent: Projects
-nav_order: 4
+nav_order: 8
 ---
+The Louie B. Nunn Center for Oral History at the University of Kentucky Libraries created a web-based, system called OHMS (Oral History Metadata Synchronizer) to inexpensively and efficiently enhance access to oral history online.  [Learn more about OHMS](https://www.oralhistoryonline.org/).
 
 Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
 
