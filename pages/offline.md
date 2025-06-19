@@ -3,7 +3,7 @@ title: Offline
 layout: home
 parent: Project Basics
 grand_parent: Projects
-nav_order: 6
+nav_order: 5
 ---
 # Creating Offline or Alternative Server Projects
 AVAnnotate projects can be downloaded and used offline or on a private server as a free-standing site. 
