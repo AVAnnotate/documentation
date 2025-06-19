@@ -3,7 +3,7 @@ title: Private
 layout: home
 parent: Project Basics
 grand_parent: Projects
-nav_order: 7
+nav_order: 6
 ---
 
 # Private projects 
