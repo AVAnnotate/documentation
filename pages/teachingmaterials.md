@@ -14,10 +14,9 @@ The case studies linked above contain much of the information teachers may need 
 A popular deliverable of incorporating AVAnnotate in the classroom has been class-wide anthologies of student projects. The directions below explain how a class might create a shared anthology, like [this one](https://trentwintermeier.github.io/rhe-306-anthology/), which presents all of the projects students individually created in a First-Year Composition class in the Spring 2025 semester. 
 
 ### Instructions for creating a class anthology:
-1. Connect via GitHub
+1. Connect via GitHub.
    - The instructor and each student will need to individually create their own GitHub account.
    - The instructor creates a [GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) for the class.
-2. The instructor [adds each student](https://docs.github.com/en/enterprise-server@3.10/organizations/managing-membership-in-your-organization/adding-people-to-your-organization) as a member to the class GitHub organization using each student's GitHub username. Note: the instructor can choose a "role" for each student in the GitHub organization.
-    - If the instructor wants each student to have automatic editing access to other student's project, select `Owner.`
-    - In the `Member` role, students will be able to see other student's projects through the AVAnnotate dashboard but will not be able to edit. Go to [Add users]() 
-3. Each student creates their own project using the class organization when they [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/). 
+2. The instructor [adds each student](https://docs.github.com/en/enterprise-server@3.10/organizations/managing-membership-in-your-organization/adding-people-to-your-organization) as a member to the class GitHub organization using each student's GitHub username.
+    - Note: the instructor can control students' editing permissions by designating a "role" for each student in the GitHub organization. If the instructor wants each       student to have automatic editing access to all other students' project, select `Owner.` In the `Member` role, students will be able to view other student's projects through the AVAnnotate dashboard but will not be able to edit.
+3. Each student creates their own project as part of the the class organization when they [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/). 
