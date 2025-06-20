@@ -6,16 +6,20 @@ nav_order: 3
 ---
 
 # Tags
-Tags are labels used in a published AVAnnotate project to index, organize, and discover topics in the annotations. Tag groups can be used to organize or categorize the tags according to the project's goals.
-- Event pages have tag filtering for annotations.
-- Index pages show where tags appear in different Events and AV files. Users can select individual tags for play-back across the project.
+In AVAnnotate, tags function like they do in other web applications; tags are labels used in a published AVAnnotate project to index, organize, and discover topics in the annotations. Tags will always belong to a tag group, even if that group is not given a title in AVAnnotate (i.e., these tags will be automatically labeled "Uncategorized" unless designated). Tags and their categories can be accessed in AVAnnotate in two places:
+1. Event pages: tags associated with an event's annotations can be viewed and used to filter annotations.
+2. Index pages: tags appear as they are associated with different Events and AV files. Individual tags can be selected for play-back across all events in a project.
 
-## Tags Management System
-The AVAnnotate TMS can be used to:
+## Uploading Tags and Tag Groups
+Sets of tags and tag groups can be uploaded via spreadsheet. See [Spreadsheet Templates and Examples](https://avannotate.github.io/documentation/pages/templates/#annotation-spreadsheet-template) 
+
+{: .warning }
+> **Important Note:** DO NOT DELETE “Uncategorized” tag category.
+
+## Managing Tags
+To manage tags in AVAnnotate:
 - Upload [Tag Spreadsheets](https://avannotate.github.io/documentation/pages/templates/) and create project-level tags and tag groups. Tag spreadsheets should be imported before annotation spreadsheets that have tags; when annotation spreadsheets containing tags are imported, they are matched to the tags.
 - Modify and delete individual tags and tag groups. Once modified, tags and groups will change across all annotations.
-![Image 1](../../assets/addtagsimage1.png)
-![Image 2](../../assets/addtaggroupsimage1.png)
 ![Image 3](../../assets/edittagimage1.png)
 
 ## Creating Tags
@@ -25,9 +29,3 @@ The AVAnnotate TMS can be used to:
 a b c d e f g h I j k l m n o p q r s t u v w x y z
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 ```
-
-{: .warning }
-> **Important Note:** DO NOT DELETE “Uncategorized” tag category.
-
-## Uploading Tags and Tag Groups
-Sets of tags and tag groups can be uploaded via spreadsheet. See [Spreadsheet Templates and Examples] (https://avannotate.github.io/documentation/pages/templates/#annotation-spreadsheet-template) 
