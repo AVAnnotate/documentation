@@ -10,9 +10,6 @@ nav_order: 5
 
 AVAnnotate projects can be downloaded and used offline or on a private server as a free-standing site. 
 
-{: .note }
-> These instructions are for projects that are completely offline with offline AV that will be placed in a directory associated with the AVAnnotate project. If the media files will stil be accessible online, do not replace the URLS or create a media folder. 
-
 For projects that are private, start with the instructions for [Creating a Private Repository](https://avannotate.github.io/documentation/pages/private).
 
 ## Instructions 
