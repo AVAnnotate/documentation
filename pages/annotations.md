@@ -1,7 +1,8 @@
 ---
 title: Annotations
 layout: home
-parent: Projects
+parent: Data Manager
+grand_parent: Projects
 nav_order: 4
 ---
 # Creating and Modifying Timestamped Annotations
