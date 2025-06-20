@@ -7,7 +7,7 @@ nav_order: 4
 ## Helpful tips before getting started
 - Logging into [AVAnnotate](https://avannotate.netlify.app/) requires a [GitHub account](https://github.com/).<br>
 
-- AVAnnotate does not store uploaded media; instead, it references media files via URL. Collect any audio/visual media file paths, manifests, and/or image URLs in a document, and paste them into AVAnnotate. See [AV Formats and Support](https://avannotate.github.io/documentation/pages/av/) for a list of supported AV file paths/URL types.<br>
+- **AVAnnotate does not store uploaded media**; instead, it references media files via URL or [manifest](https://avannotate.github.io/documentation/pages/iiif/). Collect the project's audiovisual media URLs, file paths, and manifests in a document before pasting them into AVAnnotate. See [AV Formats and Support](https://avannotate.github.io/documentation/pages/av/) for a list of supported AV file paths/URL types.<br>
 
 - **It is highly recommended that project authors create spreadsheets for events, tags, and annotations using spreadsheet software** (Excel, Google Sheets, etc.) to upload before customizing a project via the AVAnnotate editing interface. See [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for spreadsheet templates, documentation, and examples. <br>
 
