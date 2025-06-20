@@ -11,7 +11,7 @@ There are many ways to use AVAnnotate in classrooms across disciplines and stude
 The case studies linked above contain much of the information teachers may need to implement AVAnnotate into their courses, including sample syllabus language, learning objectives, assignment descriptions, semester and unit schedules, lesson plans and daily/weekly agendas, grading guidance, and sample student projects. The AVAnnotate team is always happy to support teachers seeking to teach with AVAnnotate, and offers in-person and virtual walk-throughs, workshopping, and technical support. 
 
 ### Presenting Student Projects
-A popular deliverable of incorporating AVAnnotate in the classroom has been class-wide anthologies of student projects. The directions below explain how a class might create a shared anthology, like [this one](https://trentwintermeier.github.io/rhe-306-anthology/), which documents all of the projects students individually made in a First-Year Composition class in the Spring 2025 semester. 
+A popular deliverable of incorporating AVAnnotate in the classroom has been class-wide anthologies of student projects. The directions below explain how a class might create a shared anthology, like [this one](https://trentwintermeier.github.io/rhe-306-anthology/), which presents all of the projects students individually created in a First-Year Composition class in the Spring 2025 semester. 
 
 ### Instructions for creating a class anthology:
 1. Connect via GitHub
