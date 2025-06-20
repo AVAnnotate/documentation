@@ -6,9 +6,6 @@ grand_parent: Projects
 nav_order: 5
 ---
 
-{: .note for offline AV }
-> AVAnnotate projects may include AV Events without media URLS. Users can toggle `URL` to `Offline` in the `Event` settings. See more information in [Events](https://avannotate.github.io/documentation/pages/events/) and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) on creating bulk uploads without AV URLs.
-
 # Creating Offline or Alternative Server Projects
 
 AVAnnotate projects can be downloaded and used offline or on a private server as a free-standing site. 
