@@ -11,7 +11,7 @@ In AVAnnotate, tags function like they do in other web applications; tags are la
 2. Index pages: tags appear as they are associated with different Events and AV files. Individual tags can be selected for play-back across all events in a project.
 
 ## Uploading Tags and Tag Groups
-Sets of tags and tag groups can be uploaded via spreadsheet. See [Spreadsheet Templates and Examples](https://avannotate.github.io/documentation/pages/templates/#annotation-spreadsheet-template) 
+Sets of tags and tag groups can be uploaded via spreadsheet. See [Spreadsheet Templates and Examples].(https://avannotate.github.io/documentation/pages/templates/#annotation-spreadsheet-template) 
 
 {: .warning }
 > **Important Note:** DO NOT DELETE “Uncategorized” tag category.
