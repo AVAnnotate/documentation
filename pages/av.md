@@ -21,10 +21,10 @@ Only File Paths, HLS, and DASH references will generate a valid IIIF manifest.
 - **HLS (HTTP Live Streaming):** Live and on-demand video streams using HLS
 - **DASH (Dynamic Adaptive Streaming over HTTP):** Video streams using DASH
 
-- ## Audio
-**File Paths:** Audio files directly hosted on a server or accessible via URLs like MP3, WAV, OGG, etc.
+### Audio
+- **File Paths:** Audio files directly hosted on a server or accessible via URLs like MP3, WAV, OGG, etc.
 
-### Formats that are Invalid for IIIF Manifests
+## Formats that are Invalid for IIIF Manifests
 Projects may be created with audiovisual material from the following sources. However, while AVAnnotate supports these audiovisual file formats, the below formats will not be reflected in the IIIF manifests associated with events from Youtube, Facebook, Vimeo, and others. These file types will appear in published projects but will not appear in the associated IIIF manifests.
 
 For example, users may be interested in presenting annotations associated with a YouTube video, though the manifest associated with their published project is not compatable with IIIF. If a working IIIF manifest is required, valid audiovisual formats (MP4, MOV, AVI, and MKV, etc.) must be used for developing project events. 
@@ -39,11 +39,8 @@ For example, users may be interested in presenting annotations associated with a
 - **Streamable:** Streamable URLs
 - **SoundCloud:** SoundCloud URLs
 - **Mixcloud:** Mixcloud URLs
-- 
+
 ### Audio
 - **SoundCloud:** SoundCloud tracks.
 - **Mixcloud:** Mixcloud tracks
-
-# Offline AV
-Note: AVAnnotate projects may include AV Events without media URLS. Users can toggle `URL` to `Offline` in the `Event` settings. See more information in [Events](https://avannotate.github.io/documentation/pages/events/) and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) on creating bulk uploads without AV URLs.
 
