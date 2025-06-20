@@ -10,6 +10,9 @@ nav_order: 2
 
 Unlike websites that store media files (e.g., YouTube, Instagram, Internet Archive, etc.), AVAnnotate references audiovisual media through URLs and [IIIF manifests](https://avannotate.github.io/documentation/pages/iiif/). To build an AVAnnotate project with any audiovisual material, it must first be hosted on another server or be associated with a IIIF manifest. 
 
+{: .note }
+> AVAnnotate projects may include AV Events without media URLS. Users can toggle `URL` to `Offline` in the `Event` settings. See more information in [Events](https://avannotate.github.io/documentation/pages/events/) and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) on creating bulk uploads without AV URLs.
+
 # Suitable AV Formats
 AVAnnotate does not host audio and video files. Making files available is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/) where direct links to .mp3 and .mp4 files are easy to find. Simply follow [the download directions](https://help.archive.org/help/how-to-download-files/) and instead of downloading, click on the file name and copy the URL to the file.
 
