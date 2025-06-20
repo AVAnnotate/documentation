@@ -1,7 +1,7 @@
 ---
 title: Custom
 layout: home
-parent: Pages
+parent: Site Builder
 grand_parent: Projects
 nav_order: 2
 ---
