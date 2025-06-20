@@ -6,7 +6,7 @@ nav_order: 2
 ---
 ## Teaching Materials
 
-There are many ways to use AVAnnotate in classrooms across disciplines and student rank, as AVAnnotate is a flexible and versatile tool for teaching skills related to multimodal analysis. The AVAnnotate team and project partners have implemented AVAnnotate in many undergraduate and graduate classes at the University of Texas at Austin and beyond. Write ups of these case studies can be found [here](https://docs.google.com/document/d/1Kyh5GOH26CGubcBqDr4Cy_Q68cB96OFMv_IZrQ-b0cg/edit?usp=sharing). 
+There are many ways to use AVAnnotate in classrooms across disciplines and student rank, as AVAnnotate is a flexible and versatile tool for teaching skills related to multimodal analysis. The AVAnnotate team and project partners have implemented AVAnnotate in many undergraduate and graduate classes at the University of Texas at Austin and beyond. Write ups of several case studies can be found [here](https://docs.google.com/document/d/1Kyh5GOH26CGubcBqDr4Cy_Q68cB96OFMv_IZrQ-b0cg/edit?usp=sharing). 
 
 The case studies linked above contain much of the information teachers may need to implement AVAnnotate into their courses, including sample syllabus language, learning objectives, assignment descriptions, semester and unit schedules, lesson plans and daily/weekly agendas, grading guidance, and sample student projects. The AVAnnotate team is always happy to support teachers seeking to teach with AVAnnotate, and offers in-person and virtual walk-throughs, workshopping, and technical support. 
 
