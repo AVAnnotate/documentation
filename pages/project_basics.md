@@ -2,5 +2,5 @@
 title: Project Basics
 layout: home
 parent: Projects
-nav_order: 5
+nav_order: 7
 ---
