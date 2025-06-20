@@ -6,11 +6,11 @@ grand_parent: Projects
 nav_order: 2
 ---
 
-# AV File Formats and Support
+# Audiovisual Material
 
-AVAnnotate references audio and video files hosted on other servers directly via URLs or through [IIIF manifests](https://avannotate.github.io/documentation/pages/iiif/).
+Unlike websites that store media files (e.g., YouTube, Instagram, Internet Archive, etc.), AVAnnotate references audiovisual media through URLs and [IIIF manifests](https://avannotate.github.io/documentation/pages/iiif/). To build an AVAnnotate project with any audiovisual material, it must first be hosted on another server or be associated with a IIIF manifest. 
 
-# Hosting AV 
+# Suitable AV Formats
 AVAnnotate does not host audio and video files. Making files available is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/) where direct links to .mp3 and .mp4 files are easy to find. Simply follow [the download directions](https://help.archive.org/help/how-to-download-files/) and instead of downloading, click on the file name and copy the URL to the file.
 
 ## Valid Formats for IIIF Manifests
