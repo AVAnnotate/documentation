@@ -19,7 +19,7 @@ The AVAnnotate TMS can be used to:
 ![Image 3](../../assets/edittagimage1.png)
 
 ## Creating Tags
-*Check and double check all project tags!* Tags should only be comprised of URL-safe characters, including commas and the following characters with and without accents:
+*Check and double check all project tags!* Tags should only be comprised of URL-safe characters (Alphanumeric [0-9a-zA-Z], special characters $-_.+!*'(),), including commas and the following characters with and without accents:
 
 ```
 a b c d e f g h I j k l m n o p q r s t u v w x y z
