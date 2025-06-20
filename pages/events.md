@@ -1,7 +1,8 @@
 ---
 title: Events
 layout: home
-parent: Projects
+parent: Data Manager
+grand_parent: Projects
 nav_order: 2
 ---
 # Events
