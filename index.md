@@ -15,5 +15,4 @@ This "Get Started" section outlines the basics of developing an AVAnnotate proje
 
 Created by [Dr. Tanya Clement](https://tanyaclement.org/), [Brumfield Labs](https://www.brumfieldlabs.com/), and [Performant Software Solutions](https://www.performantsoftware.com/), AVAnnotate is a free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials.
 
-The [Monster Mash Documentation Project](https://avannotate.github.io/mm/) is a sample project that demonstrates what kinds of pages users can make using AVAnnotate and is referenced from the AVAnnotate documentation.
-
+The [Monster Mash Documentation Project](https://avannotate.github.io/mm/) is a sample project that demonstrates what kinds of pages are possible for AVAnnotate project authors to make. The screenshots and visual how-to's throughout this documentation are based on the Monster Mash project, so audiences can view the how-to's (which visualize the back-end/editing interface) alongside the published project. 
