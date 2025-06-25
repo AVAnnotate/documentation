@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Creating Transcripts
 
-## A [Google Colab Notebook](https://github.com/tanyaclement/audio-class/blob/main/transcribe_audio_with_whisper.ipynb) for creating transcripts using Whisper AI 
+## A [Google Colab Notebook](https://github.com/tanyaclement/audio-class/blob/main/transcribe_audio_with_whisper.ipynb){:target="_blank" rel="noopener"} for creating transcripts using Whisper AI 
     1. Select "Open in Colab" and navigate an open Google Colab window.
     2. In the notebook, according to the directions, insert information about the file to be transcribed and the result file. (E.g., include the URL to the file or YouTube Video to be transcribed, select file type (.tsv, etc.), and select "Download."). For AVAnnotate projects, .tsv or .vtt will work.
     3. In the Colab menu, select "Runtime" and "Run All" or run each cell independently.
