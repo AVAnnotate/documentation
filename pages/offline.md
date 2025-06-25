@@ -23,8 +23,8 @@ For projects that are private, start with the instructions for [Creating a Priva
    
 ## Using the Python Web Server
 1. Install Python
-- [On Windows](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
-- [On Mac](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows)
+- [On Windows](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows){:target="_blank" rel="noopener"}
+- [On Mac](https://builtin.com/software-engineering-perspectives/how-to-install-python-on-windows){:target="_blank" rel="noopener"}
 2. Run http.server
       1. Navigate to the local copy of the "site" directory in the appropriate terminal for the OS. (On a Mac, shift+right-click on the "site" directory and select 'New Terminal at Folder')
       2. Enter the following command at the terminal prompt: `python3 -m http.server 8000`
