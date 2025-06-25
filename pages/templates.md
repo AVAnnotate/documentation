@@ -9,10 +9,10 @@ nav_order: 2
 This guide provides templates for uploading project information to AVAnnotate in bulk via spreadsheets. AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
 
 **1. Project Level:** Include one Event and one Tag spreadsheet. 
-* [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true): Each row in the event spreadsheet is a unique “Event” in the project. Note: Events may include multiple AV files. See below.
-* [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true): Each row in the tag spreadsheet is a unique tag in the project.
+* [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}: Each row in the event spreadsheet is a unique “Event” in the project. Note: Events may include multiple AV files. See below.
+* [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}: Each row in the tag spreadsheet is a unique tag in the project.
   
-**2. Event Level:** [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true) (or "sets") correspond to each AV file. AV files may have multiple corresponding annotation sets. Events may have multiple corresponding AV files with multiple annotation sets.  
+**2. Event Level:** [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"} (or "sets") correspond to each AV file. AV files may have multiple corresponding annotation sets. Events may have multiple corresponding AV files with multiple annotation sets.  
 * Annotation Spreadsheet: Each row in an annotation spreadsheet is a single annotation corresponding to a timestamp on the AV file.
 
 {: .warning }
@@ -32,7 +32,7 @@ This template organizes the events in a project and associates the AV files with
 **Event Citation:**  (optional) <br>
 
 ---
-## [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
+## [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}
 This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Group  can be used to organize the tags. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the group “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a group). Consistency with the spelling and capitalization of tags is imperative. Different spelling or capitalizations = different tags. 
 
 **Note:** 
@@ -44,7 +44,7 @@ A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anza
 **Group:** Each unique category of tag that occurs across the project. Groups may not repeat.<br>
 
 ---
-## [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
+## [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}
 This template includes project annotations. Annotations correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. 
 Annotations are linked to an event as part of the upload process. 
 
@@ -70,13 +70,13 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 
 # Examples
 Sample Audio Spreadsheets - 
-- [Leslie Flint's Spiritualism](https://saamturner.github.io/wildedoyleflint/)  <br> 
-These event, tag, and annotation spreadsheets represent two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. [Flint example spreadsheets](https://drive.google.com/drive/u/0/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU)
-- [Zora Neale Hurston](https://tanyaclement.github.io/znh-1939/) <br>
-These event, tag, and annotation spreadsheets represent a multi-event project including three recordings created by Zora Neale Hurston. [Hurston example spreadsheets](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q)
+- [Leslie Flint's Spiritualism](https://saamturner.github.io/wildedoyleflint/){:target="_blank" rel="noopener"}  <br> 
+These event, tag, and annotation spreadsheets represent two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. [Flint example spreadsheets](https://drive.google.com/drive/u/0/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU){:target="_blank" rel="noopener"}
+- [Zora Neale Hurston](https://tanyaclement.github.io/znh-1939/){:target="_blank" rel="noopener"} <br>
+These event, tag, and annotation spreadsheets represent a multi-event project including three recordings created by Zora Neale Hurston. [Hurston example spreadsheets](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q){:target="_blank" rel="noopener"}
 
 Sample Video Spreadsheets - 
--[Camille (1921)](https://avannotate.github.io/camille/events/camille-1921/)  <br>
-These event, tag, and annotation spreadsheets represent a single video event about the 1921 film adaptation of "La Dame aux Camélias" (1848) by Alexandre Dumas, fils. [Camille example spreasheets](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239) 
+-[Camille (1921)](https://avannotate.github.io/camille/events/camille-1921/){:target="_blank" rel="noopener"}  <br>
+These event, tag, and annotation spreadsheets represent a single video event about the 1921 film adaptation of "La Dame aux Camélias" (1848) by Alexandre Dumas, fils. [Camille example spreasheets](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239) {:target="_blank" rel="noopener"}
 
 
