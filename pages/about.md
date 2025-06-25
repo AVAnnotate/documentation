@@ -25,15 +25,15 @@ Basic AVAnnotate project components (i.e., elements of a project) include [Event
  
 [AVAnnotate Discussion Forum](https://github.com/orgs/AVAnnotate/discussions){:.btn .btn-primary target="_blank" rel="noopener"}
 
-The most direct way to get help and to help others is to post questions and seek answers on the [AVAnnotate Discussion Forum](https://github.com/orgs/AVAnnotate/discussions). The AVAnnotate team can best troubleshoot issues that include a link to the impacted project repository (within the Data Manager, select the three-dot menu and "Repository" to copy the GitHub repository URL. A member of the AVAnnotate team will respond to the discussion and help to debug the issue. 
+The most direct way to get help and to help others is to post questions and seek answers on the [AVAnnotate Discussion Forum](https://github.com/orgs/AVAnnotate/discussions){:target="_blank" rel="noopener"}. The AVAnnotate team can best troubleshoot issues that include a link to the impacted project repository (within the Data Manager, select the three-dot menu and "Repository" to copy the GitHub repository URL. A member of the AVAnnotate team will respond to the discussion and help to debug the issue. 
 
 # Contribute
 
-AVAnnotate is made better by outside contributors! Please use the [AVAnnotate GitHub Discussion forum](https://github.com/orgs/AVAnnotate/discussions) to share published or in-process projects, submit issues for troubleshooting, or propose features and use-cases of AVAnnotate. 
+AVAnnotate is made better by outside contributors! Please use the [AVAnnotate GitHub Discussion forum](https://github.com/orgs/AVAnnotate/discussions){:target="_blank" rel="noopener"} to share published or in-process projects, submit issues for troubleshooting, or propose features and use-cases of AVAnnotate. 
 
 # How to Get in Touch
 
-Follow us on [AVAnnotate Announcements](https://github.com/orgs/AVAnnotate/discussions/categories/announcements), on [Bluesky](https://app.bsky.cz/profile/avannotate.bsky.social), or join the [AV-Annotate Google Group](https://groups.google.com/u/0/g/av-annotate) for updates, conversations, and invitations to workshops and events. 
+Follow us on [AVAnnotate Announcements](https://github.com/orgs/AVAnnotate/discussions/categories/announcements){:target="_blank" rel="noopener"}, on [Bluesky](https://app.bsky.cz/profile/avannotate.bsky.social){:target="_blank" rel="noopener"}, or join the [AV-Annotate Google Group](https://groups.google.com/u/0/g/av-annotate){:target="_blank" rel="noopener"} for updates, conversations, and invitations to workshops and events. 
 
 [Contact Us](mailto:av-annotate@gmail.com){:.btn .btn-primary target="_blank" rel="noopener"} 
 
