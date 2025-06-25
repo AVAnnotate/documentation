@@ -12,7 +12,7 @@ private repositories will still be private and can only be viewed by users autho
 It is easiest to think about AVAnnotate as simply being an alternate interface to GitHub, meaning that nothing that is done in the AVAnnotate app could not also be done via the GitHub web interface. Logging into AVAnnotate will require users to "Sign in with GitHub," which is just authorizing the AVAnnotate application to do what the user
 could do manually in GitHub.  
 
-[image]
+![Image 1](../../assets/authorize.png)
 
 [Read more about how GitHub handles user data, privacy, permissions, and access here. ](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access){:target="_blank" rel="noopener"}
 
