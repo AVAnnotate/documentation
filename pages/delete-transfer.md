@@ -12,5 +12,5 @@ Every AVAnnotate project corresponds to a repository in the user's GitHub accoun
 <br><br>
 
 Further information can be found on the GitHub documentation:
-1. [Transferring a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository)
-2. [Deleting a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository) 
+1. [Transferring a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository){:target="_blank" rel="noopener"}
+2. [Deleting a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository){:target="_blank" rel="noopener"} 
