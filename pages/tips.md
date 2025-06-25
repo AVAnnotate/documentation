@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Helpful Tips
 
-- Logging into [AVAnnotate](https://avannotate.netlify.app/) requires a [GitHub account](https://github.com/).<br>
+- Logging into [AVAnnotate](https://avannotate.netlify.app/){:target="_blank" rel="noopener"} requires a [GitHub account](https://github.com/){:target="_blank" rel="noopener"}.<br>
 
 - **AVAnnotate does not store uploaded media**; instead, it references media files via URL or [manifest](https://avannotate.github.io/documentation/pages/iiif/). Collect the project's audiovisual media URLs, file paths, and manifests in a document before pasting them into AVAnnotate. See [AV Formats and Support](https://avannotate.github.io/documentation/pages/av/) for a list of supported AV file paths/URL types.<br>
 
