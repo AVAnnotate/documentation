@@ -16,9 +16,8 @@ This guide provides templates for uploading project information to AVAnnotate in
 * Annotation Spreadsheet: Each row in an annotation spreadsheet is a single annotation corresponding to a timestamp on the AV file.
 
 {: .warning }
-> **Important Note:** All cells must be filled out. If a value is optional, that column can be blank (currently the one exception is the `tag` within the annotation speadsheet.   
+> **Important Note:** In order for AVAnnotate to properly read and present the data in each spreadsheet, all required cells in a spreadsheet must be filled out. If a value is optional, the column header(s) in the spreadsheet templates will denote that (i.e., Event Citation and Event Description are both marked as optional fields on the Event spreadsheet). 
 
-  
 ---
 ## [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. This list is not exhaustive. Each row in the Event template corresponds to one recording. If an event spans multiple recordings, additional recordings may be added to the event after the initial upload.
