@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 ## Audio and video is difficult to search. 
-
+---
 
 This "Get Started" section outlines the basics of developing an AVAnnotate project, from the foundational concepts to to helpful tips and tricks. The [quick start](https://avannotate.github.io/documentation/pages/quickstart/) offers a step-by-step; the [glossary](https://avannotate.github.io/documentation/pages/glossary/) outlines the terms and concepts needed to work through a project; details about uploading events and annotations are included in the [spreadsheet templates](https://avannotate.github.io/documentation/pages/templates/); and [helpful tips](https://avannotate.github.io/documentation/pages/troubleshooting/) and tricks are last. 
 
