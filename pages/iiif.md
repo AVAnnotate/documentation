@@ -4,6 +4,8 @@ layout: home
 parent: About AVAnnotate
 nav_order: 8
 ---
+# International Image Interoperability Framework (IIIF)
+
 AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_iiif_resources/) for each event. Creating IIIF manifests allows for the metadata associated with an AVAnnotate project (e.g., rights information, audiovisual materials, annotations, etc.) to be easily shared and reproduced. IIIF manifests may also be imported into a new project, allowing for existing annotation, captions, and transcripts to be retained, edited, and (re)presented in AVAnnotate.
 
 ![Image 1](../../assets/createorimportiiif.png)
