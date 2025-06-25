@@ -14,6 +14,6 @@ could do manually in GitHub.
 
 [image]
 
-[Read more about how GitHub handles user data, privacy, permissions, and access here. ](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access)
+[Read more about how GitHub handles user data, privacy, permissions, and access here. ](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access){:target="_blank" rel="noopener"}
 
 
