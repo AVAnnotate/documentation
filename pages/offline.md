@@ -17,9 +17,9 @@ For projects that are private, start with the instructions for [Creating a Priva
 1. Edit the file reference for each AV item in the project. In the AVAnnotate dashboard, go to each [Event](https://avannotate.github.io/documentation/pages/events/) setting and edit the AV URL references by inserting a slash, the "media" directory name, slash, and the name of the AV file (e.g., `/media/file.mp3`).  
 2. Pubish a Static Site. When publishing your AVAnnotate project, select "Static Site". A new repository will appear in your project's GitHub repository named "site." 
 3. Navigate to the project GitHub respository and download the project. To find the GitHub repository for the project, go to the project homepage on the AVAnnotate Dashboard, select the three-dot menu and "Repository." Use the green `Code` button to `Download ZIP` and save the .zip file to the local computer.
-4. Unzip the file on the local computer. Within the zip file, a “site” directory contains the static pages. .
+4. Unzip the file on the local computer. Within the zip file, a “site” directory contains the static pages.
 5. Create a media directory. Within the site folder, create a folder called "media" (please be sure that the name of this directory is the same name used in step 1. above. place all media files needed for the project within this folder. 
-6. Run the site locally. The “site” folder also contains a set of instructions for how to deploy a static AVAnnotate site to any web server (i.e. Apache, NginX). To run the site locally on a computer, the simplest approach is to use the Python web server.
+6. Run the site locally. The “site” folder also contains a set of instructions for how to present a static AVAnnotate site to any web server (i.e. Apache, NginX). To run the site locally on a computer, the simplest approach is to use the Python web server.
    
 ## Using the Python Web Server
 1. Install Python
