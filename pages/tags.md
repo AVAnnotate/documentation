@@ -25,6 +25,8 @@ To manage tags in AVAnnotate:
 ![Image 4](assets/tagmanagement.png)
 
 ## Creating Tags
+Users can add tags and tag groups in the Data Manager. 
+![Image1](../../assets/datamanagertags1.png)
 *Check and double check all project tags!* Tags should only be comprised of URL-safe characters (Alphanumeric [0-9a-zA-Z], special characters $-_.+!*'(),), including commas and the following characters with and without accents:
 
 ```
