@@ -16,7 +16,7 @@ Archivists, librarians, researchers, teachers, and students use the AVAnnotate a
 Researchers creating projects with AVAnnotate should read through this documentation in order to assist in [Getting Started](https://avannotate.github.io/documentation/pages/start/), building a [Project](https://avannotate.github.io/documentation/pages/projects/), constructing [Collaborations](https://avannotate.github.io/documentation/pages/collaborations/), and viewing [Example Projects](https://avannotate.github.io/documentation/pages/examples/). 
 
 # Project Components
-Basic AVAnnotate project components include [Events](https://avannotate.github.io/documentation/pages/events/), [Tag Groups (or categories) and Tags](https://avannotate.github.io/documentation/pages/tags/), [Annotation Sets](https://avannotate.github.io/documentation/pages/sets/) and [Annotations](https://avannotate.github.io/documentation/pages/create-ann/). Users can present these events, annotations, and tags on published AVAnnotate project pages.  
+Basic AVAnnotate project components (i.e., elements of a project) include [Events](https://avannotate.github.io/documentation/pages/events/), [Tag Groups (or categories) and Tags](https://avannotate.github.io/documentation/pages/tags/), [Annotation Sets](https://avannotate.github.io/documentation/pages/sets/) and [Annotations](https://avannotate.github.io/documentation/pages/create-ann/). Users can present these events, annotations, and tags on published AVAnnotate project pages.  
 <br>
 ![Project1Image](project.png)
 <br>
