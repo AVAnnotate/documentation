@@ -6,12 +6,13 @@ nav_order: 1
 ---
 # Creating Transcripts
 
-1. A [Google Colab Notebook](https://github.com/tanyaclement/audio-class/blob/main/transcribe_audio_with_whisper.ipynb) for creating transcripts using Whisper AI. 
+## A [Google Colab Notebook](https://github.com/tanyaclement/audio-class/blob/main/transcribe_audio_with_whisper.ipynb) for creating transcripts using Whisper AI 
     1. Select "Open in Colab" and navigate an open Google Colab window.
     2. In the notebook, according to the directions, insert information about the file to be transcribed and the result file. (E.g., include the URL to the file or YouTube Video to be transcribed, select file type (.tsv, etc.), and select "Download."). For AVAnnotate projects, .tsv or .vtt will work.
     3. In the Colab menu, select "Runtime" and "Run All" or run each cell independently.
     4. If "Download" has been selected, a dialog window will open prompting the user to download the transcript file when the transcription has been completed.
-2. Steps for merging cells in Google Spreadsheets if a speaker's comments comprises multiple cells: 
+       
+## Steps for merging cells in Google Spreadsheets if a speaker's comments comprises multiple cells 
     1. Sa new cell in Column D next to the "first cell" in Column C of a speaker's comments.
     2. Type =concatenate(A1," ",A2," ",A3) replacing A1, A2, and A3 with your desired cell numbers separated by a space " "
     3. Copy the concatenated data in Column D.
