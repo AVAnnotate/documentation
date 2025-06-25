@@ -19,4 +19,4 @@ Leveraging IIIF and GitHub for sharing curated annotations of audiovisual materi
 
 Many libraries, archives, and museums provide IIIF manifests for digitized audio and video recordings. The Internet Archive is another great resource for finding direct links to audio and video recordings.
 
-You can learn more about IIIF here: [https://iiif.io/get-started/how-iiif-works/]
+[You can learn more about IIIF here.](https://iiif.io/get-started/how-iiif-works/)
