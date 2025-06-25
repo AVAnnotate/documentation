@@ -15,7 +15,7 @@ defaults:
 
 # Aux links for the upper right navigation
 aux_links:
-  "av-annotate.org":
+  "Website":
     - "https://av-annotate.org"
   "AVAnnotate Application":
     - "https://avannotate.netlify.app/"
