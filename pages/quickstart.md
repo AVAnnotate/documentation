@@ -10,7 +10,7 @@ nav_order: 1
 
  [Log into AVAnnotate now](https://avannotate.netlify.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-Sign in with your GitHub credentials, or create a new [GitHub](https://github.com/join) account by providing a username, email address, and password.
+Sign in with your GitHub credentials, or create a new [GitHub](https://github.com/join){:target="_blank" rel="noopener"} account by providing a username, email address, and password.
 
 ## Step 2: Create a New Project
 
