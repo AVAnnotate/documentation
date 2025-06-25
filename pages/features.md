@@ -22,31 +22,30 @@ Below is a list of the AVAnnotate application features, organized in sections co
   - Users publish AVAnnotate projects through the AVAnnotate app interface, which modifies GitHub repositories and the state of the data. <br/>
 
 ## Data Manager: 
-# Events
+### Events
   - Events may comprise a single audiovisual file ("single-AV Event") or multiple AV files ("multi-AV Event"). 
   - Single-AV audio and video Events can be created via:
-  -     Spreadsheet upload,
-  -     IIIF manifest import, and/or
-  -     Manually through AVAnnotate interface.
-
+    - Spreadsheet upload,
+    - IIIF manifest import, and/or
+    - Manually through AVAnnotate interface.
   - Multi-AV audio and video Events can be created via:
-  -     IIIF manifest import, and/or
-  -     Manual entry through the AVAnnotate interface.
+    - IIIF manifest import, and/or
+    - Manual entry through the AVAnnotate interface.
 
-# Annotations
+### Annotations
   - Annotations can be added to both single- and multi-AV Events via:
-  -     Spreadsheet upload,
-  -     IIIF manifest import, and/or
-  -     Manual entry through the AVAnnotate interface
+    - Spreadsheet upload,
+    - IIIF manifest import, and/or
+    - Manual entry through the AVAnnotate interface
   - Annotation spreadsheets can be added to the Event's default annotation set or to a newly-created set.
   - Annotations can also be added, edited, or deleted via the AVAnnotate editing interface.
   - Annotation sets can be set as captions on a video file (note: this does not work for YouTube, which has its own captioning system).
   - Event pages allow users to choose how they view annotations (i.e., filter by annotation sets or sort by tag). 
 
-# Tags
+### Tags
  - Tags can be added via:
- -     Spreadsheet upload (if uploaded *before* annotations containing tags), and/or
- -     Manual entry through the AVAnnotate interface (Index). 
+   - Spreadsheet upload (if uploaded *before* annotations containing tags), and/or
+   - Manual entry through the AVAnnotate interface (Index). 
  - Tags and Tag Groups can be edited via AVAnnotate.
  - Event pages allow users to filter annotations by tags.
  - Index pages show when tags appear in different Events and AV files.
@@ -69,8 +68,8 @@ Below is a list of the AVAnnotate application features, organized in sections co
 - Offline/private projects with up to 3 collaborators can be created using GitHub private repositories.
 - AVAnnotate projects can be downloaded and used offline as a free-standing site not locatable on the internet.
 - “No media” AVAnnotate projects can be created via:
--     Spreadsheet upload (users will still need to denote "audio" or "video" in the spreadsheet and will be prompted to enter durations; enter any number and continue), and/or
--     Manual entry by changing the Event settings for the media file from "URL" to "offline."
+  - Spreadsheet upload (users will still need to denote "audio" or "video" in the spreadsheet and will be prompted to enter durations; enter any number and continue), and/or
+  - Manual entry by changing the Event settings for the media file from "URL" to "offline."
 
 {: .note for Aviary Users }
 >  The Aviary player does not support AVAnnotate page structures or custom pages; instead, the manifest goes directly to the Aviary player to produce an Aviary “project.” Aviary does not support YouTube or other non IIIF-compliant media. If a YouTube (or other) link is included in the project, a “No public media” page will be produced. Removing these events will produce an Aviary project.
