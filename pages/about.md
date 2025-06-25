@@ -5,7 +5,7 @@ nav_order: 20
 ---
 
 # AVAnnotate
-[Get Started](https://avannotate.github.io/documentation/){:.btn .btn-primary target="_blank" rel="noopener"} 
+[Get Started](https://avannotate.netlify.app/){:.btn .btn-primary target="_blank" rel="noopener"} 
 
 AVAnnotate uses free and open-source web tools to create static sites on GitHub to share context around AV artifacts. 
 Archivists, librarians, researchers, teachers, and students use the AVAnnotate application to
