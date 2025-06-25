@@ -13,7 +13,7 @@ The AVAnnotate application is split into several primary sections: project setti
 Below is a list of the AVAnnotate application features, organized in sections corresponding to features of the Data Manager, features of the Site Builder, and infrastructure and project settings. 
 
 {: .note }
-> This page will be most useful for new users when read in tandem with the [glossary of AVAnnotate terms](https://avannotate.github.io/documentation/pages/glossary/).
+> This page will be most useful for new users who have already read the [AVAnnotate glossary](https://avannotate.github.io/documentation/pages/glossary/).
 
 ## Infrastructure: 
   - AVAnnotate is based on widely accepted standards (IIIF, web annotations, W3C accessibility, etc.)
