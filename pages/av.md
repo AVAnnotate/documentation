@@ -14,7 +14,7 @@ Unlike websites that store media files (e.g., YouTube, Instagram, Internet Archi
 > AVAnnotate projects may include AV Events without media URLS. Users can toggle `URL` to `Offline` in the `Event` settings. See more information in [Events](https://avannotate.github.io/documentation/pages/events/) and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) on creating bulk uploads without AV URLs.
 
 # Suitable AV Formats
-AVAnnotate does not host audio and video files. Making files available is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/) where direct links to .mp3 and .mp4 files are easy to find. Simply follow [the download directions](https://help.archive.org/help/how-to-download-files/) and instead of downloading, click on the file name and copy the URL to the file.
+AVAnnotate does not host audio and video files. Making files available is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/){:target="_blank" rel="noopener"} where direct links to .mp3 and .mp4 files are easy to find. Simply follow [the download directions](https://help.archive.org/help/how-to-download-files/){:target="_blank" rel="noopener"} and instead of downloading, click on the file name and copy the URL to the file.
 
 ## Valid Formats for IIIF Manifests
 Only File Paths, HLS, and DASH references will generate a valid IIIF manifest. 
