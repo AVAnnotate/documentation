@@ -7,7 +7,7 @@ nav_order: 7
 ---
 # Converting Legacy OHMS
 
-The Louie B. Nunn Center for Oral History at the University of Kentucky Libraries created a web-based, system called OHMS (Oral History Metadata Synchronizer) to inexpensively and efficiently enhance access to oral history online.  [Learn more about OHMS](https://www.oralhistoryonline.org/).
+The Louie B. Nunn Center for Oral History at the University of Kentucky Libraries created a web-based, system called OHMS (Oral History Metadata Synchronizer) to inexpensively and efficiently enhance access to oral history online.  [Learn more about OHMS](https://www.oralhistoryonline.org/){:target="_blank" rel="noopener"}.
 
 Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
 
@@ -27,7 +27,7 @@ Some OHMS-XML files contain header information with item-level data which is dif
   b) `vtt_transcript` (at the bottom of the file)
 
 ### Convert the XML file to a CSV File
-3)  Go to: [https://www.convertcsv.com/xml-to-csv.htm](https://www.convertcsv.com/xml-to-csv.htm)
+3)  Go to: [https://www.convertcsv.com/xml-to-csv.htm](https://www.convertcsv.com/xml-to-csv.htm){:target="_blank" rel="noopener"}
    
 4)  Upload your OHMS xml file into the field in step 1.  ![Upload the file](assets/images/UploadOHMSFile.png)
 
