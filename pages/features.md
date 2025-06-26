@@ -8,7 +8,7 @@ nav_order: 5
 
 At its core, AVAnnotate is a web application that enables users to build digital exhibits that play audiovisual media alongside user-generated time-stamped annotations and tags. 
 
-The AVAnnotate application is split into several primary sections: project settings, "Data Manager," and "Site Builder." The project settings include high-level information like project author, project description, if the project is saved to a public or private repository, and project collaborators. The Data Manager allows users to link their audiovisual media with their associated annotations as well as manage project-wide tags. The Site Builder allows users to customize how their exhibit (including media and annotations) appears to audiences through building and designing webpages. 
+The AVAnnotate application is split into several primary sections: project settings, "Data Manager," and "Site Builder." The project settings include high-level information like project author, project description, if the project is saved to a public or private repository, and project collaborators. The **Data Manager** allows users to link their audiovisual media with their associated annotations as well as manage project-wide tags. The **Site Builder** allows users to customize how their exhibit (including media and annotations) appears to audiences through building and designing webpages. 
 
 Below is a list of the AVAnnotate application features, organized in sections corresponding to features of the Data Manager, features of the Site Builder, and infrastructure and project settings. 
 
@@ -16,8 +16,8 @@ Below is a list of the AVAnnotate application features, organized in sections co
 > This page will be most useful *after* users are familiar with the [AVAnnotate glossary](https://avannotate.github.io/documentation/pages/glossary/).
 
 ## Infrastructure: 
-  - AVAnnotate is based on widely accepted standards (IIIF, web annotations, W3C accessibility, etc.)
-  - AVAnnotate low-cost and has a small, technological footprint. There is no database.
+  - AVAnnotate is based on widely accepted standards (IIIF, web annotations, W3C guidelines, etc.). 
+  - AVAnnotate is low-cost and has a small technological footprint. There is no database.
   - AVAnnotate sits on top of a GitHub repository and relies on GitHub for authentication.
   - Users publish AVAnnotate projects through the AVAnnotate app interface, which modifies GitHub repositories and the state of the data. <br/>
 
