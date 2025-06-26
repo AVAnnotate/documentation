@@ -31,13 +31,13 @@ Some OHMS-XML files contain header information with item-level data which is dif
    
 4)  Upload your OHMS xml file into the field in step 1.
 
-![Image 2](../..assets/images/UploadOHMSFile.png)
+![Image 5](../..assets/UploadOHMSFile.png)
 
 6)  Skip step 2.
 
 7)  In step 3, "Generate output", Choose "XML to Excel".  This will automatically generate an Excel file for download.
 
-![Image 3](../../assets/images/XMLtoExcel.png)
+![Image 6](../../assets/XMLtoExcel.png)
 
 ### Process the spreadsheet
 
