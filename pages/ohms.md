@@ -11,7 +11,7 @@ The Louie B. Nunn Center for Oral History at the University of Kentucky Librarie
 
 Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
 
-![Image 4: ](../../assets/ohms.png)
+![Image 4](../../assets/ohms.png)
 
 ## To produce an AVAnnotate project from an OHMS item:
 
@@ -29,11 +29,15 @@ Some OHMS-XML files contain header information with item-level data which is dif
 ### Convert the XML file to a CSV File
 3)  Go to: [https://www.convertcsv.com/xml-to-csv.htm](https://www.convertcsv.com/xml-to-csv.htm){:target="_blank" rel="noopener"}
    
-4)  Upload your OHMS xml file into the field in step 1.  ![Upload the file](assets/images/UploadOHMSFile.png)
+4)  Upload your OHMS xml file into the field in step 1.
 
-5)  Skip step 2.
+![Image 2](../..assets/images/UploadOHMSFile.png)
 
-6)  In step 3, "Generate output", Choose "XML to Excel".  This will automatically generate an Excel file for download.  ![Generate the Excel file](assets/images/XMLtoExcel.png)
+6)  Skip step 2.
+
+7)  In step 3, "Generate output", Choose "XML to Excel".  This will automatically generate an Excel file for download.
+
+![Image 3](../../assets/images/XMLtoExcel.png)
 
 ### Process the spreadsheet
 
