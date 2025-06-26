@@ -1,5 +1,5 @@
 ---
-title: Custom
+title: Custom Pages
 layout: home
 parent: Site Builder
 grand_parent: Projects
