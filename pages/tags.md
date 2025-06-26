@@ -22,7 +22,7 @@ To manage tags in AVAnnotate:
 - Upload [Tag Spreadsheets](https://avannotate.github.io/documentation/pages/templates/) and create project-level tags and tag groups. Tag spreadsheets should be imported before annotation spreadsheets that have tags; when annotation spreadsheets containing tags are imported, they are matched to the tags.
 - Modify and delete individual tags and tag groups. Once modified, tags and groups will change across all annotations.
 ![Image 3](../../assets/edittagimage1.png)
-![Image 4](assets/tagmanagement.png)
+![Image 4](../../assets/tagmanagement.png)
 
 ## Creating Tags
 Users can add tags and tag groups in the Data Manager. 
