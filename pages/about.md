@@ -30,7 +30,7 @@ AVAnnotate is made better by outside contributors! Please use the [AVAnnotate Gi
 
 # How to Get in Touch
 
-Follow us on [AVAnnotate Announcements](https://github.com/orgs/AVAnnotate/discussions/categories/announcements){:target="_blank" rel="noopener"}, on [Bluesky](https://app.bsky.cz/profile/avannotate.bsky.social){:target="_blank" rel="noopener"}, or join the [AV-Annotate Google Group](https://groups.google.com/u/0/g/av-annotate){:target="_blank" rel="noopener"} for updates, conversations, and invitations to workshops and events. 
+Follow us on [AVAnnotate Announcements](https://github.com/orgs/AVAnnotate/discussions/categories/announcements){:target="_blank" rel="noopener"}, on [Bluesky](https://bsky.app/profile/avannotate.bsky.social){:target="_blank" rel="noopener"}, or join the [AV-Annotate Google Group](https://groups.google.com/u/0/g/av-annotate){:target="_blank" rel="noopener"} for updates, conversations, and invitations to workshops and events. 
 
 [Contact Us](mailto:av-annotate@gmail.com){:.btn .btn-primary target="_blank" rel="noopener"} 
 
