@@ -1,12 +1,12 @@
 ---
-title: Auto-Generated
+title: Auto-Generated Pages
 layout: home
 parent: Site Builder
 grand_parent: Projects
 nav_order: 1
 ---
 
-# Enabling Auto-Generated Event Pages 
+# Auto-Generated Pages 
 AVAnnotate will create auto-generated pages for Events when selected on [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/), [Add an Event](https://avannotate.github.io/documentation/pages/events/), and on the Event settings page. 
 
 ### Auto-generate project pages
