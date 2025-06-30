@@ -33,9 +33,16 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 Include a link to a IIIF manifest by selecting the IIIF logo in a participating DAMS (digital asset management system). 
 <br>
 ![IIIF Image 1](../../assets/eventimage-iiif2.png) 
-Copy the URL to the IIIF manifest  
+Copy the URL to the IIIF manifest.  
 <br>
 ![IIIF Image 2](../../assets/eventimage-iiif1.png) 
+
+<br>
+Select "Import Manifest," paste the URL, and select "Analyze." If the manifest is properly formed, a "Success!" message will appear. Save.
+![IIIF Image 1](../../assets/eventimage-iiif2.png) 
+Copy the URL to the IIIF manifest  
+<br>
+![IIIF Image 2](../../assets/eventimage-iiif1.png)
 
 {: .warning }
 > **Important Note:** The AVAnnotate validator checks that the IIIF manifest structure is valid but does not check links. Broken or invalid links (see [Valid IIIF AV Types](https://avannotate.github.io/documentation/pages/av/)] will not render in an AVAnnotate project. 
