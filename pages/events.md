@@ -31,8 +31,8 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 ### 'Import Manifest' by referencing a IIIF manifest
 
 Include a link to a IIIF manifest in a participating DAMS (digital asset management system). 
-![Image 3](../../assets/eventimage-iiif1.png) 
-![Image 4](../../assets/eventimage-iiif2.png) 
+![IIIF Image 1](../../assets/eventimage-iiif1.png) 
+![IIIF Image 2](../../assets/eventimage-iiif2.png) 
 
 {: .warning }
 > **Important Note:** The AVAnnotate validator checks that the IIIF manifest structure is valid but does not check links. Broken or invalid links (see [Valid IIIF AV Types](https://avannotate.github.io/documentation/pages/av/)] will not render in an AVAnnotate project. 
