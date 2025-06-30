@@ -2,7 +2,7 @@
 title: Data Manager
 layout: home
 parent: Projects
-nav_order: 1
+nav_order: 2
 ---
 # Data Manager
 The AVAnnotate application interface is split into several primary sections: “Data Manager” and “Site Builder.” 
