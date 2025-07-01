@@ -40,7 +40,7 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 <br>
 3. Select "Import Manifest," paste the URL, and select "Analyze." If the manifest is properly formed, a "Success!" message will appear. Save.
 <br>
-![IIIF Image 1](../../assets/eventimage-iiif2.png) 
+![IIIF Image 1](../../assets/iiifimage2.png) 
 <br>
 
 {: .warning }
@@ -50,7 +50,7 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 <br>
 ![Image 2](../../assets/eventimage2.png)
 
-On the edit page, modify information about the event media (Label, Item Type, AV Label, etc.) and add or edit annotation sets. 
+On the edit page, modify information about the event media (Label, Item Type, AV Label, etc.) and add, edit, or delete [annotation sets](https://avannotate.github.io/documentation/pages/sets/). 
 <br>
 ![Image 3](../../assets/eventimage3.png) 
 ![Image 4](../../assets/eventimage4.png) 
