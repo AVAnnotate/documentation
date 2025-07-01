@@ -2,7 +2,7 @@
 title: AVAnnotate Glossary
 layout: home
 parent: Get Started
-nav_order: 2
+nav_order: 5
 ---
 # AVAnnotate Glossary
 
