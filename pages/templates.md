@@ -1,8 +1,8 @@
 ---
 title: Spreadsheet Templates
 layout: home
-grandparent: Projects
 parent: Project Basics
+grand_parent: Projects
 nav_order: 2
 ---
 # Spreadsheet Templates and Examples
