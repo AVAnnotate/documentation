@@ -37,7 +37,6 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 2. Copy the URL to the IIIF manifest.  
 <br>
 ![IIIF Image 2](../../assets/eventimage-iiif1.png) 
-
 <br>
 3. Select "Import Manifest," paste the URL, and select "Analyze." If the manifest is properly formed, a "Success!" message will appear. Save.
 <br>
