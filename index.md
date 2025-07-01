@@ -7,7 +7,7 @@ nav_order: 1
 ## Audio and video is difficult to search. AVAnnotate makes audio and video artifacts easily discoverable.
 ---
 
-This "Get Started" section outlines the basics of developing an AVAnnotate project, from the foundational concepts to to helpful tips and tricks. The [quick start](https://avannotate.github.io/documentation/pages/quickstart/) offers a step-by-step; the [glossary](https://avannotate.github.io/documentation/pages/glossary/) outlines the terms and concepts needed to work through a project; details about uploading events and annotations are included in the [spreadsheet templates](https://avannotate.github.io/documentation/pages/templates/); and [helpful tips](https://avannotate.github.io/documentation/pages/tips/) and tricks are last. 
+This "Get Started" section outlines the basics of developing an AVAnnotate project, from foundational concepts to to helpful tips and tricks. The [quick start](https://avannotate.github.io/documentation/pages/quickstart/) offers a step-by-step guide to creating a project; the [glossary](https://avannotate.github.io/documentation/pages/glossary/) outlines the terms and concepts needed to work through a project; details about using GitHub are in [GitHub Accounts and Organizations](https://avannotate.github.io/documentation/pages/orgs/) and [helpful tips](https://avannotate.github.io/documentation/pages/tips/) and tricks are last. 
 
 [AVAnnotate](https://av-annotate.org/) is a system for creating, organizing, and publishing collections of annotations for audio and video resources, making these artifacts easily discoverable and searchable.
 
