@@ -1,9 +1,8 @@
 ---
 title: GitHub Accounts and Organizations
 layout: home
-parent: Project Basics
-grand_parent: Projects
-nav_order: 1
+parent: Get Started
+nav_order: 4
 ---
 
 # Creating and Accessing GitHub Accounts and Organizations
