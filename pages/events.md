@@ -32,13 +32,16 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 
 1. Select the IIIF logo in a participating DAMS (digital asset management system). 
 <br>
+<br>
 ![IIIF Image 1](../../assets/eventimage-iiif2.png) 
 <br>
 2. Copy the URL to the IIIF manifest.  
 <br>
+<br>
 ![IIIF Image 2](../../assets/eventimage-iiif1.png) 
 <br>
 3. Select "Import Manifest," paste the URL, and select "Analyze." If the manifest is properly formed, a "Success!" message will appear. Save.
+<br>
 <br>
 ![IIIF Image 1](../../assets/iiifimage2.png) 
 <br>
