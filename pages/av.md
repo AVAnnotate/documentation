@@ -17,7 +17,7 @@ Unlike websites that store media files (e.g., YouTube, Instagram, Internet Archi
 AVAnnotate does not host audio and video files. Making files available is made simple by [uploading files to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/){:target="_blank" rel="noopener"} where direct links to .mp3 and .mp4 files are easy to find. Simply follow [the download directions](https://help.archive.org/help/how-to-download-files/){:target="_blank" rel="noopener"} and instead of downloading, click on the file name and copy the URL to the file.
 
 ## Valid Formats for IIIF Manifests
-Only File Paths, HLS, and DASH references will generate a valid IIIF manifest. 
+Projects may be created with audiovisual material from the following sources, each of which will generate a IIIF manifest. IIIF manifests allow for the metadata associated with an AVAnnotate project (e.g., rights information, audiovisual materials, annotations, etc.) to be easily shared and reproduced. Only File Paths, HLS, and DASH references will generate a valid IIIF manifest. 
 
 ### Video
 - **File Paths:** Video files directly hosted on a server or accessible via URLs, such as MP4, MOV, AVI, and MKV, etc. 
