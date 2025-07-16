@@ -77,6 +77,6 @@ These event, tag, and annotation spreadsheets represent a multi-event project in
 
 Sample Video Spreadsheets - 
 -[Camille (1921)](https://avannotate.github.io/camille/events/camille-1921/){:target="_blank" rel="noopener"}  <br>
-These event, tag, and annotation spreadsheets represent a single video event about the 1921 film adaptation of "La Dame aux Camélias" (1848) by Alexandre Dumas, fils. [Camille example spreasheets](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239) {:target="_blank" rel="noopener"}
+These event, tag, and annotation spreadsheets represent a single video event about the 1921 film adaptation of "La Dame aux Camélias" (1848) by Alexandre Dumas, fils. [Camille example spreasheets](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239){:target="_blank" rel="noopener"}
 
 
