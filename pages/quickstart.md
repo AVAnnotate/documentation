@@ -6,6 +6,8 @@ nav_order: 1
 ---
 # Quick Start: How to Use AVAnnotate
 
+![Image 1](../../assets/decision_tree.png)
+
 ## Step 1: Log into AVAnnotate with your GitHub credentials
 
  [Log into AVAnnotate now](https://avannotate.netlify.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
