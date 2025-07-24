@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-## Audio and video is difficult to search. AVAnnotate makes audio and video artifacts easily discoverable.
+## It's difficult to use audio and video in research and teaching. AVAnnotate makes it easier.
 ---
 [AVAnnotate](https://av-annotate.org/) is an application for creating, organizing, and publishing collections of annotations for audio and video resources, making these artifacts easily discoverable and searchable.
 
