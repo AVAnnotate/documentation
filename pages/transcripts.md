@@ -15,7 +15,7 @@ Ensuring audiovisual files have accurate, time-stamped transcripts tends to be o
     4. If "Download" has been selected, a dialog window will open prompting the user to download the transcript file when the transcription has been completed.
        
 ## Steps for merging cells in Google Spreadsheets if a speaker's comments comprises multiple cells 
-    1. Sa new cell in Column D next to the "first cell" in Column C of a speaker's comments.
+    1. Start new cell in Column D next to the "first cell" in Column C of a speaker's comments.
     2. Type =concatenate(A1," ",A2," ",A3) replacing A1, A2, and A3 with your desired cell numbers separated by a space " "
     3. Copy the concatenated data in Column D.
     4. To paste the concatenated data in Column C, select the "first cell", right-click and choose "Paste Special" and "Value Only."
