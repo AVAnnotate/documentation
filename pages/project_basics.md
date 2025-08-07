@@ -4,7 +4,7 @@ layout: home
 parent: Projects
 nav_order: 1
 ---
-## Project Basics
+# Project Basics
 
 Below is a short list of of some guiding questions for users interested in building an AVAnnotate project. The sub-pages of this section each provide further detail on the components of an AVAnnotate project that should be considered alongside each of these questions.
 
