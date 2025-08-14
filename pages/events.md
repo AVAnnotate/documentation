@@ -13,7 +13,10 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 
 ### Add new events by selecting `+ Add` on the Event dashboard
 <br>
-![Image 1](../../assets/datamanagerevent1.png)
+<video width="640" height="360" controls aria-label="Adding event to AVAnnotate project" title="Adding event to AVAnnotate projecto">
+  <source src="assets/myvideo.mp4" type="video/mp4">
+</video>
+
 <br>
 
 ### 'Create Manifest' by inputting information about the new event, including: 
