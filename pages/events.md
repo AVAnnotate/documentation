@@ -15,8 +15,8 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 <br>
 
 <figure>
-  <video width="720" height="360" controls 
-         aria-label="This video demonstrates how to upload an event to an AVAnnotate project via the Event Template. After selecting 'Add,' import a file on your drive. AVAnnotate will prompt you to calibrate the files columns, which requires selecting at least two columns to confirm the configuration. Press 'import,' then press 'save.'" 
+  <video width="640" height="360" controls
+         aria-label="This video demonstrates how to upload an event to an AVAnnotate project via the Event Template. After selecting 'Add,' import a file on your drive. AVAnnotate will prompt you to calibrate the file's columns, which requires selecting at least two columns to confirm the configuration. Press 'import,' then press 'save.'"
          title="Adding event to AVAnnotate project">
     <source src="assets/import_event_edited_1.mp4" type="video/mp4">
     Your browser does not support the video tag.
