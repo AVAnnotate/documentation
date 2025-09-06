@@ -1,6 +1,15 @@
-# Creating and Modifying Annotation Sets
-AVAnnotate allows users to organize their annotations for AV files via different "sets" such as one set for Transcripts and another for Notes; or one annotation set in English and another in Spanish. In other words, a single AV file can have multiple groups of annotations. Annotation sets are groups of annotations for a single AVAnnotate event. 
+---
+title: Annotation Sets
+layout: home
+parent: Data Manager
+grand_parent: Projects
+nav_order: 5
+---
+# Annotation Sets
+AVAnnotate allows users to organize their annotations for AV files via different "sets" such as one set for Transcripts and another for Notes; or one annotation set in English and another in Spanish. In other words, a single AV file can have multiple groups of annotations. Annotation sets are groups of annotations for a single AVAnnotate event.
 
+# Creating and Modifying Annotation Sets
+ 
 - Annotations can be added to the 'Default' set or to a newly created set through `Event` settings. The 'Default' set can be renamed but cannot be deleted.
   
 - Annotation sets can be added manually, via a IIIF manifest, or imported via a separate spreadsheet or .VTT file (Web Video Text Track file).
