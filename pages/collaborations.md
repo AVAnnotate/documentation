@@ -14,7 +14,8 @@ One of the affordances of AVAnnotate is that the application allows for users to
 ### Collaborating via "Add User"
 A straightforward way to collaborate on an AVAnnotate project is to use the "Add User" function within the interface of the application. This feature gives collaborators nearly the same editing interface as the project author, allowing another user to add, edit, and delete project components such as event data (annotations, tags, etc.), project pages, and tag categories. One of the affordances of using this method is that a small number of users can collaborate immediately on the same AVAnnotate project by pushing changes in real time. 
 
-Note: It's suggested that the "Add User" function be used for only a small number of users. For instance, a group project of two to four authors. A project with five or more collaborators may use the GitHub Organizations method below. 
+{: .note }
+> It's suggested that the "Add User" function be used for only a small number of users. For instance, a group project of two to four authors. A project with five or more collaborators may use the GitHub Organizations method below. 
 
 ### Collaborating via GitHub Organizations
 For larger teams or AVAnnotate projects, GitHub Organizations is a suitable way for multiple authors, such as a class or staff, to collaborate on a single project. By managing collaborators through a GitHub Organization, multiple project authors can have access to any AVAnnotate project built under that GitHub Organization account. One affordance of this method is sustainability, as an AVAnnotate project built via a GitHub Organization isn't owned by one author but the Organization itself. In this way, an AVAnnotate project can support long-term initiatives or multi-institutional collaborations without the confusion of individual project ownership. 
