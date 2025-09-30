@@ -15,6 +15,7 @@ In the Data Manager, a project author can import, upload, and add all of the dat
 **Events** tab allows users to create Events, which may contain media files and tagged annotations. The **Tags** tab allows users to upload, create, or edit project-wide tags and tag groups. This section contains how-to's for each element within the Data Manager, including adding and editing Events; creating Annotations; and working with the Tags management system. 
 <br/>
 ![Image 1](../../assets/datamanager.png)
+![Image 1](../../assets/datamanager1.png)
 
 
 
