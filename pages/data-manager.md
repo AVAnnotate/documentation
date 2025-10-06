@@ -7,6 +7,8 @@ nav_order: 2
 # Data Manager
 The AVAnnotate application interface is split into several primary sections: “Data Manager” and “Site Builder.” 
 
+![Image 1](../../assets/datamanager1.png)
+
 In the Data Manager, a project author can import, upload, and add all of the data associated with Events, Tags, and Annotations. The Data Manager contains two subsections: Events and Tags. 
 
 {: .warning }
@@ -19,7 +21,7 @@ In the Data Manager, a project author can import, upload, and add all of the dat
 The **Tags** tab allows users to upload, create, or edit project-wide tags and tag groups. This section contains how-to's for each element within the Data Manager, including adding and editing Events; creating Annotations; and working with the Tags management system. 
 <br/>
 
-![Image 1](../../assets/datamanager1.png)
+
 
 
 
