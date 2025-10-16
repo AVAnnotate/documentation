@@ -5,15 +5,11 @@ parent: Site Builder
 grand_parent: Projects
 nav_order: 2
 ---
-# Customizing Pages 
-Custom pages can be used for the project home page and made to include AV events and clips with or without associated annotations; AV event or clip comparisons; and images (via URL links). 
-
-{: .note }
-> Event pages can be disabled to create custom pages. See below. 
-
-### Create a custom author-generated page by clicking on the “Add” button in the project dashboard
-Custom author-generated pages may include context about the project's events and clips, but can also comprise events and/or event clips. 
-<br><br>
+# Creating custom pages 
+Pages can be created for the home page, for contextual essay pages, for custom-designed event pages, for pages that include AV clips with or without associated annotations; AV event or clip comparisons; and images. 
+ 
+## Add a custom page
+From the Site Builder tab, <br><br>
 ![Image 2: How to add a custom author-generated page](../../assets/customimage2.png) 
 <br><br>
 
