@@ -13,7 +13,8 @@ Annotation sets are groups of annotations for a single av file. In the end user 
  
 - By default, Annotation sets are first added to the 'Default' set through `Event` settings.
 
-The 'Default' set can be renamed but cannot be deleted.
+{: .warning }
+> The 'Default' annotation set can be renamed but cannot be deleted.
   
 - Additional annotation sets can be uploaded under `Event` settings via a IIIF manifest, an imported spreadsheet, or .VTT file (Web Video Text Track file).
   
@@ -21,3 +22,5 @@ The 'Default' set can be renamed but cannot be deleted.
 
 Annotation sets for an event can be imported seperately by selecting a spreadsheet file.
 ![image 2](../../assets/annotationsimage4.png)
+
+Annotation sets are deleted under `Event` settings. 
