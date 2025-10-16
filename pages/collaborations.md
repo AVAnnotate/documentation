@@ -5,10 +5,10 @@ nav_order: 8
 ---
 
 # Collaborative Projects
-AVAnnotate project authors have different options for collaboration, which include but are not limited to:
+AVAnnotate provides different options for collaboration, which include:
 
 ### "Add User"
-The project creator can add another GitHub user on the project settings page. The added user has the ability to add, edit, and delete all project components. The additional user will not have access to add collaborators or [make a project private](https://avannotate.github.io/documentation/pages/private/). 
+The project creator can add another GitHub user on the project settings page. The added user has the ability to add, edit, and delete all project components. The additional user will not have access to add project collaborators or [make a project private](https://avannotate.github.io/documentation/pages/private/). 
 <br>
 
 <figure>
@@ -24,12 +24,9 @@ The project creator can add another GitHub user on the project settings page. Th
 <br>
 
 ### Collaborating via GitHub Organizations
-For larger teams or AVAnnotate projects, GitHub Organizations is a suitable way for multiple authors, such as a class or staff, to collaborate on a single project. By managing collaborators through a GitHub Organization, multiple project authors can have access to any AVAnnotate project built under that GitHub Organization account. One affordance of this method is sustainability, as an AVAnnotate project built via a GitHub Organization isn't owned by one author but the Organization itself. In this way, an AVAnnotate project can support long-term initiatives or multi-institutional collaborations without the confusion of individual project ownership. 
+By managing collaborators through a GitHub Organization, multiple project authors can have access to any AVAnnotate project built under that GitHub Organization account. One affordance of this method is sustainability. An AVAnnotate project built via a GitHub Organization isn't owned by one author but the Organization itself. In this way, an AVAnnotate project can support long-term initiatives or multi-institutional collaborations without the confusion of individual project ownership. 
 
 Visit this page on [managing GitHub collaborators](https://avannotate.github.io/documentation/pages/gh-collab/){:target="_blank" rel="noopener"} for more information on creating a GitHub Organization. 
-
-### Collaborating via IIIF Manifest
-Another opportunity for collaborating on an AVAnnotate project exists within the IIIF manifest, which allows for data from other AVAnnotate projects to be imported into a signle project. This methods allows for any number of independent AVAnnotate projects to be imported into a collective online publication. The affordance of this method lies in how projects can be built and edited independently, then they can be pulled together into a signle, Anthology-style AVAnnotate project. An example of this is the [RHE 306 Anthology](https://trentwintermeier.github.io/rhe-306-anthology/){:target="_blank" rel="noopener"}. The RHE 306 Anthology includes nearly twenty AVAnnotate projects that were built indepenently by students, which were all imported into a signle project through associated IIIF manifests. 
 
 
 
