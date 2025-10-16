@@ -11,9 +11,7 @@ In AVAnnotate, tags function like they do in other web applications; tags are la
 2. Index pages: tags appear as they are associated with different Events and AV files. Individual tags can be selected for play-back across all events in a project.
 
 {: .warning }
-> *Check and double check all project tags!* Tags should only be comprised of URL-safe characters (Alphanumeric [0-9a-zA-Z], special characters $-_.+!*'(),), including commas and the following characters with and without accents:
-> a b c d e f g h I j k l m n o p q r s t u v w x y z
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+> Tags should only be comprised of URL-safe characters such as alphanumeric [0-9 a-z A-Z] characters with and without accents. Commmas are allowed but tags should not start with numbers [0-9]. 
 
 ## Uploading Tags and Tag Groups
 Sets of tags and tag groups can be uploaded via spreadsheet. See [Spreadsheet Templates and Examples](https://avannotate.github.io/documentation/pages/templates/#annotation-spreadsheet-template).
