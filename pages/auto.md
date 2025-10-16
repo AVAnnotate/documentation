@@ -6,20 +6,17 @@ grand_parent: Projects
 nav_order: 1
 ---
 
-# Create a Project
-Users can create auto-generated pages for `Events` when selected on [Add a Project](https://avannotate.github.io/documentation/pages/creating_projects/).
-
-Auto-generated project pages include a generated Home Page with Table of Contents, a page for each Event created, an index with any created [Tags](https://avannotate.github.io/documentation/pages/tags/), and a navigation menu. If an `Event` has an auto-generated page, the published `Event` page will include a media player, annotations, and a description. 
-
-
-On the [Project](https://avannotate.github.io/documentation/pages/creating_projects/) page, auto-generated pages are marked as “Auto-Generated - Home” (to indicate the project home page) or “Auto-Generated - Event” (to indicate an event page).<br>
-![Image 2: Home and Event auto-generated pages in the dashboard.](../../assets/autoimage2.png)
-<br><br>
-
 # Add an Event
 Auto-generated pages can also be created for each `Event` when selected on the [Add an Event](https://avannotate.github.io/documentation/pages/events/) page. 
 <br><br>
 ![Image 4: ](../../assets/autoimage4.png)
+<br><br>
+
+Auto-generated project pages include a generated Home Page with Table of Contents, a page for each [Event](https://avannotate.github.io/documentation/pages/events/) created, an index with [Tags](https://avannotate.github.io/documentation/pages/tags/), and a navigation menu. If an `Event` has an auto-generated page, the published `Event` page will include a media player, annotations, and a description. 
+
+
+On the [Project](https://avannotate.github.io/documentation/pages/creating_projects/) page, auto-generated pages are marked as “Auto-Generated - Home” (to indicate the project home page) or “Auto-Generated - Event” (to indicate an event page).<br>
+![Image 2: Home and Event auto-generated pages in the dashboard.](../../assets/autoimage2.png)
 <br><br>
 
 On the [Event](https://avannotate.github.io/documentation/pages/events/) edit page, "auto-generate web page" is toggled on by default, but can be disabled at any point in the Event settings.
