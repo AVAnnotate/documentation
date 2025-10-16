@@ -7,8 +7,6 @@ nav_order: 4
 ---
 # Annotations
 
-Users generate and add timestamped annotations to each AV file through the AVAnnotate dashboard. 
-
 Timestamps are the beginning and end time of a point in time or segment of AV. Annotations correspond to this point or range in the audio or video. Annotations contain information about the media such as a transcript, captions, information about formal features of the media (e.g., shot sequence, volume, or lighting), historical or cultural context, environmental noises such as fans or car horns, or conceptual notes or themes among a wide variety of other possible topics. 
 
 Annotations must refer to a timestamped point in time or segment of AV. 
@@ -27,6 +25,5 @@ On the settings page for a given event, annotations can be uploaded [in various 
 On the event page, annotations can be 
 * added individually via the Add button.
 ![image 2](../../assets/annotationsimage3.png)
-
 * modified individually 
 * deleted individually; see [annotation sets](https://avannotate.github.io/documentation/pages/annotationsets/) for directions on deleting sets of annotations 
