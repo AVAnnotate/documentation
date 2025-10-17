@@ -10,11 +10,10 @@ nav_order: 5
 Annotation sets are groups of annotations for a single av file. In the end user interface, visitors can filter annotations by the sets. Annotation sets might be organized to include one set for transcripts and another for notes; or one annotation set in English and another in Spanish; or one set created by Manuel and another created by Laura.  
 
 ## Creating and Modifying Annotation Sets
- 
-- By default, Annotation sets are first added to the 'Default' set through `Event` settings.
+By default, Annotation sets are first added to the 'Default' set through `Event` settings.
 
 {: .warning }
-> The 'Default' annotation set can be renamed but cannot be deleted.
+> The 'Default' annotation set can be re-named but cannot be deleted.
   
 - Additional annotation sets can be uploaded under `Event` settings via a IIIF manifest, an imported spreadsheet, or .VTT file (Web Video Text Track file).
   
