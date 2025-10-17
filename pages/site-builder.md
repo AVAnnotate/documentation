@@ -8,4 +8,4 @@ nav_order: 3
 
 Pages help construct the building blocks of a project. Pages may be created as [Auto-generated pages](https://avannotate.github.io/documentation/pages/auto/) or [Custom pages.](https://avannotate.github.io/documentation/pages/custom/) 
 
-![Image 1](../../assets/data_updated_2.png)
+![Image 1](../../assets/sitebuilder1.png)
