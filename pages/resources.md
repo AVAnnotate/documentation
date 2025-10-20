@@ -16,7 +16,7 @@ In each of the following intersecting workflows for creating an AVAnnotate proje
 
 → Determine how your argument is best presented to your audience via annotations, index terms, and customized pages <br>
 → Determine what types of annotations and index terms support how you present your argument to your audience <br>
-→ Establish what research you will need to do in order to develop your argument about the AV and present it to your audience 
+→ Establish what research you will need to do in order to develop your argument about the AV and present it to your audience <br>
 
 </details>
 <details>
@@ -24,7 +24,7 @@ In each of the following intersecting workflows for creating an AVAnnotate proje
 
 → Determine what types of annotations and index terms support how you present your argument to your audience <br>
 → Establish what research you will need to do in order to develop your argument about the AV and present it to your audience <br>
-→ Determine how your argument is best presented to your audience via annotations, index terms, and customized pages 
+→ Determine how your argument is best presented to your audience via annotations, index terms, and customized pages <br>
 
 </details>
 <details>
@@ -37,10 +37,30 @@ In each of the following intersecting workflows for creating an AVAnnotate proje
 </details>
 
 ## Teaching with AVAnnotate
+In each of the following intersecting workflows for creating an AVAnnotate project, there are two considerations to keep in mind: 
+- How the annotations and index terms employed in the AVAnnotate project will help students critically engage with the AV.
+- How the assignment is crafted to help students make an argument with AVAnnotate that reflects their understanding of the learning objectives.
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>I have audiovisual materials</summary>
+→ Establish what you want students to learn about making an argument about AV
+→ Determine how the assignment combines annotations, index terms, and customized pages
+→ Determine what types of annotations and index terms support the learning objective
+  
+</details>
 
-  This is the hidden text that appears when the dropdown is opened.
-  You can add **bold text**, *italics*, or [links](#) just like normal Markdown.
+<details>
+  <summary>I have an assignment</summary>
+→ Determine how the assignment combines annotations, index terms, and customized pages
+→ Determine what types of annotations and index terms support the learning objective
+→ Establish what you want students to learn about making an argument about AV
+  
+</details>
+
+<details>
+  <summary>I have a learning objective</summary>
+→ Determine what types of annotations and index terms support the learning objective
+→ Establish what you want students to learn about making an argument about AV
+→ Determine how the assignment combines annotations, index terms, and customized pages
+  
 </details>
