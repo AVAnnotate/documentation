@@ -43,24 +43,24 @@ In each of the following intersecting workflows for creating an AVAnnotate proje
 
 <details>
   <summary>I have audiovisual materials</summary>
-→ Establish what you want students to learn about making an argument about AV
-→ Determine how the assignment combines annotations, index terms, and customized pages
-→ Determine what types of annotations and index terms support the learning objective
+→ Establish what you want students to learn about making an argument about AV <br>
+→ Determine how the assignment combines annotations, index terms, and customized pages <br>
+→ Determine what types of annotations and index terms support the learning objective <br>
   
 </details>
 
 <details>
   <summary>I have an assignment</summary>
-→ Determine how the assignment combines annotations, index terms, and customized pages
-→ Determine what types of annotations and index terms support the learning objective
-→ Establish what you want students to learn about making an argument about AV
+→ Determine how the assignment combines annotations, index terms, and customized pages <br>
+→ Determine what types of annotations and index terms support the learning objective <br>
+→ Establish what you want students to learn about making an argument about AV <br>
   
 </details>
 
 <details>
   <summary>I have a learning objective</summary>
-→ Determine what types of annotations and index terms support the learning objective
-→ Establish what you want students to learn about making an argument about AV
+→ Determine what types of annotations and index terms support the learning objective <br>
+→ Establish what you want students to learn about making an argument about AV <br>
 → Determine how the assignment combines annotations, index terms, and customized pages
   
 </details>
