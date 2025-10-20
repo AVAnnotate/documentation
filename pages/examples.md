@@ -14,13 +14,13 @@ The AVAnnotate team, partners, and community have posted example projects under 
 
 As part of the Latin American Programs of the Longhorn Radio Network, the Latin American Press Review radio program covered all of Latin America and the Caribbean, airing from 1973 to 1974.
 
-## Shoes (1916)
+## [Shoes (1916)](https://tanyaclement.github.io/shoes/){:target="_blank" rel="noopener"}
 
 ![Image 1](../../assets/Shoes011.HandOfPoverty_800x.webp)
 
 This project annotates Lois Weber’s 1916 silent film Shoes. The film’s story follows a working class young woman coming to class consciousness. It revolves around the woman’s need to purchase a pair of shoes from the department store in which she works as she supports her family.
 
-## The Evolution of Lorde
+## [The Evolution of Lorde](https://leiahnb2.github.io/Lorde/){:target="_blank" rel="noopener"}
 
 ![Image 1](../../assets/lorde.jpg)
 
