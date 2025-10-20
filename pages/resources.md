@@ -5,7 +5,7 @@ nav_order: 9
 ---
 # Resources
 
-These resources contain different steps for developing individual and collaborative AVAnnotate projects, from transcript development to steps for teaching AVAnnotate in the college classroom.  
+These resources contain different steps for developing individual AVAnnotate projects for research and teaching. Below are workflows for each, and the sub-pages of this section offer more in-depth instructions for developing transcription for research projects and collaborative teaching projects with AVAnnotate.
 
 ## Researching with AVAnnotate
 In each of the following intersecting workflows for creating an AVAnnotate project, there are two considerations to keep in mind: 
