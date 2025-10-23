@@ -36,6 +36,8 @@ In each of the following intersecting workflows for creating an AVAnnotate proje
 
 </details>
 
+![Image 1](../../assets/creatingaresearchproject.png)
+
 ## Teaching with AVAnnotate
 In each of the following intersecting workflows for creating an AVAnnotate project, there are two considerations to keep in mind: 
 - How the annotations and index terms employed in the AVAnnotate project will help students critically engage with the AV.
