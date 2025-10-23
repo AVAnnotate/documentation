@@ -6,6 +6,8 @@ nav_order: 8
 # AVAnnotate Examples
 The AVAnnotate team, partners, and community have posted example projects under the [Show and Tell](https://github.com/orgs/AVAnnotate/discussions/categories/show-and-tell){:target="_blank" rel="noopener"} thread on the [AVAnnotate Discussion Board](https://github.com/orgs/AVAnnotate/discussions){:target="_blank" rel="noopener"}. 
 
+Example AVAnnotate projects are available on the [AVAnnotate website](https://av-annotate.org/example-projects/){:target="_blank" rel="noopener"}. 
+
 [The AVAnnotate Monster Mash](https://avannotate.github.io/mm/){:target="_blank" rel="noopener"} documenting the breadth of AVAnnotate features is actively under development. 
 
 ## [Latin American Press Review Radio Collection](https://llilasbenson.github.io/lapr/pages/957fbd39-5a56-4e7c-8771-31b4af8623c6/){:target="_blank" rel="noopener"}
