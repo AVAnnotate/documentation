@@ -8,8 +8,9 @@ Ben Brumfield, Brumfield Labs
 Sara Brumfield, Brumfield Labs
 Nick Laiacona, Performant Software
 Anindita Basu Sempere, Performant Software
+Raymond Hyser, Graduate Research Assistant, UT Austin
+Trent Wintermeier, Graduate Research Assistant, UT Austin
 Sam Turner, Graduate Research Assistant, UT Austin
-Alyssa Frick-Jenkins, Graduate Research Assistant, UT Austin
 Jack Riordan, Graduate Research Assistant, UT Austin
 
 ## Project Partners:
