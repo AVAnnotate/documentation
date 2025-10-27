@@ -6,28 +6,28 @@ nav_order: 10
 # AVAnnotate Frequently Asked Questions 
 
 ## What do I need to use AVAnnotate?
-To use AVAnnotate, you will need: a GitHub account; a direct link to the .mp3 or .mp4 file of your audio or video or a IIIF manifest for the recording; and spreadsheets containing information about the project’s Events, Tags, and Annotations.
+To use AVAnnotate, you will need: a [GitHub account](https://github.com/){:target="_blank" rel="noopener"}, a direct link to the .mp3 or .mp4 file of your audio or video, or a IIIF manifest for the recording, and spreadsheets containing information about the project’s [Events](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?gid=1808582907#gid=1808582907){:target="_blank" rel="noopener"}, [Tags](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?gid=1566438220#gid=1566438220){:target="_blank" rel="noopener"}, and [Annotations](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?gid=92796109#gid=92796109){:target="_blank" rel="noopener"}.
 
 ## Where can I find audio or video files that provide direct links or IIIF manifests?
-Many libraries, archives, and museums provide IIIF manifests for digitized audio and video recordings. The Internet Archive is another great resource for finding direct links to audio and video recordings.
+Many libraries, archives, and museums offer IIIF manifests for digitized audio and video recordings. The Internet Archive is another great resource for finding direct links to audio and video files.
 
 ## How do I get started creating annotations?
-The spreadsheet templates are designed to help you get started. Make a copy of each spreadsheet template (one for Events, Tags, and Annotations, respectively) and get ready to start annotating and inputting time stamps. Time stamps may be “point annotations” (the same in and out time), or intervals of time. 
+The [spreadsheet templates](https://avannotate.github.io/documentation/pages/templates/) are designed to help you get started. Make a copy of each spreadsheet template (one for Events, Tags, and Annotations, respectively) and get ready to start annotating and entering timestamps. Time stamps may be “point annotations” (the same in and out time) or time intervals. 
 
-## Does each cell on my Annotations, Events, and Tags spreadsheet have to be filled out?
-On annotation spreadsheets, start time, end time, and annotation are all required. If you’re using column headers, these also need to be filled in, so you can’t leave one header blank and fill in the rest. Other cells are not required.
+## Does each cell on my Annotations, Events, and Tags spreadsheet have to be filled in?
+On annotation spreadsheets, start time, end time, and annotation are all required. If you’re using column headers, these also need to be filled in, so you cannot leave one header blank and fill in the rest. Other cells are not required.
 
-## I’ve successfully added my Tags and Events, but can’t “save” my project after uploading my Annotations spreadsheet. What should I do? 
-This likely means there’s an issue with your Annotations spreadsheet (e.g., an empty cell, or a missing start/end time on a given timestamp). Double check that you’ve correctly filled out every cell corresponding to your annotations, and try importing the spreadsheet again.
+## I have successfully added my Tags and Events, but cannot “save” my project after uploading my Annotations spreadsheet. What should I do? 
+This likely means there is an issue with your Annotations spreadsheet (e.g., an empty cell, or a missing start/end time on a given timestamp). Double-check that you have correctly filled out every cell corresponding to your annotations, and try importing the spreadsheet again.
 
 ## How do I format multiple tags on a single annotation? 
-In the AVAnnotate editing interface, after adding tags and tag categories, multiple tags can be added to a single annotation by selecting from the list of available tags from the list provided. For bulk uploading, adding multiple tags is a little different. In the "tags" column, tags and their corresponding categories need to be separated with a vertical bar, like this: Tag | Tag 2, and so on. For example, in "[Spaces and Dreams in Muriel Rukeyser's The Speed of Darkness](https://avannotate.github.io/voices/events/spaces-and-dreams-in-muriel-rukeysers-the-s/){:target="_blank" rel="noopener"}", the first annotation includes two tags: "Speaking" and "Transcription," which would show up in the template's "Tag" column as Speaking | Transcription.
+In the AVAnnotate editing interface, after adding tags and tag categories, multiple tags can be added to a single annotation by selecting them from the available tag list. For bulk uploading, adding multiple tags is a little different. In the "tags" column, tags and their corresponding categories should be separated by a vertical bar, like this: Tag | Tag 2, and so on. For example, in "[Spaces and Dreams in Muriel Rukeyser's The Speed of Darkness](https://avannotate.github.io/voices/events/spaces-and-dreams-in-muriel-rukeysers-the-s/){:target="_blank" rel="noopener"}", the first annotation includes two tags: "Speaking" and "Transcription," which would show up in the template's "Tag" column as Speaking | Transcription.
 
-## What does "Oauth" mean and what am I giving GitHub permission to access?
-Oauth enables applications to interact with a user's GitHub account, such as accessing repositories or user data, after the user grants permission. To create and edit an AVAnnotate project, the application must have permission to access the GitHub account in which a repository will be developed. 
+## What does "OAuth" mean, and what am I giving GitHub permission to access?
+OAuth enables applications to interact with a user's GitHub account, such as accessing repositories or user data, after the user grants permission. To create and edit an AVAnnotate project, the application must have permission to access the GitHub account where the repository will be created.
 
 ## I received an email from GitHub that says “Run failed: Deploy main branch to GitHub Pages.” What should I do? 
-Nothing. This email is automatically generated by GitHub when an event is interrupted, but many activities are interrupted in the process of generating an AVAnnotate project. If your project still works, please ignore these emails! 
+Nothing. This email is automatically generated by GitHub when an event is interrupted, but many activities are interrupted during the generation of an AVAnnotate project. If your project still works, please ignore these emails.
 
 
 
