@@ -13,6 +13,6 @@ Steps for including collaborators on projects:
 5. After accepting the invitation from GitHub, the project will appear under the `Shared Projects` tab in the collaborator's AVAnnotate `Projects` dashboard.
 6. For other types of collaborations and permissions, please see [Managing GitHub Collaborators](https://avannotate.github.io/documentation/pages/gh-collab/){:target="_blank" rel="noopener"}.
 
-![image1](../../assets/addcollaboratorimage1.png)
+![image1](../../assets/newaddcollaboratorimage1.png)
 
-![image2](../../assets/addcollaboratorimage2.png)
+![image2](../../assets/newaddcollaboratorimage2.png)
