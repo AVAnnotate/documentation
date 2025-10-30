@@ -7,23 +7,23 @@ nav_order: 4
 ---
 # Annotations
 
-Timestamps are the beginning and end time of a point in time or segment of AV. Annotations correspond to this point or range in the audio or video. Annotations contain information about the media such as a transcript, captions, information about formal features of the media (e.g., shot sequence, volume, or lighting), historical or cultural context, environmental noises such as fans or car horns, or conceptual notes or themes among a wide variety of other possible topics. 
+Timestamps mark the start and end times of a specific point or segment of an AV artifact. Annotations refer to this point or range in the audio or video. They include information about the media, such as transcripts, captions, details about formal features (like shot sequence, volume, or lighting), historical or cultural context, environmental noises (like fans or car horns), or conceptual notes or themes, along with a variety of other possible topics.
 
 Annotations must refer to a timestamped point in time or segment of AV. 
-- Timestamps can be included in either seconds or in hh:mm:ss format and must have a start and end time. The start and end time can represent a range or be the same, as in a point in time.
+- Timestamps can be provided either in seconds or in hh:mm:ss format. They must include a start and an end time. The start and end times can specify a range or the same moment in time.
 - Annotations and timestamps can be added, edited, or deleted through the AVAnnotate dashboard.
-- Multiple annotations can be included for the same timestamp or spanning timestamps.
-- 
+- Multiple annotations can be included for the same timestamp.
+- A single annotation can span multiple timestamps.
+
 # Creating, Modifying, and Deleting Annotations
 
-Annotations always correspond to an associated event. To add annotations to an event in AVAnnotate, navigate to the Events dashboard and select an event. 
-![annotationsimage1](../../assets/annotationsimage1.png)
+Annotations always correspond to an associated event. To add annotations to an event in AVAnnotate, navigate to the `Events` dashboard and select an event. 
+![image1](../../assets/newannotationsimage1.png)
 
-On the settings page for a given event, annotations can be uploaded [in various file formats](https://avannotate.github.io/documentation/pages/templates/) via the Import button, 
-![image 2](../../assets/annotationsimage2.png)
+On the settings page for a given event, annotations can be uploaded [in various file formats](https://avannotate.github.io/documentation/pages/templates/) by selecting `Import` under the `Add` button. 
+![image 2](../../assets/newannotationsimage2.png)
 
-On the event page, annotations can be 
-* added individually via the Add button.
-![image 2](../../assets/annotationsimage3.png)
-* modified individually 
-* deleted individually; see [annotation sets](https://avannotate.github.io/documentation/pages/annotationsets/) for directions on deleting sets of annotations 
+![image3](../../assets/newannotationsimage4.png)
+
+On the event page, annotations can be added individually by selecting `Create` under the `Add` button.
+![image 4](../../assets/newannotationsimage3.png)
