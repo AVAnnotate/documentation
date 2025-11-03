@@ -6,16 +6,19 @@ nav_order: 10
 # AVAnnotate Frequently Asked Questions 
 
 ## What do I need to use AVAnnotate?
-To use AVAnnotate, you will need: a [GitHub account](https://github.com/){:target="_blank" rel="noopener"}, a direct link to the .mp3 or .mp4 file of your audio or video, or a IIIF manifest for the recording, and spreadsheets containing information about the project’s [Events](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?gid=1808582907#gid=1808582907){:target="_blank" rel="noopener"}, [Tags](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?gid=1566438220#gid=1566438220){:target="_blank" rel="noopener"}, and [Annotations](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?gid=92796109#gid=92796109){:target="_blank" rel="noopener"}.
+To use AVAnnotate, you will need: 
+- a [GitHub account](https://github.com/){:target="_blank" rel="noopener"} 
+- a direct link to the .mp3 or .mp4 file of your audio or video or a IIIF manifest for the recording
+- time-stamped annotations. You can add them one-at-a-time or upload spreadsheets containing information about the project’s [Events](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?gid=1808582907#gid=1808582907){:target="_blank" rel="noopener"}, [Tags](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?gid=1566438220#gid=1566438220){:target="_blank" rel="noopener"}, and [Annotations](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?gid=92796109#gid=92796109){:target="_blank" rel="noopener"}.
 
 ## Where can I find audio or video files that provide direct links or IIIF manifests?
-Many libraries, archives, and museums offer IIIF manifests for digitized audio and video recordings. The Internet Archive is another great resource for finding direct links to audio and video files.
+Many libraries, archives, and museums offer online AV files that are free and open to the public. They may also offer [IIIF manifests for digitized audio and video recordings](https://iiif.io/). The (Internet Archive)[https://archive.org/] is another great resource for finding direct links to audio and video files.
 
 ## How do I get started creating annotations?
-The [spreadsheet templates](https://avannotate.github.io/documentation/pages/templates/) are designed to help you get started. Make a copy of each spreadsheet template (one for Events, Tags, and Annotations, respectively) and get ready to start annotating and entering timestamps. Time stamps may be “point annotations” (the same in and out time) or time intervals. 
+[Getting started](https://avannotate.github.io/documentation/pages/quickstart/) is easy! You can create annotations using the AVAnnotate dashboard or you can create your annotations in spreadsheets and upload them through the AVAnnotate dashboard. The [spreadsheet templates](https://avannotate.github.io/documentation/pages/templates/) are designed to help you get started. Make a copy of each spreadsheet template (one for [Events](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?gid=1808582907#gid=1808582907){:target="_blank" rel="noopener"}, [Tags](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?gid=1566438220#gid=1566438220){:target="_blank" rel="noopener"}, and [Annotations](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?gid=92796109#gid=92796109){:target="_blank" rel="noopener"}., respectively). 
 
 ## Does each cell on my Annotations, Events, and Tags spreadsheet have to be filled in?
-On annotation spreadsheets, start time, end time, and annotation are all required. If you’re using column headers, these also need to be filled in, so you cannot leave one header blank and fill in the rest. Other cells are not required.
+On annotation spreadsheets, start time, end time, and annotation are all required. If you are using column headers, these also need to be filled in, so you cannot leave one header blank and fill in the rest. Other cells are not required.
 
 ## I have successfully added my Tags and Events, but cannot “save” my project after uploading my Annotations spreadsheet. What should I do? 
 This likely means there is an issue with your Annotations spreadsheet (e.g., an empty cell, or a missing start/end time on a given timestamp). Double-check that you have correctly filled out every cell corresponding to your annotations, and try importing the spreadsheet again.
