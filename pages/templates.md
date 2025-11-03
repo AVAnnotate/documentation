@@ -17,7 +17,7 @@ This guide provides templates for uploading project information to AVAnnotate in
 * Annotation Spreadsheet: Each row in an annotation spreadsheet is a single annotation corresponding to a timestamp on the AV file.
 
 {: .warning }
-> **Important Note:** In order for AVAnnotate to properly read and present the data in each spreadsheet, all required cells in a spreadsheet must be filled out. If a value is optional, the column header(s) in the spreadsheet templates will denote that (i.e., Event Citation and Event Description are both marked as optional fields on the Event spreadsheet). 
+> **Important Note:** On annotation spreadsheets, all cells must be filled out. Start time, end time, and annotation are all required, but if column headers or tags are used, all header and tag cells must also be completely filled out.  
 
 ---
 ## [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
