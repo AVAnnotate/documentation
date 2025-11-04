@@ -1,6 +1,9 @@
+
 ---
 title: Contributors
 layout: home
-nav_order: 1
+parent: About AVAnnotate
+nav_order: 5
 ---
+
 {% include contributors.html %}
