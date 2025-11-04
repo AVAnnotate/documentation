@@ -15,10 +15,12 @@ defaults:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Website":
-    - "https://av-annotate.org"
   "AVAnnotate Application":
     - "https://avannotate.netlify.app/"
+  "Website":
+    - "https://av-annotate.org"
+  "User Guidelines":
+    - "https://avannotate.github.io/guidelines/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -26,8 +28,6 @@ aux_links_new_tab: true
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
-
-
 
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
