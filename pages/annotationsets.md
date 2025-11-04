@@ -7,19 +7,21 @@ nav_order: 5
 ---
 # Annotation Sets
 
-Annotation sets are groups of annotations for a single av file. In the end user interface, visitors can filter annotations by the sets. Annotation sets might be organized to include one set for transcripts and another for notes; or one annotation set in English and another in Spanish; or one set created by Manuel and another created by Laura.  
+Annotation sets consist of groups of annotations for a single AV file. In the end-user interface, visitors can filter annotations based on these sets. Annotation sets might be organized to include one for transcripts and another for notes, or one in English and another in Spanish, or one created by Manuel and another by Laura.
 
 ## Creating and Modifying Annotation Sets
 By default, Annotation sets are first added to the 'Default' set through `Event` settings.
 
 {: .warning }
-> The 'Default' annotation set can be re-named but cannot be deleted.
+> The 'Default' annotation set can be renamed but cannot be deleted.
   
-- Additional annotation sets can be uploaded under `Event` settings via a IIIF manifest, an imported spreadsheet, or .VTT file (Web Video Text Track file).
-  
-- After upload annotation sets can be set as captions on a video file (note: this does not work for YouTube, which has its own captioning system) by selecting the settings of an annotation set in the `Event` settings. 
+- Additional annotation sets can be uploaded under `Event` settings via an IIIF manifest, an imported spreadsheet, or a file (TSV, XLSX, or tab-delimited TXT files are supported).
 
-Annotation sets for an event can be imported seperately by selecting a spreadsheet file.
-![image 2](../../assets/annotationsimage4.png)
+- After uploading, annotation sets can be added as captions to a video file (note: this does not work for YouTube, which has its own captioning system) by selecting the settings of an annotation set in the `Event` settings.
+
+
+Annotation sets for an event can be imported separately by selecting a spreadsheet file.
+![image 1](../../assets/newannotationssetimage1.png)
 
 Annotation sets are deleted under `Event` settings. 
+![image 2](../../assets/newannotationssetimage2.png)
