@@ -9,16 +9,17 @@ nav_order: 4
 
 In AVAnnotate, "Annotations" refer to the body of an annotation that is associated with a timestamped point or range in the audio or video. They include information about the media, such as transcripts, captions, details about formal features (like shot sequence, volume, or lighting), historical or cultural context, environmental noises (like fans or car horns), or conceptual notes or themes, along with a variety of other possible topics.
 
-Requirements: 
-- Timestamps must be provided for each annotation in seconds or in the hours:minutes:seconds (hh:mm:ss) format. They must include a start and an end time. The start and end times can specify a range or the same moment in time.
+Requirements
+- Annotations always correspond to an associated event.
+- - Timestamps must be provided for each annotation in seconds or in the hours:minutes:seconds (hh:mm:ss) format. They must include a start and an end time. The start and end times can specify a range or the same moment in time.
+  
+Allowances: 
+- Multiple annotations can be included for the same timestamp.
+- A single annotation can span multiple timestamps.
 
 # Creating, Modifying, and Deleting Annotations
 
-- Annotations and timestamps can be added, edited, or deleted through the AVAnnotate dashboard.
-- Multiple annotations can be included for the same timestamp.
-- A single annotation can span multiple timestamps.
-- Annotations always correspond to an associated event.
-
+Annotations and timestamps can be added, edited, or deleted through the AVAnnotate dashboard.
 
 To add annotations to an event in AVAnnotate, navigate to the `Events` dashboard and select an event. 
 ![image1](../../assets/newannotationsimage1.png)
