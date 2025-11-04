@@ -8,15 +8,12 @@ nav_order: 20
 [Get Started](https://avannotate.netlify.app/){:.btn .btn-primary target="_blank" rel="noopener"} 
 
 AVAnnotate uses free and open-source web tools to create static sites on GitHub for sharing context around AV artifacts. 
-Archivists, librarians, researchers, teachers, and students use the AVAnnotate application to:
-- generate IIIF manifests and an associated GitHub repository
-- upload annotations and a URL to their AV item 
-- present and share their timestamped notes, annotations, and contextual writing around AV artifacts
+Archivists, librarians, researchers, teachers, and students use the AVAnnotate application to present and share their timestamped notes, annotations, and contextual writing around AV artifacts. 
 
 Researchers creating projects with AVAnnotate should read this documentation to assist with [Getting Started](https://avannotate.github.io/documentation/), building a [Project](https://avannotate.github.io/documentation/pages/projects/), creating [Collaborations](https://avannotate.github.io/documentation/pages/collaborations/), and viewing [Example Projects](https://avannotate.github.io/documentation/pages/examples/). 
 
 # Project Components
-Basic AVAnnotate project components (i.e., elements of a project) include [Events](https://avannotate.github.io/documentation/pages/events/), [Tags and Tag Groups](https://avannotate.github.io/documentation/pages/tags/), [Annotations](https://avannotate.github.io/documentation/pages/annotations), and [Annotation Sets](https://avannotate.github.io/documentation/pages/annotationsets/). Users can display these annotations, events, and tags on published AVAnnotate project pages.  
+Basic AVAnnotate project components (i.e., elements of a project) include [Events](https://avannotate.github.io/documentation/pages/events/), [Tags and Tag Groups](https://avannotate.github.io/documentation/pages/tags/), [Timestamped Annotations](https://avannotate.github.io/documentation/pages/annotations), and [Annotation Sets](https://avannotate.github.io/documentation/pages/annotationsets/). Users can display these annotations, events, and tags on published AVAnnotate project pages.  
 
 # Get Help
  
