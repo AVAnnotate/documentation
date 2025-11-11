@@ -1,43 +1,38 @@
 <style>
-  #contributors {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 1rem;
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto; 
+  .contributors {
+    display: flex;
+    flex-wrap: wrap;
   }
-
   .contributor {
+    flex: auto;
+    max-width: 18%; /* roughly 5 per row */
+    margin-right: 1rem;
+    margin-bottom: 1rem;
     text-align: center;
-    background: #f9f9f9;
-    padding: 0.5rem;
-    border-radius: 0.5rem;
   }
-
+  a.no-hover-line {
+    background-image: unset !important;
+  }
+  a.no-hover-line:hover {
+    background-image: unset !important;
+  }
+  .contributor p.contributor-info {
+    font-size: 0.7em;
+    line-height: 1em;
+    padding: 0.2rem 0;
+    margin: 0;
+  }
+  .contributor p.username {
+    font-weight: bold;
+    font-size: 0.8em;
+  }
   .contributor img {
+    margin: 0 auto;
     border-radius: 50%;
     width: 100px;
     height: 100px;
     display: block;
-    margin: 0 auto 0.5rem auto;
   }
-
-  .contributor p {
-    margin: 0.2rem 0;
-    font-size: 0.8em;
-    word-break: break-word;
-  }
-
-  .contributor a {
-    text-decoration: none;
-    color: inherit;
-  }
-
-  @media (max-width: 1200px) { #contributors { grid-template-columns: repeat(4, 1fr); } }
-  @media (max-width: 992px)  { #contributors { grid-template-columns: repeat(3, 1fr); } }
-  @media (max-width: 768px)  { #contributors { grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 480px)  { #contributors { grid-template-columns: 1fr; } }
 </style>
 
 <div id="contributors">
@@ -46,7 +41,7 @@
 
 <script>
 (async function() {
-  const repo = "AVAnnotate/documentation"; // 
+  const repo = "AVAnnotate/documentation"; // 🔧 change if needed
   const container = document.getElementById("contributors");
 
   try {
@@ -61,11 +56,15 @@
 
     container.innerHTML = data.map(user => `
       <div class="contributor">
-        <a href="${user.html_url}" target="_blank">
-          <img src="${user.avatar_url}" alt="@${user.login}'s avatar">
+        <a class="no-hover-line" href="${user.html_url}" target="_blank">
+          <img src="${user.avatar_url}" alt="github avatar for @${user.login}" />
         </a>
-        <p><a href="${user.html_url}" target="_blank">@${user.login}</a></p>
-        <p>🛠️ ${user.contributions} commit${user.contributions>1?'s':''}</p>
+        <p class="contributor-info username">
+          <a href="${user.html_url}" target="_blank">@${user.login}</a>
+        </p>
+        <p class="contributor-info commit-count">
+          🛠️🐝 ${user.contributions} commit${user.contributions>1?'s':''}
+        </p>
       </div>
     `).join('');
   } catch (err) {
