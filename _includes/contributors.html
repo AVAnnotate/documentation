@@ -3,13 +3,58 @@
 </div>
 
 <style>
-  .contributors { display: flex; flex-wrap: wrap; justify-content: flex-start; }
-  .contributor { width: 18%; margin: 1%; text-align: center; box-sizing: border-box; }
-  .contributor img { border-radius: 50%; width: 100px; height: 100px; display: block; margin: 0 auto 0.5rem auto; }
-  .contributor p { margin: 0.2rem 0; font-size: 0.8em; word-break: break-word; }
-  .contributor a { text-decoration: none; color: inherit; }
-  .contributor-info.username { font-weight: bold; font-size: 0.85em; }
-  .contributor-info.commit-count { font-size: 0.75em; }
+  .contributors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  .contributor {
+    width: 18%; /* ~5 per row */
+    margin: 1%;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .contributor img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto 0.5rem auto;
+  }
+
+  .contributor p {
+    margin: 0.2rem 0;
+    font-size: 0.8em;
+    word-break: break-word;
+  }
+
+  .contributor a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .contributor-info.username {
+    font-weight: bold;
+    font-size: 0.85em;
+  }
+
+  .contributor-info.commit-count {
+    font-size: 0.75em;
+  }
+
+  /* Optional: make smaller screens wrap nicely */
+  @media (max-width: 800px) {
+    .contributor {
+      width: 30%; /* 3 per row on smaller screens */
+    }
+  }
+  @media (max-width: 500px) {
+    .contributor {
+      width: 45%; /* 2 per row on very small screens */
+    }
+  }
 </style>
 
 <script>
@@ -27,19 +72,20 @@
       return;
     }
 
-    container.innerHTML = data.map(user => `
-      <div class="contributor">
-        <a href="${user.html_url}" target="_blank">
-          <img src="${user.avatar_url}" alt="@${user.login}'s avatar">
-        </a>
-        <p class="contributor-info username">
-          <a href="${user.html_url}" target="_blank">@${user.login}</a>
-        </p>
-        <p class="contributor-info commit-count">
-          🛠️ ${user.contributions} commit${user.contributions > 1 ? 's' : ''}
-        </p>
-      </div>
-    `).join('');
+    container.innerHTML = `<div class="contributors">` + 
+      data.map(user => `
+        <div class="contributor">
+          <a href="${user.html_url}" target="_blank">
+            <img src="${user.avatar_url}" alt="@${user.login}'s avatar">
+          </a>
+          <p class="contributor-info username">
+            <a href="${user.html_url}" target="_blank">@${user.login}</a>
+          </p>
+          <p class="contributor-info commit-count">
+            🛠️ ${user.contributions} commit${user.contributions > 1 ? 's' : ''}
+          </p>
+        </div>
+      `).join('') + `</div>`;
   } catch (err) {
     console.error("Error fetching contributors:", err);
     container.innerHTML = `<p>Error loading contributors: ${err.message}</p>`;
