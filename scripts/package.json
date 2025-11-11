@@ -1,0 +1,8 @@
+{
+  "name": "fetch-contributors",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "fs-extra": "^11.1.1"
+  }
+}
