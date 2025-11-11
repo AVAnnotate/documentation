@@ -1,3 +1,7 @@
+<div id="contributors">
+  <p>Loading contributors...</p>
+</div>
+
 <style>
   .contributors {
     display: flex;
@@ -5,7 +9,7 @@
     justify-content: flex-start;
   }
   .contributor {
-    width: 18%; 
+    width: 18%; /* ~5 per row */
     margin: 1%;
     text-align: center;
     box-sizing: border-box;
@@ -30,35 +34,42 @@
     font-weight: bold;
     font-size: 0.85em;
   }
-  .contributor-info.commit-count,
-  .contributor-info.issue-count {
+  .contributor-info.commit-count {
     font-size: 0.75em;
   }
 </style>
 
-<div class="contributors">
-  {% for c in site.data.contributors %}
-    {% assign user = c[0] %}
-    {% assign avatar = c[1].avatar_url %}
-    {% assign commits = c[1].contributions %}
-    {% assign issues = c[1].issues %}
-    <div class="contributor">
-      <a class="no-hover-line" href="https://github.com/{{ user }}" target="_blank">
-        <img src="{{ avatar }}?s=100" alt="GitHub avatar for @{{ user }}">
-      </a>
-      <p class="contributor-info username">
-        <a href="https://github.com/{{ user }}" target="_blank">@{{ user }}</a>
-      </p>
-      {% if commits %}
+<script>
+(async function() {
+  const repo = "AVAnnotate/documentation"; // Replace with your repo
+  const container = document.getElementById("contributors");
+
+  try {
+    const res = await fetch(`https://api.github.com/repos/${repo}/contributors?per_page=100`);
+    const data = await res.json();
+
+    if (!Array.isArray(data)) {
+      container.innerHTML = "<p>Could not load contributors (API limit or error).</p>";
+      console.error(data);
+      return;
+    }
+
+    container.innerHTML = data.map(user => `
+      <div class="contributor">
+        <a href="${user.html_url}" target="_blank">
+          <img src="${user.avatar_url}" alt="@${user.login}'s avatar">
+        </a>
+        <p class="contributor-info username">
+          <a href="${user.html_url}" target="_blank">@${user.login}</a>
+        </p>
         <p class="contributor-info commit-count">
-          🛠️🐝 {{ commits }} commit{% if commits > 1 %}s{% endif %}
+          🛠️ ${user.contributions} commit${user.contributions > 1 ? 's' : ''}
         </p>
-      {% endif %}
-      {% if issues %}
-        <p class="contributor-info issue-count">
-          🐛👀 {{ issues }} issue{% if issues > 1 %}s{% endif %}
-        </p>
-      {% endif %}
-    </div>
-  {% endfor %}
-</div>
+      </div>
+    `).join('');
+  } catch (err) {
+    console.error(err);
+    container.innerHTML = `<p>Error loading contributors: ${err.message}</p>`;
+  }
+})();
+</script>
