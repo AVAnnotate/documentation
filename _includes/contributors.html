@@ -41,7 +41,7 @@
 
 <script>
 (async function() {
-  const repo = "AVAnnotate/documentation"; // Replace with your repo
+  const repo = "AVAnnotate/documentation"; // Make sure this matches your repo URL exactly
   const container = document.getElementById("contributors");
 
   try {
@@ -50,7 +50,12 @@
 
     if (!Array.isArray(data)) {
       container.innerHTML = "<p>Could not load contributors (API limit or error).</p>";
-      console.error(data);
+      console.error("GitHub API returned:", data);
+      return;
+    }
+
+    if (data.length === 0) {
+      container.innerHTML = "<p>No contributors found.</p>";
       return;
     }
 
@@ -68,7 +73,7 @@
       </div>
     `).join('');
   } catch (err) {
-    console.error(err);
+    console.error("Error fetching contributors:", err);
     container.innerHTML = `<p>Error loading contributors: ${err.message}</p>`;
   }
 })();
