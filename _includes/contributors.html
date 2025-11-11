@@ -2,36 +2,29 @@
   .contributors {
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-start;
   }
   .contributor {
-    flex: auto;
-    max-width: 18%; /* roughly 5 per row */
-    margin-right: 1rem;
-    margin-bottom: 1rem;
+    width: 18%; /* roughly 5 per row with some margin */
+    margin: 1%;
     text-align: center;
-  }
-  a.no-hover-line {
-    background-image: unset !important;
-  }
-  a.no-hover-line:hover {
-    background-image: unset !important;
-  }
-  .contributor p.contributor-info {
-    font-size: 0.7em;
-    line-height: 1em;
-    padding: 0.2rem 0;
-    margin: 0;
-  }
-  .contributor p.username {
-    font-weight: bold;
-    font-size: 0.8em;
+    box-sizing: border-box;
   }
   .contributor img {
-    margin: 0 auto;
     border-radius: 50%;
     width: 100px;
     height: 100px;
     display: block;
+    margin: 0 auto 0.5rem auto;
+  }
+  .contributor p {
+    margin: 0.2rem 0;
+    font-size: 0.8em;
+    word-break: break-word;
+  }
+  .contributor a {
+    text-decoration: none;
+    color: inherit;
   }
 </style>
 
@@ -41,7 +34,7 @@
 
 <script>
 (async function() {
-  const repo = "AVAnnotate/documentation"; // ✅ Correct repo now
+  const repo = "AVAnnotate/documentation"; // ✅ replace with your repo
   const container = document.getElementById("contributors");
 
   try {
@@ -56,15 +49,11 @@
 
     container.innerHTML = data.map(user => `
       <div class="contributor">
-        <a class="no-hover-line" href="${user.html_url}" target="_blank">
-          <img src="${user.avatar_url}" alt="github avatar for @${user.login}" />
+        <a href="${user.html_url}" target="_blank">
+          <img src="${user.avatar_url}" alt="@${user.login}'s avatar">
         </a>
-        <p class="contributor-info username">
-          <a href="${user.html_url}" target="_blank">@${user.login}</a>
-        </p>
-        <p class="contributor-info commit-count">
-          🛠️🐝 ${user.contributions} commit${user.contributions>1?'s':''}
-        </p>
+        <p><a href="${user.html_url}" target="_blank">@${user.login}</a></p>
+        <p>🛠️ ${user.contributions} commit${user.contributions>1?'s':''}</p>
       </div>
     `).join('');
   } catch (err) {
