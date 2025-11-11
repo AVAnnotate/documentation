@@ -1,0 +1,32 @@
+name: Update contributors data
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"  
+  workflow_dispatch:      
+  push:
+    branches:
+      - main
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch contributors from GitHub API
+        run: |
+          REPO="YOUR_USERNAME/YOUR_REPOSITORY"
+          echo "Fetching contributors for $REPO"
+          curl -s "https://api.github.com/repos/$REPO/contributors?per_page=100" \
+            | jq 'map({ (.login): { "contributions": .contributions, "avatar_url": .avatar_url } }) | add' \
+            > _data/contributors.json
+
+      - name: Commit and push updated contributors
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/contributors.json
+          git commit -m "Update contributors.json [skip ci]" || echo "No changes to commit"
+          git push
