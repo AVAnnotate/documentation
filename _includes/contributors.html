@@ -1,12 +1,20 @@
 <style>
-  .contributors {
+  #contributors {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); 
-    gap: 1rem; 
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto; 
   }
+
   .contributor {
     text-align: center;
+    background: #f9f9f9;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
   }
+
   .contributor img {
     border-radius: 50%;
     width: 100px;
@@ -14,20 +22,22 @@
     display: block;
     margin: 0 auto 0.5rem auto;
   }
+
   .contributor p {
     margin: 0.2rem 0;
     font-size: 0.8em;
     word-break: break-word;
   }
+
   .contributor a {
     text-decoration: none;
     color: inherit;
   }
 
-  @media (max-width: 1200px) { .contributors { grid-template-columns: repeat(4, 1fr); } }
-  @media (max-width: 992px) { .contributors { grid-template-columns: repeat(3, 1fr); } }
-  @media (max-width: 768px) { .contributors { grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 480px) { .contributors { grid-template-columns: 1fr; } }
+  @media (max-width: 1200px) { #contributors { grid-template-columns: repeat(4, 1fr); } }
+  @media (max-width: 992px)  { #contributors { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 768px)  { #contributors { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 480px)  { #contributors { grid-template-columns: 1fr; } }
 </style>
 
 <div id="contributors">
@@ -36,7 +46,7 @@
 
 <script>
 (async function() {
-  const repo = "AVAnnotate/documentation"; 
+  const repo = "AVAnnotate/documentation"; // 
   const container = document.getElementById("contributors");
 
   try {
