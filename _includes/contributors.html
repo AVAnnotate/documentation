@@ -34,14 +34,15 @@
     font-weight: bold;
     font-size: 0.85em;
   }
-  .contributor-info.commit-count {
+  .contributor-info.commit-count,
+  .contributor-info.issue-count {
     font-size: 0.75em;
   }
 </style>
 
 <script>
 (async function() {
-  const repo = "AVAnnotate/documentation"; // Make sure this matches your repo URL exactly
+  const repo = "AVAnnotate/documentation"; // must match your repo exactly
   const container = document.getElementById("contributors");
 
   try {
