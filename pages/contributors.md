@@ -5,4 +5,68 @@ parent: About AVAnnotate
 nav_order: 5
 ---
 
-{% include contributors.html %}
+<div id="contributors">
+  <p>Loading contributors...</p>
+</div>
+
+<style>
+  .contributors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  .contributor {
+    width: 18%;
+    margin: 1%;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .contributor img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto 0.5rem auto;
+  }
+  .contributor p {
+    margin: 0.2rem 0;
+    font-size: 0.8em;
+    word-break: break-word;
+  }
+  .contributor a {
+    text-decoration: none;
+    color: inherit;
+  }
+</style>
+
+<script>
+(async function() {
+  const repo = "AVAnnotate/documentation"; // your repo
+  const container = document.getElementById("contributors");
+
+  try {
+    const res = await fetch(`https://api.github.com/repos/${repo}/contributors?per_page=100`);
+    const data = await res.json();
+
+    if (!Array.isArray(data)) {
+      container.innerHTML = "<p>Could not load contributors (API limit or error).</p>";
+      console.error(data);
+      return;
+    }
+
+    container.innerHTML = data.map(user => `
+      <div class="contributor">
+        <a href="${user.html_url}" target="_blank">
+          <img src="${user.avatar_url}" alt="@${user.login}'s avatar">
+        </a>
+        <p><a href="${user.html_url}" target="_blank">@${user.login}</a></p>
+        <p>🛠️ ${user.contributions} commit${user.contributions>1?'s':''}</p>
+      </div>
+    `).join('');
+  } catch (err) {
+    console.error(err);
+    container.innerHTML = `<p>Error loading contributors: ${err.message}</p>`;
+  }
+})();
+</script>
+
