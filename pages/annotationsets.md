@@ -7,21 +7,20 @@ nav_order: 5
 ---
 # Annotation Sets
 
-Annotation sets consist of groups of annotations for a single AV file. In the end-user interface, visitors can filter annotations based on these sets. Annotation sets might be organized to include one for transcripts and another for notes, or one in English and another in Spanish, or one created by Manuel and another by Laura.
+Annotation set is a group of annotations for a single AV file. In the end-user interface, visitors can filter annotations based on these sets. Annotation sets might be organized to include one for transcripts and another for notes, or one in English and another in Spanish, or one created by Manuel and another by Laura.
 
 ## Creating and Modifying Annotation Sets
-By default, Annotation sets are first added to the 'Default' set through `Event` settings.
+When annotations are added to an event, AVAnnotate creates a 'Default' annotation set through `Event` settings.
 
 {: .warning }
-> The 'Default' annotation set can be renamed but cannot be deleted.
-  
-- Additional annotation sets can be uploaded under `Event` settings via an IIIF manifest, an imported spreadsheet, or a file (TSV, XLSX, or tab-delimited TXT files are supported).
+> The 'Default' annotation set can be renamed but cannot be deleted. If the user wants to delete the default annotation set (even when it is renamed), they must create a new set. Once annotations are added to the event, there must be at least one annotation set. 
 
-- After uploading, annotation sets can be added as captions to a video file (note: this does not work for YouTube, which has its own captioning system) by selecting the settings of an annotation set in the `Event` settings.
+- Add, import, and edit annotation sets using `Event` settings. [ADD PICTURE]
 
+  - Imported sets by selecting a spreadsheet file.
+  ![image 1](../../assets/newannotationssetimage1.png)
 
-Annotation sets for an event can be imported separately by selecting a spreadsheet file.
-![image 1](../../assets/newannotationssetimage1.png)
+  - Select an annotation set as a captions to a video file (note: this does not work for YouTube, which has its own captioning system). [ADD PICTURE]
 
-Annotation sets are deleted under `Event` settings. 
-![image 2](../../assets/newannotationssetimage2.png)
+  - Annotation sets can be deleted or renamed. [ADD DIFFERENT PICTURE]
+  ![image 2](../../assets/newannotationssetimage2.png)
