@@ -7,16 +7,21 @@ nav_order: 1
 ---
 
 # Auto-Generated Pages
-Auto-generated pages can be created for each `Event` on the [Site Builder](https://avannotate.github.io/documentation/pages/site-builder/) page by hitting the `Add Page` button and selecting `Auto-generated page`. 
+Auto-generated pages can be created for each `Event` on the [Site Builder](https://avannotate.github.io/documentation/pages/site-builder/) page by selecting `Add Page` and `Auto-generated page`. 
 
 ![Image 1: ](../../assets/newautoimage1.png)
 
-Auto-generated project pages feature a Home Page with a Table of Contents, a page for each created [Event](https://avannotate.github.io/documentation/pages/events/), an index of [Tags](https://avannotate.github.io/documentation/pages/tags/), and a navigation menu. If an `Event` has an auto-generated page, the published `Event` page will include annotations, the event description, and a media player. 
+Auto-generated project pages include
+- a Home Page with a Table of Contents
+- [Event](https://avannotate.github.io/documentation/pages/events/) pages with [timestamped annotations](https://avannotate.github.io/documentation/pages/annotations/), the event description, and a media player. 
+- an index of [Tags](https://avannotate.github.io/documentation/pages/tags/)
+- a navigation menu
 
-On the [Site Builder](https://avannotate.github.io/documentation/pages/site-builder/) page, auto-generated pages are marked as “Auto-generated."
+On the [Site Builder](https://avannotate.github.io/documentation/pages/site-builder/) tab, 
 
-![Image 2: ](../../assets/newautoimage2.png)
+- auto-generated pages are marked as “Auto-generated."
+ ![Image 2: ](../../assets/newautoimage2.png)
 
-On the [Site Builder](https://avannotate.github.io/documentation/pages/site-builder/) page, you can "Disable" or "Re-Enable" auto-generation at any point in the settings of an `Event`.
+- Users can "Disable" or "Re-Enable" auto-generation for an `Event`. Disabling auto-generation 
 
 ![Image 3: ](../../assets/newautoimage3.png)
