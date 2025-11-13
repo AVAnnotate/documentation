@@ -1,21 +1,22 @@
 ---
-title: Annotations
+title: Annotations and Time Stamps
 layout: home
 parent: Data Manager
 grand_parent: Projects
 nav_order: 4
 ---
-# Annotations
+# Annotations and Time Stamps
 
-In AVAnnotate, "Annotations" refer to the body of an annotation that is associated with a timestamped point or range in the audio or video. They include information about the media, such as transcripts, captions, details about formal features (like shot sequence, volume, or lighting), historical or cultural context, environmental noises (like fans or car horns), or conceptual notes or themes, along with a variety of other possible topics.
+In AVAnnotate, the body of an annotation is associated with a timestamped point or range in the audio or video. The annotation might include information about the media, such as transcripts, captions, details about formal features (like shot sequence, volume, or lighting), historical or cultural context, environmental noises (like fans or car horns), or conceptual notes or themes, along with a variety of other possible topics. Please see "AVAnnotate Example Annotation Types, Index Terms, and Codes" on the [Additional Researcher Resources](https://avannotate.github.io/guidelines/pages/research-resources.html) page of the [AVAnnotate User Guidelines](https://avannotate.github.io/guidelines/).
 
 Requirements
-- Annotations always correspond to an associated event.
-- - Timestamps must be provided for each annotation in seconds or in the hours:minutes:seconds (hh:mm:ss) format. They must include a start and an end time. The start and end times can specify a range or the same moment in time.
+- All annotations are part of an [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) that corresponds to an associated (Event)[https://avannotate.github.io/documentation/pages/events/].
+- Timestamps must be provided for each annotation in seconds or in the hours:minutes:seconds (hh:mm:ss) format. Timestamps must include a start and an end time. The start and end times can specify a range or be one point in time with the same start and end time.
   
 Allowances: 
 - Multiple annotations can be included for the same timestamp.
-- A single annotation can span multiple timestamps.
+- Annotations can be as long as the user finds reasonable.
+- Annotations can include html tags 
 
 # Creating, Modifying, and Deleting Annotations
 
@@ -24,10 +25,11 @@ Annotations and timestamps can be added, edited, or deleted through the AVAnnota
 To add annotations to an event in AVAnnotate, navigate to the `Events` dashboard and select an event. 
 ![image1](../../assets/newannotationsimage1.png)
 
-On the settings page for a given event, annotations can be uploaded [in various file formats](https://avannotate.github.io/documentation/pages/templates/) by selecting `Import` under the `Add` button. 
+Annotations can be added individually by selecting `Create` under the `Add` button.
+![image 4](../../assets/newannotationsimage3.png)
+
+[Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) can be uploaded [in various file formats](https://avannotate.github.io/documentation/pages/templates/) by selecting `Import` under the `Add` button. 
 ![image 2](../../assets/newannotationsimage2.png)
 
 ![image3](../../assets/newannotationsimage4.png)
 
-On the event page, annotations can be added individually by selecting `Create` under the `Add` button.
-![image 4](../../assets/newannotationsimage3.png)
