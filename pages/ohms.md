@@ -9,7 +9,7 @@ nav_order: 7
 
 The [Louie B. Nunn Center for Oral History](https://libraries.uky.edu/locations/special-collections-research-center/louie-b-nunn-center-oral-history){:target="_blank" rel="noopener"} at the University of Kentucky Libraries created a web-based system called OHMS (Oral History Metadata Synchronizer) to inexpensively and efficiently enhance access to oral history online. [Learn more about OHMS](https://www.oralhistoryonline.org/){:target="_blank" rel="noopener"}.
 
-Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
+Legacy OHMS XML files may be converted to AVAnnotate projects using the following method.
 
 ![Image 4](../../assets/ohms.png)
 
@@ -42,9 +42,9 @@ Legacy OHMS XML files may be converted to AVAnnotate projects using this method.
 8) Update keyword delimiters
 If there are keywords in the OHMS file, open the file in Excel, search and replace semicolons (;) with pipes (|) within the "keywords" column, and save. The same may be necessary if using the Subjects field.
 
-9) AVAnnotate requires start and end times for annotations, but many OHMS projects only annotate a point in time. Add a new `end_time` column to the spreadsheet and copy the start time from the next row into it. Do this by copying the start time column and pasting it into the stop time column one row earlier.
+9) AVAnnotate requires start and end times for annotations, but many OHMS projects only annotate a point in time. A point in time can be replicated in AVAnnotate: add a new `end_time` column to the spreadsheet and copy the OHMS start times to this colummn.
 
 ### Add the spreadsheet to AVAnnotate
-10) After creating a new project and item in AVAnnotate, upload the OHMS spreadsheet file. Each type of data coming from OHMS will require a separate upload -- one for each of OHMS' "keywords" and "subjects" from the columns in the spreadsheet. Typically, `partial transcript`, `synopsis`, and `title` make suitable columns to convert into annotation sets. Typical OHMS files use both `keywords` and `subjects`. The `keywords` tend to be more similar to AVAnnotate tags. It is recommended to import that column as tags each time the OHMS spreadsheet is imported.
+10) After [creating a new Project](https://avannotate.github.io/documentation/pages/creating_projects/) and [Event](https://avannotate.github.io/documentation/pages/events/) in AVAnnotate, upload the edited OHMS spreadsheet as an [Annotation set](https://avannotate.github.io/documentation/pages/annotationsets/). Each type of data coming from OHMS will require a separate annotation set -- one for each of OHMS' "keywords" and "subjects" from the columns in the OHMS spreadsheet. Typically, `partial transcript`, `synopsis`, and `title` make suitable columns to convert into annotation sets. Typical OHMS files use both `keywords` and `subjects`. The `keywords` tend to be more similar to [AVAnnotate tags](https://avannotate.github.io/documentation/pages/tags/). It is recommended to import that column as tags each time the OHMS spreadsheet is imported.
 
-For example, upload the annotation file the first time using the "title" as the annotation and the "keywords" as the tags into an annotation set called "title". Upload the same file again using only the "partial transcription" as the annotation and "keywords" as tags into an annotation set called "partial transcript." Similarly, upload the "synopsis" as the annotation and use the "keywords" as tags into an annotation set called "synopsis".
+For example, upload an annotation set using the "title" information as the annotation body and "keywords" as the tags. Upload a second annotation set using only the "partial transcription" as the annotation body and "keywords" as tags. Call this annotation set, "partial transcript." Upload a third annotation set using the "synopsis" as the annotation body and use the "keywords" as tags into an annotation set called "synopsis".
