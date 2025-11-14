@@ -30,14 +30,13 @@ Annotations and timestamps are user-created and correspond to a point or range i
 
 "Tags" are labels or index terms used in the published project to organize and discover topics in the annotations. Tag groups are used to organize the tags. For more information, see [Tags](https://avannotate.github.io/documentation/pages/tags/).
 
-
 ## Step 6: Customize pages to build context
 
 Users can create auto-generated pages for each event as well as design custom pages that include text, whole events, AV clips with or without associated annotations,  AV clip comparisons, and images (via URL links). Users might add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc. For more information, see [Pages](https://avannotate.github.io/documentation/pages/pages/).
 
 ## Step 7: Publish and share your AVAnnotate project with the world!
 
-Go to `Site Builder` and `Publish`! 
+Go to `Site Builder` and select `Publish`! 
 
 ## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/troubleshooting/) before getting started and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for bulk uploading using spreadsheets. 
 
