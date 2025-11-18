@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contributors (Option B)</title>
+  <title>Contributors — Randomized</title>
 
   <style>
     .contributors {
@@ -68,8 +68,7 @@
   const container = document.getElementById("contributors");
 
   try {
-    // Fetch 50 repositories instead of 20
-    const res = await fetch(`https://api.github.com/search/repositories?q=topic:${topic}&per_page=50`);
+    const res = await fetch(`https://api.github.com/search/repositories?q=topic:${topic}&per_page=100`);
     const data = await res.json();
 
     if (!data.items || data.items.length === 0) {
@@ -77,8 +76,22 @@
       return;
     }
 
+    // Shuffle the repositories array
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    const shuffledRepos = shuffle(data.items);
+
+    // Pick the first 20 from the shuffled list
+    const selectedRepos = shuffledRepos.slice(0, 20);
+
     container.innerHTML = `<div class="contributors">` +
-      data.items.map(repo => `
+      selectedRepos.map(repo => `
         <div class="contributor">
           <a href="${repo.owner.html_url}" target="_blank">
             <img src="${repo.owner.avatar_url}" alt="@${repo.owner.login}'s avatar">
