@@ -76,19 +76,8 @@
       return;
     }
 
-    // Shuffle the list of repositories
-    function shuffle(array) {
-      for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-      }
-      return array;
-    }
-
-    const shuffled = shuffle(data.items);
-
     container.innerHTML = `<div class="contributors">` +
-      shuffled.map(repo => `
+      data.items.map(repo => `
         <div class="contributor">
           <a href="${repo.owner.html_url}" target="_blank">
             <img src="${repo.owner.avatar_url}" alt="@${repo.owner.login}'s avatar">
