@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contributors — Most Active Repo per Owner</title>
+  <title>Contributors — Random Daily</title>
 
   <style>
     .contributors {
@@ -67,8 +67,26 @@
   const topic = "avannotate-project";
   const container = document.getElementById("contributors");
 
+  // Simple seeded shuffle function based on day
+  function seededShuffle(array, seed) {
+    let m = array.length, t, i;
+    while (m) {
+      i = Math.floor(random(seed) * m--);
+      t = array[m];
+      array[m] = array[i];
+      array[i] = t;
+      ++seed;
+    }
+    return array;
+  }
+
+  // Deterministic pseudo-random generator
+  function random(seed) {
+    const x = Math.sin(seed) * 10000;
+    return x - Math.floor(x);
+  }
+
   try {
-    // Fetch 50 repositories for the topic
     const res = await fetch(`https://api.github.com/search/repositories?q=topic:${topic}&per_page=50`);
     const data = await res.json();
 
@@ -77,26 +95,25 @@
       return;
     }
 
-    // Deduplicate owners and pick the repo with most stars per owner
+    // Group repositories by owner
     const ownersMap = {};
-
     data.items.forEach(repo => {
-      const login = repo.owner.login;
-      if (!ownersMap[login]) {
-        ownersMap[login] = repo;
-      } else {
-        // pick the repo with higher stars
-        if (repo.stargazers_count > ownersMap[login].stargazers_count) {
-          ownersMap[login] = repo;
-        }
+      if (!ownersMap[repo.owner.login]) {
+        ownersMap[repo.owner.login] = [];
       }
+      ownersMap[repo.owner.login].push(repo);
     });
 
-    const uniqueRepos = Object.values(ownersMap);
+    // Pick a random repo per owner (seeded by date for daily shuffle)
+    const todaySeed = new Date().getDate();
+    const uniqueRepos = Object.values(ownersMap).map(repos => {
+      const shuffled = seededShuffle(repos, todaySeed);
+      return shuffled[0]; // pick first repo after shuffle
+    });
 
     // Build HTML
     container.innerHTML = `<div class="contributors">` +
-      uniqueRepos.map(repo => `
+      seededShuffle(uniqueRepos, todaySeed).map(repo => `
         <div class="contributor">
           <a href="${repo.owner.html_url}" target="_blank">
             <img src="${repo.owner.avatar_url}" alt="@${repo.owner.login}'s avatar">
