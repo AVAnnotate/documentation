@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contributors — Random Daily</title>
+  <title>Contributors (Option B)</title>
 
   <style>
     .contributors {
@@ -67,26 +67,8 @@
   const topic = "avannotate-project";
   const container = document.getElementById("contributors");
 
-  // Simple seeded shuffle function based on day
-  function seededShuffle(array, seed) {
-    let m = array.length, t, i;
-    while (m) {
-      i = Math.floor(random(seed) * m--);
-      t = array[m];
-      array[m] = array[i];
-      array[i] = t;
-      ++seed;
-    }
-    return array;
-  }
-
-  // Deterministic pseudo-random generator
-  function random(seed) {
-    const x = Math.sin(seed) * 10000;
-    return x - Math.floor(x);
-  }
-
   try {
+    // Fetch 50 repositories instead of 20
     const res = await fetch(`https://api.github.com/search/repositories?q=topic:${topic}&per_page=50`);
     const data = await res.json();
 
@@ -95,25 +77,8 @@
       return;
     }
 
-    // Group repositories by owner
-    const ownersMap = {};
-    data.items.forEach(repo => {
-      if (!ownersMap[repo.owner.login]) {
-        ownersMap[repo.owner.login] = [];
-      }
-      ownersMap[repo.owner.login].push(repo);
-    });
-
-    // Pick a random repo per owner (seeded by date for daily shuffle)
-    const todaySeed = new Date().getDate();
-    const uniqueRepos = Object.values(ownersMap).map(repos => {
-      const shuffled = seededShuffle(repos, todaySeed);
-      return shuffled[0]; // pick first repo after shuffle
-    });
-
-    // Build HTML
     container.innerHTML = `<div class="contributors">` +
-      seededShuffle(uniqueRepos, todaySeed).map(repo => `
+      data.items.map(repo => `
         <div class="contributor">
           <a href="${repo.owner.html_url}" target="_blank">
             <img src="${repo.owner.avatar_url}" alt="@${repo.owner.login}'s avatar">
