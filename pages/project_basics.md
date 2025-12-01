@@ -6,7 +6,8 @@ nav_order: 1
 ---
 # Project Basics
 
-Below is a brief list of guiding questions for users interested in creating an AVAnnotate project. The sub-pages within this section each offer additional details on the components of an AVAnnotate project that should be considered alongside each question.
+Below is a brief list of guiding questions for users interested in creating an AVAnnotate project. For more guidance on how to plan for projects as a researcher, teacher, or collecting professional, please see [AVAnnotate User Guidelines and Resources
+](https://avannotate.github.io/guidelines/).
 
 **Audience**: Who is your audience? What are they interested in? What worries or matters to them?
 
