@@ -10,6 +10,9 @@ nav_order: 6
 
 Private projects are GitHub repositories accessible only to the owner and those who are explicitly invited. Up to three collaborators can have access to GitHub private repositories.
 
+{: .warning }
+> Only project owners can change the privacy settings on a GitHub project. Collaborators do not have the appropriate permissions.  
+
 To create a private AVAnnotate project, navigate to the `Project Settings` under the three-dot menu.
 
 ![Image 1: Project Settings](../../assets/newprivateprojectimage1.png) 
