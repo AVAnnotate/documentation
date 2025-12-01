@@ -29,10 +29,14 @@ Annotations with timestamps can be added individually by selecting `Create` unde
 ![image 2](../../assets/newannotationsimage2.png)
 
 Timestamps can be added and edited when creating an annotation.
-![image 4](../../assets/newannotationsimage3.png)
+![image 3](../../assets/newannotationsimage3.png)
 
-Timestamps and anotations can be edited by selecting the three-dot menu. 
-[ADD PICTURE]
+Annotations with timestamps can also be added by importing a pre-made [spreadsheet](https://avannotate.github.io/documentation/pages/templates/) via the `Import` option under the `Add` button.
+![image 2](../../assets/newannotationsimage2.png)
+![image 4](../../assets/newannotationsimage4.png)
+
+On the event page, timestamps and annotations can be edited by selecting the three-dot menu for each annotation. 
+![image 5](../../assets/newannotationsimage5.png)
 
 After adding an annotation, a default Annotation Set will be created and visible in the Event settings. To create, edit, delete, and upload annotations sets, please see [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/).
 
