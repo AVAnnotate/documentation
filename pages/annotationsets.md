@@ -28,6 +28,7 @@ Annotation sets can be deleted or renamed from the `Event` settings.
 ![image 4](../../assets/newannotationssetimage4.png)
 
 In the `Annotation Sets` settings, rename the set, select the associated AV file, and select the set as the captions source for the AV file. Optionally, a tag category for the speaker can also be selected from this page.
+
 {: .warning }
 > Selecting an annotation set for an AV file's captions source does not work for YouTube, which has its own captioning system.
 
