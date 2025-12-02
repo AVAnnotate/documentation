@@ -25,7 +25,6 @@ Steps for including collaborators on projects:
 </figure>
 
 <br>
-
 {: .warning }
 > Added users will not have access to add additional project collaborators or [make a project private](https://avannotate.github.io/documentation/pages/private/). 
 
