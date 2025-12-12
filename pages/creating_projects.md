@@ -6,17 +6,26 @@ grand_parent: Projects
 nav_order: 1
 ---
 
-# Information needed to create a project
+# Creating a Project
 
+On the `Projects` page, select the `Add` button in the upper right-hand corner of the page to create a new project. 
 ![Image 1](../../assets/addprojectimage1.png)
 
-### Select `+ Add` and input information about the new project, including:
-- `GitHub Organization` Projects can be saved in any organization in which a user has write permissions in GitHub. See more at [GitHub Accounts and Organizations](https://avannotate.github.io/documentation/pages/orgs/). 
-- `Use Private Repository` Projects can be kept private. See more at [Private Projects](https://avannotate.github.io/documentation/pages/private/). 
-- `Generate GitHub Pages Site` If checked, a static site will be created in the project repository and viewable online.
-- `Title` The title of the project will appear in the header on the site. 
-- `Description` The description will appear on the front page of the auto-generated site. 
-- `Language`
-- `Project Slug` Slugs appear in the project URL. Slugs should be lower case without spaces or punctuation other than a dash `-`.
-- `Project Authors` Authors will appear in the footer of the site. 
-- `Collaborators` Collaborators are added with GitHub usernames that can be auto-completed via AVAnnotate. Added collaborators will have access to editing the project under the `Shared Projects` tab in the AVAnnotate dashboard. See more at [Collaborations](https://avannotate.github.io/documentation/pages/collaborations/).
+On the new project page, input the necessary information about the new project. 
+![Image 2](../../assets/newaddprojectimage2.png)
+![Image 3](../../assets/newaddprojectimage3.png)
+This includes:
+- `GitHub Account` Select the GitHub account where the new project will be saved. Projects can be saved to any account in which a user has write permissions in GitHub. See more at [GitHub Accounts and Organizations](https://avannotate.github.io/documentation/pages/orgs/). 
+- `Private Repository` Toggle the button on to keep the new project private, meaning the project will not generate a GitHub Pages site. For more information, see [Private Projects](https://avannotate.github.io/documentation/pages/private/).
+- `Title` Provide a title for the new project. The project title will appear in the site header.
+- `Description` Provide a description of the new project. The description will appear on the home page of the auto-generated site.
+- `Language` Select the language the new project will be in.
+- `Project Slug` Provide a short, descriptive name for the project. The slug will appear in the project's URL and serve as the repository name on GitHub.
+{: .warning }
+>For the `Project Slug`, do not use spaces or punctuation other than hyphens.
+- `Project Contributor(s)` List the name(s) of the contributor(s) who worked on the project. The names will appear at the bottom of the project's pages. If left blank, the project owner's username will appear.
+![Image 4](../../assets/newaddprojectimage4.png)
+- `Collaborators` Collaborators can be added directly to the new project by selecting the `Add Collaborator` button and searching the collaborator's GitHub username. The usernames are auto-completed via AVAnnotate. For more information, see [Collaborations](https://avannotate.github.io/documentation/pages/collaborations/).
+![Image 5](../../assets/newaddprojectimage5.png)
+
+Once all the necessary information is entered, select the `Create Project` button in the bottom right-hand corner of the page.
