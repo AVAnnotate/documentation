@@ -6,10 +6,11 @@ grand_parent: Projects
 nav_order: 4
 ---
 # Transferring Ownership and Deleting Projects
-Every AVAnnotate project corresponds to a repository in the user's GitHub account. Deleting and transferring ownership to projects is accomplished by deleting and transferring ownership to GitHub repositories. These actions are GitHub actions that cannot be completed through the AVAnnotate dashboard, they must be completed through the project's settings on the project's GitHub repository. To find the project's GitHub repository, go to the user's GitHub account at "https://github.com/[username]", navigate to `Repositories`, select the project repository and navigate to `Settings`. 
+Each AVAnnotate project corresponds to a repository in the project's author's GitHub account. Deleting or transferring ownership of projects involves deleting or transferring ownership of the corresponding GitHub repositories. These actions are performed in the project’s settings on the GitHub repository itself and **cannot** be done through the AVAnnotate dashboard.
+
+To find the project's GitHub repository, go to the project's author's GitHub account at "https://github.com/[username]", select `Repositories` in the upper left-hand corner of the page, select the desired project repository from the populated list, and navigate to `Settings` in the upper right-hand side of the page. Transferring or deleting a repository can be done in the `Danger Zone` section at the bottom of the `Settings` page for the project.
 
 ![Image 1](../../assets/tranfserdeleteimage1.png) 
-
 
 Further information can be found on the GitHub documentation:
 1. [Transferring a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository){:target="_blank" rel="noopener"}
