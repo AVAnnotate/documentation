@@ -14,7 +14,8 @@ The AVAnnotate application interface is split into two primary sections: [Data M
 In the [Data Manager](https://avannotate.github.io/documentation/pages/data-manager/) section, a project author can import, upload, edit, and add all of the data associated with [Annotations](https://avannotate.github.io/documentation/pages/annotations/), [Events](https://avannotate.github.io/documentation/pages/events/), and [Tags](https://avannotate.github.io/documentation/pages/tags/).
 ![Image 2](../../assets/data_updated_1.png)
 
-The Data Manager section contains two tabs: 
+The Data Manager section contains two tabs:
+
 1) The [Events](https://avannotate.github.io/documentation/pages/events/) tab allows users to upload, create, and edit `Events`.
 ![Image 3](../../assets/newdata-managerimage2.png)
 2) The [Tags](https://avannotate.github.io/documentation/pages/tags/) tab allows users to upload, create, and edit project-wide `tags` and tag groups.
