@@ -7,7 +7,7 @@ nav_order: 5
 ---
 # Annotation Sets
 
-An annotation set is a group of annotations for a single AV file. In the end-user interface, visitors can filter annotations based on these sets. Annotation sets might be organized to include one for transcripts and another for notes, or one in English and another in Spanish, or one created by Manuel and another by Laura.
+An annotation set is a group of annotations for a single AV file. In the end-user interface, visitors can filter annotations based on these sets. Annotation sets might be organized to include one for transcripts and another for notes, or one in English and another in Spanish, or a separate set for each editor on a project.
 
 ## Creating and Modifying Annotation Sets
 When annotations are added to an event, AVAnnotate creates a 'Default' annotation set through `Event` settings.
