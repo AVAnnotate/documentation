@@ -7,27 +7,49 @@ nav_order: 5
 ---
 # Annotation Sets
 
-An annotation set is a group of annotations for a single AV file. In the end-user interface, visitors can filter annotations based on these sets. Annotation sets might be organized to include one for transcripts and another for notes, or one in English and another in Spanish, or a separate set for each editor on a project.
+An annotation set is a group of annotations for a single AV file. 
 
-## Creating and Modifying Annotation Sets
-When [annotations are added to an event](https://avannotate.github.io/documentation/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set through `Event` settings.
+Annotation sets can:
+- help visitors filter annotations in the published project interface based on kinds of annotations
+- be organized to separate annotations into kinds of annotations like type (e.g., transcripts vs. notes), language (e.g., one in English and another in Spanish), annotation creators (e.g., a separate set for each editor on a project), among other options based on the user's choosing.
+
+## Creating and Modifying Default Annotation Sets
+When [annotations are added to an event](https://avannotate.github.io/documentation/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set. This annotation set will appear in [`Event` settings](https://avannotate.github.io/documentation/pages/events/).
 
 {: .warning }
-> The 'Default' annotation set can be renamed, but <em>cannot</em> be deleted. If the user wants to delete the default annotation set (even when it is renamed), they must create a new set. Once annotations are added to the event, there must be at least one annotation set. Deleting the event is another way to delete the default annotation set. 
+> The 'Default' annotation set can be renamed, but <em>cannot</em> be deleted. If the user wants to delete the default annotation set (even when it is renamed), they must create a new set. Once annotations are added to the event, there must be at least one annotation set. Deleting the event is another way to delete the default annotation set.
 
-Add, import, and edit annotation sets using `Event` settings.
+## Creating and Modifying Additional Annotation Sets
+
+### Add, import, and edit annotation sets using [`Event` settings](https://avannotate.github.io/documentation/pages/events/)..
 ![image 1](../../assets/newannotationssetimage1.png)
 
-Import an annotation set by selecting `Import` under the `Add` menu on an Event's page.
+### Add an annotation set 
+1. Select `Add` on the Annotation Sets menu on the `Event` settings page. 
+[ADD PICTURE]
+
+2. Create a title for the Annotation Set and select the AV file associated with the Annotation Set. Save the new event setting.
+   [ADD PICTURE]
+
+### Import annotations to an annotation set 
+There are two ways to import an annotation spreadsheet to a new annotation set.
+1. Select `Import` under the `Add` menu on an Event's page. 
 ![image 2](../../assets/newannotationssetimage2.png)
 
-Import annotation sets by selecting a spreadsheet file. The imported set can also be set as the default annotation set for the event from this page.
-![image 3](../../assets/newannotationssetimage3.png)
+2. Select `Import` on the Annotation Sets menu on the `Event` settings page.
+[ADD PICTURE]
 
-Annotation sets can be deleted or renamed from the `Event` settings.
+Both approaches will take result in the opportunity to upload an [annotation spreadsheet file](https://avannotate.github.io/documentation/pages/templates/) under the preferred annotation set name. 
+[ADD PICTURE]
+
+{: .warning }
+> If an annotation spreadsheet is added to an annotation set with *existing* annotations, the new annotations will be added to the existing set. 
+
+### Delete or rename additional annotation sets from `Event` settings.
 ![image 4](../../assets/newannotationssetimage4.png)
 
-In the `Annotation Sets` settings, rename the set, select the associated AV file, and select the set as the captions source for the AV file. Optionally, a tag category for the speaker can also be selected from this page.
+### Use an Annotation Set as captions for video
+On the Event settings page, select the three-dot menu for the Annotation set settings and toggle on "Use for captions." Optionally, a tag category for the speaker can also be selected from this page.
 
 {: .warning }
 > Selecting an annotation set for an AV file's captions source does not work for YouTube, which has its own captioning system.
