@@ -10,10 +10,10 @@ nav_order: 5
 An annotation set is a group of annotations for a single AV file. In the end-user interface, visitors can filter annotations based on these sets. Annotation sets might be organized to include one for transcripts and another for notes, or one in English and another in Spanish, or a separate set for each editor on a project.
 
 ## Creating and Modifying Annotation Sets
-When annotations are added to an event, AVAnnotate creates a 'Default' annotation set through `Event` settings.
+When [annotations are added to an event](https://avannotate.github.io/documentation/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set through `Event` settings.
 
 {: .warning }
-> The 'Default' annotation set can be renamed, but <em>cannot</em> be deleted. If the user wants to delete the default annotation set (even when it is renamed), they must create a new set. Once annotations are added to the event, there must be at least one annotation set. 
+> The 'Default' annotation set can be renamed, but <em>cannot</em> be deleted. If the user wants to delete the default annotation set (even when it is renamed), they must create a new set. Once annotations are added to the event, there must be at least one annotation set. Deleting the event is another way to delete the default annotation set. 
 
 Add, import, and edit annotation sets using `Event` settings.
 ![image 1](../../assets/newannotationssetimage1.png)
