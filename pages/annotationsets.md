@@ -16,6 +16,7 @@ Annotation sets can be used to organize annotations into groups. Some examples m
 
 ## Creating and Modifying Default Annotation Sets
 When [annotations are added to an event](https://avannotate.github.io/documentation/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set. This annotation set will appear in [`Event` settings](https://avannotate.github.io/documentation/pages/events/).
+[ADD PICTURE]
 
 {: .warning }
 > The 'Default' annotation set *can* be renamed, but *cannot* be deleted. Once annotations are added to the event, *there must be at least one annotation set*. To delete the default annotation set (even when it is renamed), delete the event or create a new set and delete the default annotation set.
