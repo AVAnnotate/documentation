@@ -10,7 +10,7 @@ Pages can be customized for
 - the home page
 - event pages
 - pages for essays or context pages that might include
-- - AV clips with or without associated annotations
+  - AV clips with or without associated annotations
   - AV event or clip comparisons
   - images 
  
@@ -37,4 +37,6 @@ Disable auto-generated home and event pages by navigating to the `Pages` tab on 
 <br><br>
 <br>
 
+## Reordering pages
+[ADD PICTURE] Pages can be re-ordered using the three-dot settings either on the same level or by making a page a sub-page or a super-page. These changes will appear in the table of contents and side-bar menus of the published project.
 
