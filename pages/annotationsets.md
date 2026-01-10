@@ -9,15 +9,16 @@ nav_order: 5
 
 An annotation set is a group of annotations for a single AV file. 
 
-Annotation sets can:
-- help visitors filter annotations in the published project interface based on kinds of annotations
-- be organized to separate annotations into kinds of annotations like type (e.g., transcripts vs. notes), language (e.g., one in English and another in Spanish), annotation creators (e.g., a separate set for each editor on a project), among other options based on the user's choosing.
+Annotation sets can be used to organize annotations into groups. Some examples might include:
+- type: e.g., one for transcripts, one for notes, and one for captions.
+- language: e.g., one in English and another in Spanish
+- annotation creators: e.g., a separate set for each editor on a project.
 
 ## Creating and Modifying Default Annotation Sets
 When [annotations are added to an event](https://avannotate.github.io/documentation/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set. This annotation set will appear in [`Event` settings](https://avannotate.github.io/documentation/pages/events/).
 
 {: .warning }
-> The 'Default' annotation set can be renamed, but <em>cannot</em> be deleted. If the user wants to delete the default annotation set (even when it is renamed), they must create a new set. Once annotations are added to the event, there must be at least one annotation set. Deleting the event is another way to delete the default annotation set.
+> The 'Default' annotation set *can* be renamed, but *cannot* be deleted. Once annotations are added to the event, *there must be at least one annotation set*. To delete the default annotation set (even when it is renamed), delete the event or create a new set and delete the default annotation set.
 
 ## Creating and Modifying Additional Annotation Sets
 
