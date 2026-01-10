@@ -36,6 +36,8 @@ Users can create new auto-generated page under the `Add Page` menu.
 ![Image 8: ](../../assets/newautoimage7.png)
 ![Image 1: ](../../assets/newautoimage1.png)
 
-
+## Reordering pages
+[ADD PICTURE]
+Pages can be re-ordered using the three-dot settings either on the same level or by making a page a sub-page or a super-page. These changes will appear in the table of contents and side-bar menus of the published project.  
 
 
