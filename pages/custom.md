@@ -6,7 +6,13 @@ grand_parent: Projects
 nav_order: 2
 ---
 # Creating custom pages 
-Pages can be created for the home page, for contextual essay pages, for custom-designed event pages, for pages that include AV clips with or without associated annotations; AV event or clip comparisons; and images. 
+Pages can be customized for 
+- the home page
+- event pages
+- pages for essays or context pages that might include
+- - AV clips with or without associated annotations
+  - AV event or clip comparisons
+  - images 
  
 ## Add a custom page
 From the Site Builder tab, create a custom page by selecting `Add.` <br><br>
