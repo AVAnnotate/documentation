@@ -10,9 +10,9 @@ nav_order: 5
 An annotation set is a group of annotations for a single AV file. 
 
 Annotation sets can be used to organize annotations into groups. Some examples might include:
-- type: e.g., one for transcripts, one for notes, and one for captions.
-- language: e.g., one in English and another in Spanish
-- annotation creators: e.g., a separate set for each editor on a project.
+- *type*: e.g., one for transcripts, one for notes, and one for captions.
+- *language*: e.g., one in English and another in Spanish
+- *annotation creators*: e.g., a separate set for each editor on a project.
 
 ## Creating and Modifying Default Annotation Sets
 When [annotations are added to an event](https://avannotate.github.io/documentation/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set. This annotation set will appear in [`Event` settings](https://avannotate.github.io/documentation/pages/events/).
