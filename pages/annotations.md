@@ -11,7 +11,9 @@ In AVAnnotate, the body of an annotation is associated with a timestamped point 
 
 Requirements
 - All annotations are part of an [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) that corresponds to an associated [Event](https://avannotate.github.io/documentation/pages/events/).
-- Timestamps must be provided for each annotation in seconds or in the hours:minutes:seconds (hh:mm:ss) format. Timestamps must include a start and an end time. The start and end times can specify a range or a single point in time with the same start and end times.
+- Timestamps must be provided for each annotation. Timestamps
+  - in seconds or in hours:minutes:seconds (hh:mm:ss) format. Timestamps
+  - must include a start and an end time. The start and end times can specify a range or a single point in time with the same timestamp for start and end time.
   
 Allowances: 
 - Multiple annotations can be included for the same timestamp.
