@@ -7,12 +7,14 @@ nav_order: 1
 ---
 
 # Auto-Generated Pages
-AVAnnotate creates an auto-generated web page for each event. Auto-generated project pages include:
+AVAnnotate creates auto-generated web pages for each event. 
+
+Auto-generated project pages include:
 - A Home Page with a Table of Contents
 ![Image 2: ](../../assets/newautoimage2.png)
 - [Event](https://avannotate.github.io/documentation/pages/events/) pages with [timestamped annotations](https://avannotate.github.io/documentation/pages/annotations/), the event description, and a media player.
 ![Image 3: ](../../assets/newautoimage8.png)
-- An index of [Tags](https://avannotate.github.io/documentation/pages/tags/).
+- An index of [Tags](https://avannotate.github.io/documentation/pages/tags/) if tags are included.
 ![Image 4: ](../../assets/newautoimage3.png)
 - A sidebar navigation menu.
 ![Image 5: ](../../assets/newautoimage4.png)
