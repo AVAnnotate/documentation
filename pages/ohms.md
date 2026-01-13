@@ -1,10 +1,20 @@
----
+
 title: Converting Legacy OHMS
 layout: home
 parent: Project Basics
 grand_parent: Projects
 nav_order: 7
----
+
+
+NOTES for updating this page later: 
+You are absolutely right about the flexibility of AVAnnotate vs. OHMS.  The only reason I recommended uploading the different OHMS fields as separate sets was because I was trying to come up with a one-to-one model for migrating OHMS annotations to AVAnnotate without losing anything.
+
+In OHMS, you have one time range that has up to a dozen structured attributes--title, summary, subjects, keywords, partial transcript, etc--which are pre-defined.  Many--perhaps most--of these attributes are left blank by different projects; I've only encountered one that used keyword translations, for example.
+
+In AVAnnotate, a single time range has two attributes: annotation and tags.  There is also the set the annotation belongs to, which can act as a sort of type, as with Kylie's SENT project with one set per S, E, N & T.
+
+Without knowing anything about the intent of the people who created the OHMS example, I tried to map every non-blank attribute in the OHMS structure to an annotation or tag in AVAnnotate, not skipping any of them.  As a result, I converted the XML file to a single spreadsheet with a column for all dozenish attributes, then re-uploaded it to AVAnnotate a few times, choosing different columns each time to create a "summary' set, a "transcript" set, etc.  This seemed kind of arbitrary at the time, and I felt like only having one or two sets for summary and transcript would have made more sense, or combining the columns into a single column which I could use for an annotation might be better.
+
 # Converting Legacy OHMS
 
 The [Louie B. Nunn Center for Oral History](https://libraries.uky.edu/locations/special-collections-research-center/louie-b-nunn-center-oral-history){:target="_blank" rel="noopener"} at the University of Kentucky Libraries created a web-based system called OHMS (Oral History Metadata Synchronizer) to inexpensively and efficiently enhance access to oral history online. [Learn more about OHMS](https://www.oralhistoryonline.org/){:target="_blank" rel="noopener"}.
