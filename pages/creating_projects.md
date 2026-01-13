@@ -19,8 +19,8 @@ The necessary information includes:
 - `Private Repository` Toggle the button on to keep the new project private, meaning the project will not generate a GitHub Pages site. For more information, see [Private Projects](https://avannotate.github.io/documentation/pages/private/).
 - `Title` Provide a title for the new project. The project title will appear in the site header.
 - `Description` Provide a description of the new project. The description will appear on the home page of the auto-generated site.
-- `Language` Select the language the new project will be in.
-- `Project Slug` Provide a short, descriptive name for the project. The slug will appear in the project's URL and serve as the repository name on GitHub.
+- `Language` Select the language for the new project.
+- `Project Slug` Provide a short, descriptive name for the project. NOTE: *the slug will be the project's URL* and serve as the repository name on GitHub. It is not possible to change the slug without deleting the project.
 
 {: .warning }
 >For the `Project Slug`, do not use spaces or punctuation other than hyphens.
