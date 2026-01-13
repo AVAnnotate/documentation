@@ -22,19 +22,25 @@ Allowances:
 
 # Creating, Modifying, and Deleting Annotations
 
-Annotations and timestamps can be added, edited, or deleted through the AVAnnotate dashboard.
+Annotations and timestamps can be added, edited, or deleted through the AVAnnotate dashboard. After adding an annotation, a default Annotation Set will be created and visible in the `Event` settings. To create, edit, delete, and upload annotation sets, please see the [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) page.
 
-To add annotations to an event in AVAnnotate, navigate to the `Events` dashboard and select an event. 
+## Adding annotations to an event 
+Navigate to the `Events` dashboard and select an event. 
 ![image1](../../assets/newannotationsimage1.png)
 
 Annotations with timestamps can be added individually by selecting `Create` under the `Add` button.
 ![image 2](../../assets/newannotationsimage2.png)
 
-Timestamps can be added and edited when creating an annotation.
+## Editing annotaions and timestamps 
+Annotations and timestamps can be added and edited when creating an annotation.
 ![image 3](../../assets/newannotationsimage3.png)
 
 On the event page, timestamps and annotations can be edited by selecting the three-dot menu for each annotation. 
 ![image 4](../../assets/newannotationsimage5.png)
 
-After adding an annotation, a default Annotation Set will be created and visible in the `Event` settings. To create, edit, delete, and upload annotation sets, please see the [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) page.
+## Deleting annotations 
+Individual annotations can be deleted by selecting the three-dot menu next to the annotation. 
+[ADD PICTURE]
+
+To delete multiple annotations at once, please see the [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) page.
 
