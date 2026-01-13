@@ -25,6 +25,6 @@ Steps for including collaborators on projects:
 </figure>
 
 {: .warning }
-> Added users will not have access to add additional project collaborators or [make a project private](https://avannotate.github.io/documentation/pages/private/).
+> Only the project owner can add additional project collaborators or [make a project private](https://avannotate.github.io/documentation/pages/private/).
 
 For other types of collaborations and permissions, please see [Managing GitHub Collaborators](https://avannotate.github.io/documentation/pages/gh-collab/){:target="_blank" rel="noopener"}.
