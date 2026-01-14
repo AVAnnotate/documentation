@@ -1,5 +1,9 @@
 ---
 title: Creating Transcripts
+published: false
+---
+---
+title: Creating Transcripts
 layout: home
 parent: Resources
 nav_order: 1
