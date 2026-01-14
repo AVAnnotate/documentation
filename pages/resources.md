@@ -1,5 +1,9 @@
 ---
 title: Resources
+published: false
+---
+---
+title: Resources
 layout: home
 nav_order: 9
 ---
