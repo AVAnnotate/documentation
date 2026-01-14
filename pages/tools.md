@@ -1,5 +1,9 @@
 ---
 title: Tools
+published: false
+---
+---
+title: Tools
 layout: home
 parent: Resources
 nav_order: 1
