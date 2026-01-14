@@ -1,5 +1,9 @@
 ---
 title: Teaching Materials
+published: false
+---
+---
+title: Teaching Materials
 layout: home
 parent: Resources
 nav_order: 2
