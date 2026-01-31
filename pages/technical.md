@@ -5,9 +5,9 @@ parent: About AVAnnotate
 nav_order: 2
 ---
 # Technical Stack
-The AVAnnotate application is written in JavaScript, Typescript, and React and utilizes the Astro Framework. It relies on GitHub pages for deploys and hosting of the generated site. The [Admin client](https://avannotate.netlify.app){:target="_blank" rel="noopener"} utilizes Astro’s Server Side Rendering adapter to run on Netlify. This allows the Admin client to communicate securely with GitHub to manage project data.
+The AVAnnotate application is written in JavaScript, Typescript, and React and utilizes the Astro Framework. It relies on [GitHub](https://github.com/){:target="_blank" rel="noopener"} pages for deploys and hosting of the generated site. The [Admin client](https://avannotate.netlify.app){:target="_blank" rel="noopener"} utilizes Astro’s Server Side Rendering adapter to run on Netlify. This allows the Admin client to communicate securely with GitHub to manage project data.
 
-In addition to the technologies above, AVAnnotate employs additional libraries, APIs, etc:
+In addition to the technologies above, AVAnnotate uses the libraries, APIs, and other components listed below.
 - [Radix UI](https://www.radix-ui.com/){:target="_blank" rel="noopener"} - UI Component library
 - [Formik](https://formik.org/){:target="_blank" rel="noopener"} - Web Form library
 - [Isomorphic Git](https://isomorphic-git.org/){:target="_blank" rel="noopener"} - Git repository manipulation
