@@ -1,4 +1,7 @@
-
+---
+title: Resources
+published: false
+---
 title: Converting Legacy OHMS
 layout: home
 parent: Project Basics
