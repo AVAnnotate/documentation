@@ -1,8 +1,9 @@
 ---
 title: WebVTT
 layout: home
-parent: Timestamped Annotations
-nav_order: 3
+parent: Annotations and Time Stamps
+ancester: Projects
+nav_order: 1
 ---
 # Uploading WebVTT files with speaker names.
 1. Upload .VTT files following the same instructions used for [uploading annotations](https://avannotate.github.io/documentation/pages/annotations/).
