@@ -18,15 +18,10 @@ Tags and tag groups can be accessed in AVAnnotate in two places:
 2. Index pages: tags appear as they are associated with different Events and AV files. Individual tags can be selected for playback across all events in a project.
 ![Image 2](../../assets/indexpagetags.png)
 
-## Uploading Tags and Tag Groups
-Sets of tags and tag groups can be uploaded via a spreadsheet. See [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/#tag-spreadsheet-template). Tag spreadsheets should be imported before annotation spreadsheets that have tags. When annotation spreadsheets containing tags are imported, they are matched to the previously imported tags and tag groups.
-![Image 3](../../assets/tagspreadsheetupload.png)
-
+## Uploading Batches of Tags and Tag Groups
+Sets of tags and tag groups can be uploaded via a spreadsheet. See [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/#tag-spreadsheet-template). 
 {: .note }
 > Tags and tag groups can only be uploaded via a spreadsheet if there are no existing tags or tag groups in the project.
-
-{: .warning }
-> DO NOT DELETE “Uncategorized” tag category.
 
 ## Adding Tags and Tag Groups
 Users can add tags and tag groups on the `Data Manager` page. To add additional tag groups, select the `+ Tag Group` button. To add additional tags, select the `+ Tag` found at the bottom of each tag group.
