@@ -21,19 +21,19 @@ This guide provides templates for uploading project information to AVAnnotate in
 
 ---
 ## [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
-This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. This list is not exhaustive. Each row in the Event template corresponds to one recording. If an event spans multiple recordings, additional recordings may be added to the event after the initial upload.
+This template organizes the events in a project and associates the AV files with that event. An [`Event`](https://avannotate.github.io/documentation/pages/events/) might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. This list is not exhaustive. Each row in the Event template corresponds to one recording. If an event spans multiple recordings, additional recordings may be added to the event after the initial upload.
 
 **Spreadsheet Header** <br>
 **Event Label:** Descriptive title of the event. <br>
 **Event Item Type:** “Audio” or “Video” <br>
-**AV File Label:** Name for the file; create a name even if there is not an AV URL <br>
+**AV File Label:** Name for the file; create a name even if there is no AV URL <br>
 **AV File URL:**  (optional) See [AV File Formats and Support](https://avannotate.github.io/documentation/pages/av/) for more information. <br>
 **Event Description:**  (optional) <br>
 **Event Citation:**  (optional) <br>
 
 ---
 ## [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}
-This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Group  can be used to organize the tags. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the group “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a group). Consistency with the spelling and capitalization of tags is imperative. Different spelling or capitalizations = different tags. 
+This template contains tags and tag categories used in a project. [`Tags`](https://avannotate.github.io/documentation/pages/tags/) are labels used in the interface to index, organize, and discover topics in the annotations. Group  can be used to organize the tags. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the group “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a group). Consistency with the spelling and capitalization of tags is imperative. Different spelling or capitalizations = different tags. 
 
 **Note:** 
 A tag can belong to multiple groups. For example, the tag “Zora Neale Hurston” may be found in the groups “Speaker” and “Topic” (depending on the event context) or may not be categorized as part of a group at all. 
@@ -49,16 +49,16 @@ A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anza
 
 ---
 ## [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}
-This template includes project annotations. Annotations correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. 
-Annotations are linked to an event as part of the upload process. 
+This template includes project annotations. [`Annotations`](https://avannotate.github.io/documentation/pages/annotations/) correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, such as shot sequence, volume, or lighting; historical or cultural context; environmental noise, such as fans or car horns; or conceptual notes or themes. 
+Annotations are linked to an event during the upload process. 
 
 **Note:** 
-Annotations may overlap in time and will appear in sequence in the interface according to the earliest start time.
+Annotations may overlap in time and will appear in the interface in sequence by earliest start time.
 
 **Spreadsheet Header** <br>
 **Start Time:**  Marks the point in time in minutes and seconds that is the target of an annotation. <br>
-**End Time:**  May be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
-**Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) Basic HTML tags are allowed in the body of annotations including: `b`
+**End Time:**  May be the same as start time for a point in time, or may correspond to the end of a range of time that is the target of the annotation. <br>
+**Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) Basic HTML tags are allowed in the body of annotations, including: `b`
 `em`
 `i`
 `italic`
@@ -70,7 +70,7 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 **Tags:** (optional) are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple groups, the group must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”).<br> 
 
 {: .warning }
-> **Important Note:** In the current version, tags are optional in the spreadsheeet upload but the header "tag" is required. Oterwise, the column can remain blank. 
+> **Important Note:** In the current version, tags are optional in the spreadsheet upload, but the header "tag" is required. Otherwise, the column can remain blank. 
 
 # Examples
 Sample Audio Spreadsheets - 
