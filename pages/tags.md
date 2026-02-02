@@ -20,6 +20,7 @@ Tags and tag groups can be accessed in AVAnnotate in two places:
 
 ## Uploading Batches of Tags and Tag Groups
 Sets of tags and tag groups can be uploaded via a spreadsheet. See [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/#tag-spreadsheet-template). 
+
 {: .note }
 > Tags and tag groups can only be uploaded via a spreadsheet if there are no existing tags or tag groups in the project.
 
