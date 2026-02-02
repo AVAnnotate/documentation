@@ -23,6 +23,9 @@ Sets of tags and tag groups can be uploaded via a spreadsheet. See [Spreadsheet 
 {: .note }
 > Tags and tag groups can only be uploaded via a spreadsheet if there are no existing tags or tag groups in the project.
 
+Tag spreadsheets should be imported before importing annotation spreadsheets that have tags. When annotation spreadsheets containing tags are imported, they are matched to the previously imported tags and tag groups.
+![Image 3](../../assets/tagspreadsheetupload.png)
+
 ## Adding Tags and Tag Groups
 Users can add tags and tag groups on the `Data Manager` page. To add additional tag groups, select the `+ Tag Group` button. To add additional tags, select the `+ Tag` found at the bottom of each tag group.
 ![Image3](../../assets/datamanagertags1.png)
