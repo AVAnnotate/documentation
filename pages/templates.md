@@ -43,6 +43,13 @@ A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anza
 **Tag:** Each unique tag that occurs across the project. Tags are only repeated if they belong to multiple groups.<br>
 **Group:** Each unique category of tag that occurs across the project. Groups may not repeat.<br>
 
+### Uploading Batches of Tags and Tag Groups
+Tag spreadsheets should be imported before annotation spreadsheets that have tags. When annotation spreadsheets containing tags are imported, they are matched to the previously imported tags and tag groups.
+![Image 3](../../assets/tagspreadsheetupload.png)
+
+{: .note }
+> Tags and tag groups can only be uploaded via a spreadsheet if there are no existing tags or tag groups in the project.
+
 ---
 ## [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}
 This template includes project annotations. Annotations correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. 
