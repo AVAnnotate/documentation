@@ -15,28 +15,20 @@ Pages can be customized for
   - images 
  
 ## Add a custom page
-From the Site Builder tab, create a custom page by selecting `Add.` <br><br>
+From the Site Builder tab, create a custom page by selecting `Add.`
 ![Image 2: How to add a custom author-generated page](../../assets/customimage2.png) 
-<br><br>
 
 ### Custom text editor layout options
 Once the page is added, add a title and text; assign a parent page; and customize the text on the page via the rich text editor.
-<br><br>
 ![Image 3: Custom text editor layout options](../../assets/customimage3.png) 
-<br><br>
 
 Insert page layout options
-<br><br>
 ![Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)](../../assets/customimage4.png)
-<br><br>
 
 ## Disabling auto-generation
 Disable auto-generated home and event pages by navigating to the `Pages` tab on the [Project](https://avannotate.github.io/documentation/pages/creating_projects/) page, selecting the three-dot menu next to the event, and choosing "Disable Auto-Generation." This will generate an empty page for creating a custom page. Select  "Re-enable Auto-Generation" to recreate the auto-generated page. The custom page will not be lost. It will reappear when "Disable Auto-Generation" is selected again for that event. 
-<br><br>
 ![Image 3: Disabling auto-generation](../../assets/autoimage3.png) 
-<br><br>
-<br>
 
 ## Reordering pages
-[ADD PICTURE] Pages can be re-ordered using the three-dot settings either on the same level or by making a page a sub-page or a super-page. These changes will appear in the table of contents and side-bar menus of the published project.
-
+Pages can be re-ordered using the three-dot settings either on the same level or by making a page a sub-page or a super-page. These changes will appear in the table of contents and side-bar menus of the published project.
+![Image 6: Reordering custom pages](../../assets/reordercustompagesimage.png) 
