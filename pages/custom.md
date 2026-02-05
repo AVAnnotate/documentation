@@ -28,7 +28,7 @@ Pages can be re-ordered using the three-dot settings either on the same level or
 
 ### Custom text editor layout options
 Once the page is added, add a title and text; assign a parent page; and customize the text on the page via the rich text editor.
-![Image 3: Custom text editor layout options](../../assets/customimage3.png) 
+![Image 3: Custom text editor layout options](../../assets/richtexteditormenuimage.png) 
 
 Insert page layout options
 ![Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)](../../assets/customimage4.png)
