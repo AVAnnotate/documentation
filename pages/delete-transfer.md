@@ -12,7 +12,7 @@ These actions are performed in the project’s settings on the GitHub repository
 
 ## Locating the GitHub repository 
 Select the three-dot menu for the project setting in the AVAnnotate dashboard and select "Repository."
- [ADD PICTURE]
+![Image 2](../../assets/tranfserdeleteimage2.png) 
 
 ## Locating settings in the GitHub repository
 In GitHub, navigate to `Settings` at the top of the repository page. Transferring or deleting a repository can be done in the `Danger Zone` section at the bottom of the `Settings` page for the project.
