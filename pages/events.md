@@ -59,9 +59,24 @@ In the `Add Event` page, select 'Create manifest' and input the following inform
 
 ## Edit Events
 
-Edit Events by clicking into an event on the `Events` page of the  `Data Manager`, and then selecting `Edit Event` under the three-dot menu. 
+Edit Events by clicking into an event on the `Events` page of the  `Data Manager`, and then selecting `Edit Event` under the three-dot menu. An event can also be deleted from this menu.
 ![Image 2](../../assets/eventimage2.png)
 
-On the edit page, modify information about the event media (Label, Item Type, AV Label, etc.) and add, edit, or delete [annotation sets](https://avannotate.github.io/documentation/pages/sets/). 
+The Edit Event page can also be accessed by selecting the three-dot next to each Event on the `Events` page of the `Data Manager` and selecting "Event Settings."
+![Image 5](../../assets/eventimage5.png) 
+
+On the Edit Event page, modify information about the Event media (Event Label, AV Type, AV Label, etc.) and add, edit, or delete [annotation sets](https://avannotate.github.io/documentation/pages/sets/). 
 ![Image 3](../../assets/eventimage3.png) 
 ![Image 4](../../assets/eventimage4.png) 
+
+On the Edit Event page, additional AV items can be added to an Event. Under the `Audiovisual item(s)` section, select `+ Add`. Add the Event's AV Type, Label, and File URL. If the File URL is correct, the AV item's duration will automatically populate.
+![Image 6](../../assets/eventimage6.png) 
+The AV item can be deleted and its duration manually changed by selecting the three-dot menu next to the AV item, then choosing the desired action.
+![Image 7](../../assets/eventimage7.png)
+
+If adding AV items for an [offline project](https://avannotate.github.io/documentation/pages/offline/), toggle the File type to `Offline`. Then create a path to your offline AV item by renaming the AV item URL with a forward slash, the "media" directory name, another forward slash, and the AV file name.
+![Image 8](../../assets/eventimage8.png)
+
+If an Event has multiple Annotation Sets associated with it, the Annotation Set producing the Event's Captions can be changed. Under the `Annotation Sets` section, select the three-dot menu next to the desired Annotation Set and select `Edit`. In the Edit Annotation Set menu, toggle the "Use for Captions" on or off to use for captions. If there is only one Annotation Set for the Event, the Default Annotation Set will be used for the Captions.
+![Image 9](../../assets/eventimage9.png)
+![Image 10](../../assets/eventimage10.png)
