@@ -11,7 +11,9 @@ Events are a central conceptual element of an AVAnnotate project and may compris
 
 AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_iiif_resources/){:target="_blank" rel="noopener"} for each event. Event pages can be [auto-generated](https://avannotate.github.io/documentation/pages/auto/) or [customized](https://avannotate.github.io/documentation/pages/custom/) and created by the user.
 
-### Add new events by selecting `+ Add` on the Event dashboard
+## How to Add New Events to Projects
+
+### Import Events Spreadsheet
 <figure>
   <video width="800" height="400" controls
          aria-label="This video demonstrates how to upload an event to an AVAnnotate project via the Event Template. After selecting 'Add,' import a file on your drive. AVAnnotate will prompt you to calibrate the file's columns, which requires selecting at least two columns to confirm the configuration. Press 'import,' then press 'save.'"
@@ -25,7 +27,10 @@ AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_
 {: .note }
 Annotation sets can be added to an Event after it has been added and saved. 
 
-### 'Create Manifest' by inputting information about the new event, including: 
+### Create a IIIF Manifest
+![IIIF Image 1](../../assets/createmanifestimage.png) 
+
+In the `Add Event` page, select 'Create manifest' and input the following information about the new event: 
 - `Label` A descriptive title of the event
 - `Item Type` Audio or video
 - `AV label` A descriptive title of the audio or video file
@@ -34,7 +39,7 @@ Annotation sets can be added to an Event after it has been added and saved.
 - `Description` (optional)
 - `Citation` (optional)
 
-### 'Import Manifest' by referencing a IIIF manifest
+### Import a IIIF Manifest
 
 1. Select the IIIF logo in a participating DAMS (digital asset management system). 
 ![IIIF Image 1](../../assets/eventimage-iiif2.png) 
@@ -42,7 +47,7 @@ Annotation sets can be added to an Event after it has been added and saved.
 2. Copy the URL to the IIIF manifest.  
 ![IIIF Image 2](../../assets/eventimage-iiif1.png) 
 <br>
-3. Select "Import Manifest," paste the URL, and select "Analyze."
+3. Select "Import Manifest" from the `Add Event` page, paste the URL, and select "Analyze."
 ![IIIF Image 1](../../assets/iiifimage2.png) 
 <br>
 4.  If the manifest is properly formed, a "Success!" message will appear. Save.
@@ -50,13 +55,13 @@ Annotation sets can be added to an Event after it has been added and saved.
 <br>
 
 {: .warning }
-> The AVAnnotate validator checks that the IIIF manifest structure is valid but does not check links. Broken or invalid links (see [Valid IIIF AV Types](https://avannotate.github.io/documentation/pages/av/)] will not render in an AVAnnotate project. 
+> The AVAnnotate validator checks that the IIIF manifest structure is valid, but does not check links. Broken or invalid links (see [Valid IIIF AV Types](https://avannotate.github.io/documentation/pages/av/)] will not render in an AVAnnotate project. 
 
-### Edit events by clicking into an event on the dashboard, and then selecting `Edit` 
-<br>
+## Edit Events
+
+Edit Events by clicking into an event on the `Events` page of the  `Data Manager`, and then selecting `Edit Event` under the three-dot menu. 
 ![Image 2](../../assets/eventimage2.png)
 
 On the edit page, modify information about the event media (Label, Item Type, AV Label, etc.) and add, edit, or delete [annotation sets](https://avannotate.github.io/documentation/pages/sets/). 
-<br>
 ![Image 3](../../assets/eventimage3.png) 
 ![Image 4](../../assets/eventimage4.png) 
