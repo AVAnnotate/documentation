@@ -26,8 +26,9 @@ Disable auto-generated home and event pages by navigating to the `Site Builder` 
 Pages can be re-ordered using the three-dot settings either on the same level or by making a page a sub-page or a super-page. These changes will appear in the table of contents and side-bar menus of the published project.
 ![Image 6: Reordering custom pages](../../assets/reordercustompagesimage.png) 
 
-### Custom text editor layout options
-Once the page is added, add a title and text; assign a parent page; and customize the text on the page via the rich text editor.
+##  Custom text editor layout options
+
+Once the page is added, add a title and text; assign a parent page; and customize the text on the page via the rich text editor. For details on the customizable features, see [Editing Custom Pages] below.
 ![Image 3: Custom text editor layout options](../../assets/richtexteditormenuimage.png) 
 
 Insert page layout options
