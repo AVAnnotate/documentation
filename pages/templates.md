@@ -23,7 +23,7 @@ This guide provides instructions and templates for uploading project information
 ## [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template organizes project events and associates AV files with each event. An [`Event`](https://avannotate.github.io/documentation/pages/events/) might be an interview, an oral history, a performance, a speech, a reading, or a conference that spans multiple days. This list is not exhaustive. Each row in the Event template corresponds to one recording. If an event spans multiple recordings, additional recordings may be added to the event after the initial upload.
 
-**Headers of Event Spreadsheet Template** <br>
+**Event Spreadsheet Template** <br>
 **Event Label:** Descriptive title of the event. <br>
 **AV Type:** “Audio” or “Video” <br>
 **AV File Label:** Name for the file; create a name even if there is no AV Reference. This could be the same as Event Label.<br>
@@ -38,7 +38,7 @@ This template contains tags and tag categories used in a project. [`Tags`](https
 {: .note }
 > A single tag can contain multiple words, accents, and commas (e.g., "Gloria Anzaldúa, Texas, 1942-2004"), but should adhere to URL-safe characters guidelines (Alphanumeric [0-9a-zA-Z], special characters $-_.+!*'(),). 
 
-**Headers of Tag Spreadsheet Template** <br>
+**Tag Spreadsheet Template** <br>
 **Tag:** Each unique tag that occurs across the project. Tags are only repeated if they belong to multiple groups.<br>
 **Group:** Each unique category of tag that occurs across the project. Groups may not repeat.<br>
 
@@ -52,7 +52,7 @@ This template includes project annotations. [`Annotations`](https://avannotate.g
 {: .note }
 > Annotations may overlap in time and will appear in the interface in sequence by earliest start time.
 
-**Headers for Annotation Spreadsheet Template** <br>
+**Annotation Spreadsheet Template** <br>
 **Start Time:**  Marks the point in time in hours, minutes, and seconds that is the target of an annotation. <br>
 **End Time:**  May be the same as start time for a point in time, or may correspond to the end of a range of time that is the target of the annotation. <br>
 **Annotation:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) Basic HTML tags are allowed in the body of annotations, including: `b`
