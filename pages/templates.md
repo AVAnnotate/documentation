@@ -26,10 +26,10 @@ This template organizes project events and associates AV files with each event. 
 **Headers of Event Spreadsheet Template** <br>
 **Event Label:** Descriptive title of the event. <br>
 **AV Type:** “Audio” or “Video” <br>
-**AV File Label:** Name for the file; create a name even if there is no AV URL <br>
-**AV Reference** (optional): This typically includes a URL to an online AV file. See [AV File Formats and Support](https://avannotate.github.io/documentation/pages/av/) for more information. This could also include reference to a local file path for an offline or alternative server project. <br>
+**AV File Label:** Name for the file; create a name even if there is no AV Reference. This could be the same as Event Label.<br>
+**AV Reference** (optional): Typically includes a URL to an online AV file, see [AV File Formats and Support](https://avannotate.github.io/documentation/pages/av/) for more information; might also include reference to a local file path for an [offline or alternative server project](https://avannotate.github.io/documentation/pages/offline/). <br>
 **Event Description** (optional): <br>
-**Event Citation** (optional): <br>
+**AV Citation** (optional): <br>
 
 ---
 ## [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}
