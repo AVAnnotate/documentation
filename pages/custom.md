@@ -34,5 +34,35 @@ Pages can be re-ordered using the three-dot settings either on the same level or
 The custom rich text editor allows the project's author to flexibly customize page layout, formatting, and content elements.
 ![Image 3: Custom text editor layout options](../../assets/richtexteditormenuimage.png) 
 
-Insert page layout options
-![Image 4: Insert page layout options including columns, horizontal separators, and single or comparison events (full or clips)](../../assets/customimage4.png)
+To undo a mistake or an action, select the `Undo` button to the right of the `Insert` menu in the Rich Text Editor menu.
+
+## Insert Page Layout Options
+To view the Page Layout Options, select the `Insert` menu on the Rich Text Editor menu, and hover over `Columns`. There are four options for page layouts in the `Columns` menu: Full Width, 1/3 + 2/3, 1/2 + 1/2, and 2/3 + 1/3. The Full Width option will create a column that spans the entire page. The other options create columns based on the selected page width. For example, if the 1/2 + 1/2 page layout is selected, two equal-width columns (1/2 page each) will be created. Once the columns are created, text, images, links, etc. can then be placed inside the columns. To change the padding of the columns (the white area surrounding the columns), right-click the column and select `Padding`. The padding can then be changed by percentages, either above, below, right, or left of the column. To delete the column, right-click the column and select `Delete`.
+
+## Insert Horizontal Line
+To add a horizontal line on the custom page, click on the `Insert` menu and select Horizontal Line in the drop-down menu.
+
+## Insert Audiovisual Item
+To insert an audiovisual item from the project's `Data Manager`, select the `Insert` menu and select `Embed AV` from the drop-down menu. A new menu screen will appear called `Embed AV`. Select the desired AV item from the audiovisual events from the project. To embed the full `Event`, select `Full Event`. To embed a clip of the `Event`, select `Clip.` Then, select the `AV Item` and add the desired `Start Time` and `End Time` of the clip in the hh:mm:ss format. Lastly, select what the embedded AV item will include from the `Event`: `Media`, `Annotations`, `Label`, and `Description`. All four are included by default. To remove one of the elements, click on it and it will turn gray to indicate it will not be included in the embedded AV item. When all the information is filled out, click `Embed` at the bottom right of the screen to embed the item.
+
+## Insert Comparison of Two Audiovisual Items
+To create a side-by-side comparison of two AV items, click on the `Insert` menu and select `Compare AV`. A new menu will appear called `Compare AV`. To compare complete events, select `Full Event` in the `Duration` section. In the `Audiovisual Event 1` and `Audiovisual Event 2` sections, click on the drop-down menu for the desired AV items to compare. In the `Include` section, select the desired elements to be included in the comparison: `Media`, `Annotations`, `Label`, and `Description`. All four are included by default. To remove an element, click it; it will turn gray to indicate it will not be included in the embedded AV item. To compare two clips, under the `Duration` section select `Clip`. In the `Audiovisual Event 1` section, select the desired `Event`, confirm the `AV Item`, and add the desired `Start Time` and `End Time` of the clip in the hh:mm:ss format. Repeat these steps for the second clip in the `Audiovisual Event 2` section. When all fields are filled out, click `Embed` in the bottom-right corner to embed the item. The two events will appear side by side on the page once embedded.
+
+## Edit Text Sizing
+The default text size for a custom page is `Normal Text`. To change the text size, click on the text menu and select the desired text size. There are two options for text sizes: Normal Text and Small Text. Headings can also be added from the same menu. The heading options are Heading 1, Heading 2, Heading 3, and Heading 4, with Heading 1 being the largest. To change the size of existing text, highlight the text, and then select the desired size from the text menu.
+
+## Edit Text Formatting
+
+## Insert Lists
+To insert a bulleted list, select the `Bulleted List` icon in the Rich Text Editor menu. To change text on the page into a bulleted list, highlight the desired text and select the `Bulleted List` icon. To insert a numbered list, select the `Numbered List` icon in the Rich Text Editor menu. To change text on the page into a numbered list, highlight the desired text and select the `Numbered List` icon.
+
+## Insert a Table of Contents
+To insert a table of contents, select the `Table of Contents` icon in the Rich Text Editor menu. A gray box will appear on the page labelled `Table of Contents`. The table of contents will include all the pages from the project in the order that they appear in the `Site Builder` of the project.
+
+## Adjusting Content Alignment
+
+## Insert Link
+To insert a link, highlight the text or page content to be linked and then select the `Insert Link` icon on the right-hand side of the Rich Text Editor menu. A new window will appear. Paste or type the link’s URL in the `URL` field and hit `Insert`.
+
+## Insert and Edit Images
+To insert an image, select the `Insert Image` icon on the right-hand side of the Rich Text Editor menu. A new window will appear. Paste or type the image’s URL in the `URL` field. If desired, add a caption to the image by filling out the `Caption` field. Then hit `Save`. To change the image’s URL or Caption, right-click on the image and select `Edit Properties`. Edit the URL and caption in the `Update Properties` window and then click `Save`. To change the size of the image, right-click on the image and select `Resize`. In the `Image Size` menu, change the size of the image by moving the sizer to the left for a smaller image or to the right for a larger image. Or, directly enter the desired size change in the percentage box. For example, to reduce an image by 20%, enter 80% in the percentage box. 
