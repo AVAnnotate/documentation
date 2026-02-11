@@ -6,9 +6,9 @@ nav_order: 11
 # Troubleshooting Projects That Won’t Publish
 
 ## Check the Tags
-- Check your tags. All [tags](https://avannotate.github.io/documentation/pages/tags/) should include URL-safe characters such as alphanumeric [a-z A-Z] characters. Diacritics and accents, commas, dashes, and numbers [0-9] are allowed, but no periods (.), apostrophes (‘), quotation marks (“), ampersands (&), or other non-alphanumeric characters.
+- Check the project's tags. All [tags](https://avannotate.github.io/documentation/pages/tags/) should include URL-safe characters such as alphanumeric [a-z A-Z] characters. Diacritics and accents, commas, dashes, and numbers [0-9] are allowed, but no periods (.), apostrophes (‘), quotation marks (“), ampersands (&), or other non-alphanumeric characters.
 - Tags can only be deleted on the backend through the tag manager. If annotations with a tag are deleted, the tag will remain in the project unless it is removed in the tag manager.
-- If you update these tag errors in the backend tag manager, the tags will be fixed across all the annotations. Republish! 
+- If these tag errors are updated in the backend tag manager, the tags will be fixed across all the annotations. Republish! 
 
 ## Check AV Media References or URLs
 - AV URLS should go directly to the AV resource, not the HTML page where the resource is presented online. The safe URL will likely end in an .mp4, .mp3, or be a direct “share” link from Vimeo or YouTube.
