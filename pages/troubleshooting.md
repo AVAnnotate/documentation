@@ -6,7 +6,7 @@ nav_order: 11
 # Troubleshooting Projects That Won’t Publish
 
 ## Check the Tags
-- Check your tags. All tags should include URL-safe characters such as alphanumeric [a-z A-Z] characters. Diacritics and accents, commas, dashes, and numbers [0-9] are allowed, but no periods (.), apostrophes (‘), quotation marks (“), ampersands (&), or other non-alphanumeric characters.
+- Check your tags. All [tags](https://avannotate.github.io/documentation/pages/tags/) should include URL-safe characters such as alphanumeric [a-z A-Z] characters. Diacritics and accents, commas, dashes, and numbers [0-9] are allowed, but no periods (.), apostrophes (‘), quotation marks (“), ampersands (&), or other non-alphanumeric characters.
 - Tags can only be deleted on the backend through the tag manager. If annotations with a tag are deleted, the tag will remain in the project unless it is removed in the tag manager.
 - If you update these tag errors in the backend tag manager, the tags will be fixed across all the annotations. Republish! 
 
@@ -18,7 +18,7 @@ nav_order: 11
 > If using Vimeo, the size of the video will not adjust in AVAnnotate. It is better to upload the files to the Internet Archive. 
 
 ## Check the Spreadsheets
-- Use spreadsheets to organize the project's events, tags, and annotations before starting to build the online project. Content is the hardest part of making an AVAnnotate project, and this way, the project will always have a backup.
+- Use [spreadsheets](https://avannotate.github.io/documentation/pages/templates/) to organize the project's events, tags, and annotations before starting to build the online project. Content is the hardest part of making an AVAnnotate project, and this way, the project will always have a backup.
 - There should be NO empty cells in the project's spreadsheets. If one Event description is included, for example, all of the project's Events must include descriptions. If one tag is included for one annotation, tags have to be included for all the annotations.
 - Be sure to upload spreadsheets in this order: (1) Events, (2) Tags, (3) Annotations. 
 - Consider adding new sets of annotations as separate annotation sets. This gives more flexibility with deleting sets on the backend and filtering annotations on the front end. 
