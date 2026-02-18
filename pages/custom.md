@@ -59,6 +59,7 @@ The default text size for a custom page is `Normal Text`. To change the text siz
 
 ## Edit Text Formatting
 ![Image 8: Edit Text Formmating](../../assets/edittextformattingcustompages.png) 
+There are several options for changing the text format on a custom page. To type in bold text, select the `Bold` icon in the Rich Text Editor menu. To bold already existing text, highlight the desired text and select the ‘Bold` icon. To undo bolded text, highlight the desired text and select the `Bold` icon. To type in italicized text, select the `Italic` icon in the Rich Text Editor menu. To italicize already existing text, highlight the desired text and select the ‘Italic` icon. To undo italicized text, highlight the desired text and select the ` Italic` icon. To type in underlined text, select the `Underline` icon in the Rich Text Editor menu. To underline already existing text, highlight the desired text and select the ‘Underline` icon. To undo underlined text, highlight the desired text and select the ` Underline` icon. To type in strikethrough text, select the `Strikethrough` icon in the Rich Text Editor menu. To strikethrough already existing text, highlight the desired text and select the ‘Strikethrough` icon. To undo strikethrough text, highlight the desired text and select the `Strikethrough` icon. To highlight text, select the ‘Highlight` icon in the Rich Text Editor menu.
 
 ## Insert Lists
 ![Image 9: Insert Lists](../../assets/insertlistscustompages.png) 
@@ -70,6 +71,7 @@ To insert a table of contents, select the `Table of Contents` icon in the Rich T
 
 ## Adjusting Content Alignment
 ![Image 11: Adjusting Content Alignment](../../assets/adjustcontentalignmentcustompage.png) 
+Text alignment can be adjusted using the alignment controls located in the toolbar of the Rich Text Editor. The alignment icons—represented by horizontal lines positioned to the left, center, or right—allow text to be formatted as `Left Justified`, `Text Centered`, or `Right Justified`. To change text alignment, first highlight the desired block of text, then select the appropriate alignment icon from the menu. The `Justify` icon in the Rich Text Editor menu, represented by four parallel lines of equal width, will shift highlighted text to the left-hand side of the page when selected.
 
 ## Insert Link
 ![Image 12: Insert Link](../../assets/insertlinkcustompages.png) 
