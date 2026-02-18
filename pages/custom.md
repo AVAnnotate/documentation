@@ -49,25 +49,32 @@ To add a horizontal line on the custom page, click on the `Insert` menu and sele
 To insert an audiovisual item from the project's `Data Manager`, select the `Insert` menu and select `Embed AV` from the drop-down menu. A new menu screen will appear called `Embed AV`. Select the desired AV item from the audiovisual events from the project. To embed the full `Event`, select `Full Event`. To embed a clip of the `Event`, select `Clip.` Then, select the `AV Item` and add the desired `Start Time` and `End Time` of the clip in the hh:mm:ss format. Lastly, select what the embedded AV item will include from the `Event`: `Media`, `Annotations`, `Label`, and `Description`. All four are included by default. To remove one of the elements, click on it and it will turn gray to indicate it will not be included in the embedded AV item. When all the information is filled out, click `Embed` at the bottom right of the screen to embed the item.
 
 ## Insert Comparison of Two Audiovisual Items
-![Image 6: Insert compare AV option](../../assets/insertcompareAVcustompage copy.png) 
+![Image 6: Insert compare AV option](../../assets/insertcompareAVcustompage.png) 
 To create a side-by-side comparison of two AV items, click on the `Insert` menu and select `Compare AV`. A new menu will appear called `Compare AV`. To compare complete events, select `Full Event` in the `Duration` section. In the `Audiovisual Event 1` and `Audiovisual Event 2` sections, click on the drop-down menu for the desired AV items to compare. In the `Include` section, select the desired elements to be included in the comparison: `Media`, `Annotations`, `Label`, and `Description`. All four are included by default. To remove an element, click it; it will turn gray to indicate it will not be included in the embedded AV item. To compare two clips, under the `Duration` section select `Clip`. In the `Audiovisual Event 1` section, select the desired `Event`, confirm the `AV Item`, and add the desired `Start Time` and `End Time` of the clip in the hh:mm:ss format. Repeat these steps for the second clip in the `Audiovisual Event 2` section. When all fields are filled out, click `Embed` in the bottom-right corner to embed the item. The two events will appear side by side on the page once embedded.
 ![Video 1: Insert Comparison of Two Audiovisual Items](../../assets/compareAVvideo.mov) 
 
 ## Edit Text Sizing
+![Image 7: Edit Text Sizing](../../assets/edittextsizingcustompages.png) 
 The default text size for a custom page is `Normal Text`. To change the text size, click on the text menu and select the desired text size. There are two options for text sizes: Normal Text and Small Text. Headings can also be added from the same menu. The heading options are Heading 1, Heading 2, Heading 3, and Heading 4, with Heading 1 being the largest. To change the size of existing text, highlight the text, and then select the desired size from the text menu.
 
 ## Edit Text Formatting
+![Image 8: Edit Text Formmating](../../assets/edittextformattingcustompages.png) 
 
 ## Insert Lists
+![Image 9: Insert Lists](../../assets/insertlistscustompages.png) 
 To insert a bulleted list, select the `Bulleted List` icon in the Rich Text Editor menu. To change text on the page into a bulleted list, highlight the desired text and select the `Bulleted List` icon. To insert a numbered list, select the `Numbered List` icon in the Rich Text Editor menu. To change text on the page into a numbered list, highlight the desired text and select the `Numbered List` icon.
 
 ## Insert a Table of Contents
+![Image 10: Insert Table of Contents](../../assets/inserttableofcontentscustompages.png) 
 To insert a table of contents, select the `Table of Contents` icon in the Rich Text Editor menu. A gray box will appear on the page labelled `Table of Contents`. The table of contents will include all the pages from the project in the order that they appear in the `Site Builder` of the project.
 
 ## Adjusting Content Alignment
+![Image 11: Adjusting Content Alignment](../../assets/adjustcontentalignmentcustompage.png) 
 
 ## Insert Link
+![Image 12: Insert Link](../../assets/insertlinkcustompages.png) 
 To insert a link, highlight the text or page content to be linked and then select the `Insert Link` icon on the right-hand side of the Rich Text Editor menu. A new window will appear. Paste or type the link’s URL in the `URL` field and hit `Insert`.
 
 ## Insert and Edit Images
+![Image 13: Insert and Edit Images](../../assets/insertandeditimagescustompages.png) 
 To insert an image, select the `Insert Image` icon on the right-hand side of the Rich Text Editor menu. A new window will appear. Paste or type the image’s URL in the `URL` field. If desired, add a caption to the image by filling out the `Caption` field. Then hit `Save`. To change the image’s URL or Caption, right-click on the image and select `Edit Properties`. Edit the URL and caption in the `Update Properties` window and then click `Save`. To change the size of the image, right-click on the image and select `Resize`. In the `Image Size` menu, change the size of the image by moving the sizer to the left for a smaller image or to the right for a larger image. Or, directly enter the desired size change in the percentage box. For example, to reduce an image by 20%, enter 80% in the percentage box. 
