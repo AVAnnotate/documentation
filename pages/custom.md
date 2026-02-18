@@ -37,15 +37,19 @@ The custom rich text editor allows the project's author to flexibly customize pa
 To undo a mistake or an action, select the `Undo` button to the right of the `Insert` menu in the Rich Text Editor menu.
 
 ## Insert Page Layout Options
+![Image 4: Custom page layout options](../../assets/pagelayoutoptions.png) 
 To view the Page Layout Options, select the `Insert` menu on the Rich Text Editor menu, and hover over `Columns`. There are four options for page layouts in the `Columns` menu: Full Width, 1/3 + 2/3, 1/2 + 1/2, and 2/3 + 1/3. The Full Width option will create a column that spans the entire page. The other options create columns based on the selected page width. For example, if the 1/2 + 1/2 page layout is selected, two equal-width columns (1/2 page each) will be created. Once the columns are created, text, images, links, etc. can then be placed inside the columns. To change the padding of the columns (the white area surrounding the columns), right-click the column and select `Padding`. The padding can then be changed by percentages, either above, below, right, or left of the column. To delete the column, right-click the column and select `Delete`.
 
 ## Insert Horizontal Line
+![Image 4: Insert horizontal line option](../../assets/inserthorizontallinecustompage.png) 
 To add a horizontal line on the custom page, click on the `Insert` menu and select Horizontal Line in the drop-down menu.
 
 ## Insert Audiovisual Item
+![Image 5: Insert AV Item option](../../assets/insertAVitemcustompage.png) 
 To insert an audiovisual item from the project's `Data Manager`, select the `Insert` menu and select `Embed AV` from the drop-down menu. A new menu screen will appear called `Embed AV`. Select the desired AV item from the audiovisual events from the project. To embed the full `Event`, select `Full Event`. To embed a clip of the `Event`, select `Clip.` Then, select the `AV Item` and add the desired `Start Time` and `End Time` of the clip in the hh:mm:ss format. Lastly, select what the embedded AV item will include from the `Event`: `Media`, `Annotations`, `Label`, and `Description`. All four are included by default. To remove one of the elements, click on it and it will turn gray to indicate it will not be included in the embedded AV item. When all the information is filled out, click `Embed` at the bottom right of the screen to embed the item.
 
 ## Insert Comparison of Two Audiovisual Items
+![Image 6: Insert compare AV option](../../assets/insertcompareAVcustompage copy.png) 
 To create a side-by-side comparison of two AV items, click on the `Insert` menu and select `Compare AV`. A new menu will appear called `Compare AV`. To compare complete events, select `Full Event` in the `Duration` section. In the `Audiovisual Event 1` and `Audiovisual Event 2` sections, click on the drop-down menu for the desired AV items to compare. In the `Include` section, select the desired elements to be included in the comparison: `Media`, `Annotations`, `Label`, and `Description`. All four are included by default. To remove an element, click it; it will turn gray to indicate it will not be included in the embedded AV item. To compare two clips, under the `Duration` section select `Clip`. In the `Audiovisual Event 1` section, select the desired `Event`, confirm the `AV Item`, and add the desired `Start Time` and `End Time` of the clip in the hh:mm:ss format. Repeat these steps for the second clip in the `Audiovisual Event 2` section. When all fields are filled out, click `Embed` in the bottom-right corner to embed the item. The two events will appear side by side on the page once embedded.
 ![Video 1: Insert Comparison of Two Audiovisual Items](../../assets/compareAVvideo.mov) 
 
