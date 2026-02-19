@@ -34,7 +34,9 @@ Pages can be re-ordered using the three-dot settings either on the same level or
 The custom rich text editor allows the project's author to flexibly customize page layout, formatting, and content elements.
 ![Image 3: Custom text editor layout options](../../assets/richtexteditormenuimage.png) 
 
-To undo a mistake or an action, select the `Undo` button to the right of the `Insert` menu in the Rich Text Editor menu.
+## Undo Actions
+![Image 3: Undo Actions](../../assets/undoandredooptions.png) 
+To undo a mistake or an action, select the `Undo` icon to the right of the `Insert` menu in the Rich Text Editor menu. To redo an action, select the `Redo` icon to the right of the `Undo` icon in the Rich Text Editor menu.
 
 ## Insert Page Layout Options
 ![Image 4: Custom page layout options](../../assets/pagelayoutoptions.png) 
@@ -60,6 +62,10 @@ The default text size for a custom page is `Normal Text`. To change the text siz
 ## Edit Text Formatting
 ![Image 8: Edit Text Formmating](../../assets/edittextformattingcustompages.png) 
 There are several options for changing the text format on a custom page. To type in bold text, select the `Bold` icon in the Rich Text Editor menu. To bold already existing text, highlight the desired text and select the ‘Bold` icon. To undo bolded text, highlight the desired text and select the `Bold` icon. To type in italicized text, select the `Italic` icon in the Rich Text Editor menu. To italicize already existing text, highlight the desired text and select the ‘Italic` icon. To undo italicized text, highlight the desired text and select the ` Italic` icon. To type in underlined text, select the `Underline` icon in the Rich Text Editor menu. To underline already existing text, highlight the desired text and select the ‘Underline` icon. To undo underlined text, highlight the desired text and select the ` Underline` icon. To type in strikethrough text, select the `Strikethrough` icon in the Rich Text Editor menu. To strikethrough already existing text, highlight the desired text and select the ‘Strikethrough` icon. To undo strikethrough text, highlight the desired text and select the `Strikethrough` icon. To highlight text, select the ‘Highlight` icon in the Rich Text Editor menu.
+
+## Insert Block Quote
+![Image 8: Insert Block Quote](../../assets/insertblockquote.png)
+To insert a block quote, select the `Block Quote` icon from the menu and then enter the desired block quote. To change existing text into a block quote, highlight the desired text, and then select the `Block Quote` icon. 
 
 ## Insert Lists
 ![Image 9: Insert Lists](../../assets/insertlistscustompages.png) 
