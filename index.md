@@ -6,7 +6,7 @@ nav_order: 1
 
 ## It's difficult to use audio and video in research and teaching. AVAnnotate makes it easier.
 ---
-[AVAnnotate](https://av-annotate.org/) is an application for creating, organizing, and publishing collections of annotations for audio and video resources, making these artifacts easily discoverable and searchable.
+[AVAnnotate](https://av-annotate.org/) is a free, open-source, application for creating, organizing, and publishing websites that feature audio and video resources, making these artifacts easily discoverable and searchable.
 
 This "Get Started" section outlines the basics of developing an AVAnnotate project, from foundational concepts to helpful tips and tricks. 
 - The [quick start](https://avannotate.github.io/documentation/pages/quickstart/) offers a step-by-step guide to creating a project.
