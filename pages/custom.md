@@ -41,6 +41,15 @@ To undo a mistake or an action, select the `Undo` icon to the right of the `Inse
 ## Insert Page Layout Options
 ![Image 4: Custom page layout options](../../assets/pagelayoutoptions.png) 
 To view the Page Layout Options, select the `Insert` menu on the Rich Text Editor menu, and hover over `Columns`. There are four options for page layouts in the `Columns` menu: Full Width, 1/3 + 2/3, 1/2 + 1/2, and 2/3 + 1/3. The Full Width option will create a column that spans the entire page. The other options create columns based on the selected page width. For example, if the 1/2 + 1/2 page layout is selected, two equal-width columns (1/2 page each) will be created. Once the columns are created, text, images, links, etc. can then be placed inside the columns. To change the padding of the columns (the white area surrounding the columns), right-click the column and select `Padding`. The padding can then be changed by percentages, either above, below, right, or left of the column. To delete the column, right-click the column and select `Delete`.
+<figure>
+  <video width="800" height="400" controls
+         aria-label="This video demonstrates how to select, edit, and delete a page layout for a custom page in an AVAnnotate project. After selecting 'Insert,' select the desired layout option. It will then populate in the Rich Text Editor."
+         title="Changing page layout on a custom page in AVAnnotate">
+    <source src="https://ia600105.us.archive.org/24/items/insertlayoutsvideo/insertlayoutsvideo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>This video demonstrates how to select, configure, and delete page layouts on a custom page in AVAnnotate.</figcaption>
+</figure>
 
 ## Insert Horizontal Line
 ![Image 4: Insert horizontal line option](../../assets/inserthorizontallinecustompage.png) 
