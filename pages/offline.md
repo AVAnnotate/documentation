@@ -1,9 +1,9 @@
 ---
 title: Offline
 layout: home
-parent: Project Basics
+parent: Published Sites
 grand_parent: Projects
-nav_order: 5
+nav_order: 1
 ---
 
 # Offline or Alternative Server Projects
