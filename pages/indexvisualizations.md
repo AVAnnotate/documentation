@@ -3,7 +3,7 @@ title: Index
 layout: home
 parent: Published Sites
 grand_parent: Projects
-nav_order: 1
+nav_order: 2
 ---
 # Index
 After a project’s pages are created, organized, and published using the `Site Builder` interface of the AVAnnotate application, an `Index` page is also auto-generated for the project and appears at the end of the project’s table of contents. The index page serves as a central directory for exploring a project's published content through its tags and tag groups. By compiling all these terms into a single index, the page provides a comprehensive overview of the subjects covered across the project’s audio and video materials. The home page of the index is divided into tag groups, which appear in alphabetical order, with each group’s associated tags listed underneath. A number appears to the right of each tag, showing how many times it appears in the project. 
