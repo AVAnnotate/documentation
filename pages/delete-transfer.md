@@ -1,7 +1,7 @@
 ---
 title: Transfer and Delete
 layout: home
-parent: Project Basics
+parent: Creating Projects
 grand_parent: Projects
 nav_order: 4
 ---
