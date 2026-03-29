@@ -1,7 +1,8 @@
 ---
 title: Project Basics
 layout: home
-parent: Projects
+parent: Creating Projects
+grand_parent: Projects
 nav_order: 1
 ---
 # Project Basics
