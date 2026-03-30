@@ -14,13 +14,13 @@ AVAnnotate projects are published as standalone websites hosted on GitHub Pages.
 To start the embedding process, copy the URL of the desired AVAnnotate project from the project's published site. Once copied, the code below will be used to embed the AVAnnotate project into an existing website. 
 
 <pre><code>
-<iframe>
+&lt;iframe 
   src="https://[username].github.io/[project-slug]/"
   width="100%"
   height="800"
   style="border: none;"
-  title="AVAnnotate Project">
-</iframe>
+  title="AVAnnotate Project"&gt;
+&lt;/iframe&gt;
 </code></pre>
 
 Paste this code into your website's HTML editor wherever you want the project to appear.
