@@ -3,7 +3,7 @@ title: Embedding in Existing Sites
 layout: home
 parent: Published Sites
 grand_parent: Projects
-nav_order: 1
+nav_order: 3
 ---
 # Embedding an AVAnnotate Project in an Existing Website
 
