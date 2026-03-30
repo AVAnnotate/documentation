@@ -49,6 +49,7 @@ The `title` attribute is required for accessibility purposes. It should briefly 
 The same iframe code used to embed a project in WordPress works across most web platforms that allow custom HTML. Below are the steps to embed AVAnnotate projects in other common platforms.
 
 <b>Squarespace:</b> Add a `Code` block to your page and paste the iframe code directly into it. 
+
 {: .note }
 > In Squarespace, code blocks that include iframes may only render in preview or published view, not in the editor.
 
