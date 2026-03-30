@@ -3,7 +3,7 @@ title: Offline
 layout: home
 parent: Published Sites
 grand_parent: Projects
-nav_order: 1
+nav_order: 2
 ---
 
 # Offline or Alternative Server Projects
