@@ -1,0 +1,26 @@
+---
+title: Offline
+layout: home
+parent: Published Sites
+grand_parent: Projects
+nav_order: 1
+---
+# Embedding an AVAnnotate Project in an Existing Website
+
+AVAnnotate projects are published as standalone websites hosted on GitHub Pages. Once published, a project can be embedded into an existing website, such as a WordPress site, a course management system, or an institutional webpage, using an HTML `iframe` element. This allows users to display their AVAnnotate project within a broader web context without requiring visitors to leave the host site.
+
+## Basic iframe Code
+
+To start the embedding process, copy the URL of the desired AVAnnotate project from the project's published site. Once copied, the code below will be used to embed the AVAnnotate project into an existing website. 
+
+<pre><code>
+<iframe
+  src="https://[username].github.io/[project-slug]/"
+  width="100%"
+  height="800"
+  style="border: none;"
+  title="AVAnnotate Project">
+</iframe>
+</pre></code>
+
+Replace https://[username].github.io/[project-slug]/ with your actual project URL. Paste this code into the HTML editor of your website wherever you want the project to appear.
