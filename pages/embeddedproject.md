@@ -21,7 +21,7 @@ To start the embedding process, copy the URL of the desired AVAnnotate project f
   style="border: none;"
   title="AVAnnotate Project">
 </iframe>
-</pre></code>
+</code></pre>
 
 Paste this code into your website's HTML editor wherever you want the project to appear.
 
