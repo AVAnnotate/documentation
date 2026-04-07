@@ -5,8 +5,6 @@ nav_order: 1
 ---
 
 ## It's difficult to use audio and video in research and teaching. AVAnnotate makes it easier.
-
-[User Guidelines and Resources](https://avannotate.github.io/guidelines/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
  
 [AVAnnotate](https://av-annotate.org/) is a free, open-source, application for creating, organizing, and publishing websites that feature audio and video resources, making these artifacts easily discoverable and searchable.
 
