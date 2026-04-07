@@ -25,15 +25,11 @@ Below is a list of AVAnnotate application features, organized into sections corr
 - AVAnnotate projects can be saved in any organization that a GitHub user can edit.
 - [Collaborators](https://avannotate.github.io/documentation/pages/add-collab/) can be added via GitHub username in the Project Settings.
 - IIIF manifests are linked at the bottom of every project page.
-- AVAnnotate supports both AVAnnotate and Aviary players when publishing pages with media.
 - AVAnnotate projects can be downloaded and used [offline](https://avannotate.github.io/documentation/pages/offline/) as a free-standing site not locatable on the internet.
 - Offline/private projects with up to 3 collaborators can be created using GitHub private repositories.
 - “No media” AVAnnotate projects can be created via:
-  - [Spreadsheet upload](https://avannotate.github.io/documentation/pages/templates/) (users will still need to denote "audio" or "video" in the spreadsheet and will be prompted to enter durations; enter any number and continue), and/or
+  - [Spreadsheet upload](https://avannotate.github.io/documentation/pages/templates/)
   - Manual entry by changing the Event settings for the media file from "URL" to "offline."
-
-{: .note for Aviary Users }
->  The Aviary player does not support AVAnnotate page structures or custom pages; instead, the manifest goes directly to the Aviary player to produce an Aviary “project.” Aviary does not support YouTube or other non-IIIF-compliant media. If a YouTube (or other) link is included in the project, a “No public media” page will be produced. Removing these events will produce an Aviary project.
 
 ## Data Manager: 
 ### Events
