@@ -13,7 +13,8 @@ This "Get Started" section outlines the basics of developing an AVAnnotate proje
 - The [glossary](https://avannotate.github.io/documentation/pages/glossary/) outlines the terms and concepts needed to work through a project.
 - [Features](https://avannotate.github.io/documentation/pages/features/) outlines what AVAnnotate can do.
 - Details about using GitHub are in [GitHub Accounts and Organizations](https://avannotate.github.io/documentation/pages/orgs/).
-- [Helpful tips](https://avannotate.github.io/documentation/pages/tips/) and tricks are some things to consider before starting. 
+- [Helpful tips](https://avannotate.github.io/documentation/pages/tips/) and tricks are some things to consider before starting.
+- [User Guidelines and Resources](https://avannotate.github.io/guidelines/) are designed to help various stakeholders—institutions, researchers, educators, and communities—navigate conceptual, ethical, and logistical questions regarding how they engage with AV materials in order to build AVAnnotate projects across different contexts. 
 
 Created by [Dr. Tanya Clement](https://tanyaclement.org/){:target="_blank" rel="noopener"}, [Brumfield Labs](https://www.brumfieldlabs.com/){:target="_blank" rel="noopener"}, and [Performant Software Solutions](https://www.performantsoftware.com/){:target="_blank" rel="noopener"}.
 
