@@ -1,11 +1,11 @@
 ---
-title: Spreadsheet Templates
+title: Bulk Uploading
 layout: home
 parent: Data Manager
 grand_parent: Projects
 nav_order: 6
 ---
-# Spreadsheet Templates and Examples
+# Bulk Uploading with Spreadsheet Templates and Examples
 
 This guide provides instructions and templates for uploading project information to AVAnnotate in bulk via spreadsheets. AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
 
@@ -19,7 +19,7 @@ This guide provides instructions and templates for uploading project information
 {: .warning }
 > **Important Note:** On annotation spreadsheets, all cells must be filled out. Start time, end time, and annotation are all required. Tags are optional, but the Tags header cannot be deleted. If the tag column is used, all tag cells must be completed.  
 
-# Examples
+# Spreadsheet Examples
 Sample Audio Spreadsheets:
 - [Leslie Flint's Spiritualism](https://saamturner.github.io/wildedoyleflint/){:target="_blank" rel="noopener"}  <br> 
 These event, tag, and annotation spreadsheets represent two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. [Flint example spreadsheets](https://drive.google.com/drive/u/0/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU){:target="_blank" rel="noopener"}
