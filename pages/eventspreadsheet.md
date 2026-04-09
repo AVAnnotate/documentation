@@ -15,3 +15,17 @@ This template organizes project events and associates AV files with each event. 
 **AV Reference** (optional): Typically includes a URL to an online AV file, see [AV File Formats and Support](https://avannotate.github.io/documentation/pages/av/) for more information; might also include reference to a local file path for an [offline or alternative server project](https://avannotate.github.io/documentation/pages/offline/). <br>
 **Event Description** (optional): <br>
 **AV Citation** (optional): <br>
+
+### Import Events Spreadsheet
+<figure>
+  <video width="800" height="400" controls
+         aria-label="This video demonstrates how to upload an event to an AVAnnotate project via the Event Template. After selecting 'Add,' import a file on your drive. AVAnnotate will prompt you to calibrate the file's columns, which requires selecting at least two columns to confirm the configuration. Press 'import,' then press 'save.'"
+         title="Adding event to AVAnnotate project">
+    <source src="https://archive.org/download/import_event_edited_1/import_event_edited_1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>This video demonstrates how to upload, configure, and save an event in AVAnnotate.</figcaption>
+</figure>
+
+{: .note }
+Annotation sets can be added to an Event after it has been added and saved. 
