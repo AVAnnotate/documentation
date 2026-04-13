@@ -1,8 +1,8 @@
 ---
 title: Converting Legacy OHMS
 layout: home
-parent: Published Sites
-grand_parent: Projects
+parent: Bulk Uploading
+ancester: Projects
 nav_order: 4
 ---
 
