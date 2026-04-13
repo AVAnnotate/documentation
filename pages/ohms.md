@@ -1,13 +1,10 @@
 ---
-title: Resources
-published: false
----
 title: Converting Legacy OHMS
 layout: home
-parent: Project Basics
+parent: Published Sites
 grand_parent: Projects
-nav_order: 7
-
+nav_order: 4
+---
 
 NOTES for updating this page later: 
 You are absolutely right about the flexibility of AVAnnotate vs. OHMS.  The only reason I recommended uploading the different OHMS fields as separate sets was because I was trying to come up with a one-to-one model for migrating OHMS annotations to AVAnnotate without losing anything.
