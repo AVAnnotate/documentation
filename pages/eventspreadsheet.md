@@ -1,7 +1,7 @@
 ---
 title: Event Spreadsheet Template
 layout: home
-parent: Spreadsheet Templates
+parent: Bulk Uploading
 ancester: Projects
 nav_order: 1
 ---
