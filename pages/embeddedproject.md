@@ -44,6 +44,9 @@ The `title` attribute is required for accessibility purposes. It should briefly 
 5. Select `Preview` to confirm the project displays correctly before publishing.
 6. Select `Publish` or `Update` to save the page.
 
+> {: .warning }
+A paid WordPress plan with hosting features enabled is required to use iframes in a Custom HTML block.
+
 ## Embedding in Other Platforms
 
 The same iframe code used to embed a project in WordPress works across most web platforms that allow custom HTML. Below are the steps to embed AVAnnotate projects in other common platforms.
