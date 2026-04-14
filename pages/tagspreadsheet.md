@@ -17,3 +17,7 @@ This template contains tags and tag categories used in a project. [`Tags`](https
 
 {: .note }
 > Tags and tag groups can only be uploaded via a spreadsheet if there are no existing tags or tag groups in the project.
+
+## Uploading Batches of Tags and Tag Groups
+Tag spreadsheets should be imported before importing annotation spreadsheets that have tags. When annotation spreadsheets containing tags are imported, they are matched to the previously imported tags and tag groups. Tag spreadsheets can be imported into an AVAnnotate project via the `Import` button found under the `Tags` tab in the `Data Manager` of the AVAnnotate project.
+![Image 3](../../assets/tagspreadsheetupload.png)
