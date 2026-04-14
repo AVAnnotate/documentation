@@ -71,7 +71,7 @@ The AV item can be deleted and its duration manually changed by selecting the th
 
 ![Image 7](../../assets/eventimage7.png)
 
-If adding AV items for an [offline project](https://avannotate.github.io/documentation/pages/offline/), toggle the File type to `Offline`. Then create a path to your offline AV item by renaming the AV item URL with a forward slash, the "media" directory name, another forward slash, and the AV file name.
+If adding AV items for an [offline project](https://avannotate.github.io/documentation/pages/offline/), toggle the File type to `Offline`. Then create a path to the offline AV item by renaming the AV item URL with a forward slash, the "media" directory name, another forward slash, and the AV file name.
 
 ![Image 8](../../assets/eventimage8.png)
 
