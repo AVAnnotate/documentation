@@ -40,7 +40,7 @@ In the `Add Event` page, select 'Create manifest' and input the following inform
 
 ![IIIF Image 1](../../assets/iiifimage2.png) 
 
-4.  If the manifest is properly formed, a "Success!" message will appear. Save.
+4. If the manifest is properly formed, a "Success!" message will appear. Save.
 
 ![IIIF Image 1](../../assets/iiifimage3.png) 
 
