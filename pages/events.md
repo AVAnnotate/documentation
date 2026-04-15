@@ -7,7 +7,7 @@ nav_order: 2
 ---
 # Events
 
-Events are a central conceptual element of an AVAnnotate project and may comprise one or more [AV files](https://avannotate.github.io/documentation/pages/av/), which may be associated with [time-stamped annotations](https://avannotate.github.io/documentation/pages/annotations/). Events might include a conference with multiple panels and speakers, or, more typically, a single speaker’s presentation. In another example, an Event could include multiple files, each a different recording of a poet reading the same poem. In each case, the project creator determines the scope and definition of their “Events.”
+Events are a central conceptual element of an AVAnnotate project. They are a core unit of analysis in AVAnnotate that connect audiovisual media, metadata, and annotations into a single structured object. Events may comprise one or more [AV files](https://avannotate.github.io/documentation/pages/av/), which may be associated with [time-stamped annotations](https://avannotate.github.io/documentation/pages/annotations/). Events might include a conference with multiple panels and speakers, or, more typically, a single speaker’s presentation. In another example, an Event could include multiple files, each a different recording of a poet reading the same poem. In each case, the project creator determines the scope and definition of their “Events.”
 
 AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_iiif_resources/){:target="_blank" rel="noopener"} for each event. Event pages can be [auto-generated](https://avannotate.github.io/documentation/pages/auto/) or [customized](https://avannotate.github.io/documentation/pages/custom/) and created by the user.
 
