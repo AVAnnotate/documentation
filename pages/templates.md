@@ -10,10 +10,10 @@ nav_order: 6
 This guide provides instructions and templates for uploading project information to AVAnnotate in bulk via spreadsheets. AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
 
 **1. Project Level:** Include one Event and one Tag spreadsheet. 
-* [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}: Each row in the event spreadsheet is a unique [Event](https://avannotate.github.io/documentation/pages/events/) in the project. Note: Events may include multiple AV files. See below.
-* [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"}: Each row in the tag spreadsheet is a unique tag in the project.
+* [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/copy){:target="_blank" rel="noopener"}: Each row in the event spreadsheet is a unique [Event](https://avannotate.github.io/documentation/pages/events/) in the project. Note: Events may include multiple AV files. See below.
+* [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/copy){:target="_blank" rel="noopener"}: Each row in the tag spreadsheet is a unique tag in the project.
   
-**2. Event Level:** [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true){:target="_blank" rel="noopener"} (or "sets") correspond to each [AV file](https://avannotate.github.io/documentation/pages/av/). AV files may have multiple corresponding [annotation sets](https://avannotate.github.io/documentation/pages/annotationsets/). Events may have multiple corresponding AV files with multiple annotation sets.  
+**2. Event Level:** [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/copy?){:target="_blank" rel="noopener"} (or "sets") correspond to each [AV file](https://avannotate.github.io/documentation/pages/av/). AV files may have multiple corresponding [annotation sets](https://avannotate.github.io/documentation/pages/annotationsets/). Events may have multiple corresponding AV files with multiple annotation sets.  
 * Annotation Spreadsheet: Each row in an annotation spreadsheet is a single annotation corresponding to a timestamp on the AV file.
 
 {: .warning }
