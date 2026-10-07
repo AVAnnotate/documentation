@@ -9,7 +9,7 @@ nav_order: 2
 This template contains tags and tag categories used in a project. [`Tags`](https://avannotate.github.io/documentation/pages/tags/) are labels used in AVAnnotate to index, organize, and discover topics in the annotations. Tag groups can be used to organize the tags. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the tag group “speaker.” Tags might also include "Transcript" and "Notes" to distinguish annotation types. Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a group). 
 
 {: .note }
-> Consistency in tag spelling and capitalization is imperative. Different spellings or capitalizations will result in different tags. If the accidental creation of new tags is a concern, the Designated Tag Spreadsheet allows users to designate tags in advance that can then be selected from a dropdown menu.
+> Consistency in tag spelling and capitalization is imperative. Different spellings or capitalizations will result in different tags. If the accidental creation of new tags is a concern, the [Designated Tag Spreadsheet](https://avannotate.github.io/documentation/pages/designatedtags/) allows users to designate tags in advance that can then be selected from a dropdown menu.
 
 A tag can belong to multiple tag groups. For example, the tag “Zora Neale Hurston” may appear in the tag groups “Speaker” and “Topic” (depending on the event context) or may not be categorized as part of a tag group at all. 
 
