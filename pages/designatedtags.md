@@ -3,11 +3,11 @@ title: Designated Tag Spreadsheet Template
 layout: home
 parent: Bulk Uploading
 ancestor: Projects
-nav_order: 3
+nav_order: 4
 ---
 
 ## [Designated Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1cjDaxKFqQBZGLeXye6i8Bu5qM4TzSrcr25O21E3aGmA/copy?usp=sharing){:target="_blank" rel="noopener"}
-This template allows users to designate and select single or multiple tags from a dropdown in the “Tags” column of AVAnnotate’s spreadsheet template. A custom AVAnnotate menu converts the selected tags into the pipe-separated format required by the application to upload multiple tags in bulk. 
+This annotation template allows users to designate and select single or multiple tags from a dropdown in the “Tags” column of AVAnnotate’s spreadsheet template. A custom AVAnnotate menu converts the selected tags into the pipe-separated format required by the application to upload multiple tags in bulk. 
 
 Users interested in working with AVAnnotate collaboratively—and who are using a shared tagging system—should use this spreadsheet to streamline the tagging process.
 
