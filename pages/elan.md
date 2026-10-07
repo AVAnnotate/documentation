@@ -3,7 +3,7 @@ title: ELAN with AVAnnotate
 layout: home
 parent: Bulk Uploading
 ancester: Projects
-nav_order: 4
+nav_order: 5
 ---
 # ELAN for AVAnnotate Annotations
 
