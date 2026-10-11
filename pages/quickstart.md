@@ -35,11 +35,11 @@ Select `+ Create` under the `+ Add` menu on the `Data Manager` page and input in
 
 ## Step 6: Customize pages to build context
 
-Users can create [auto-generated pages](https://avannotate.github.io/documentation/pages/auto/) for each event as well as design [custom pages](https://avannotate.github.io/documentation/pages/custom/) that include text, whole events, AV clips with or without associated annotations,  AV clip comparisons, and images (via URL links). Users might add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc. For more information, see [Pages](https://avannotate.github.io/documentation/pages/pages/).
+Users can create [auto-generated pages](https://avannotate.github.io/documentation/pages/auto/) for each event as well as design [custom pages](https://avannotate.github.io/documentation/pages/custom/) that include text, whole events, AV clips with or without associated annotations,  AV clip comparisons, and images (via URL links). Users might add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc.
 
 ## Step 7: Publish and share your AVAnnotate project with the world!
 
 Go to the `Site Builder` page and select `Publish`! 
 
-## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/troubleshooting/) before getting started and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for bulk uploading using spreadsheets. 
+## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/tips/) before getting started and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for bulk uploading using spreadsheets. 
 
