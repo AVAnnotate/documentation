@@ -26,6 +26,6 @@ These event, tag, and annotation spreadsheets represent two events included in a
 - [Zora Neale Hurston](https://tanyaclement.github.io/znh-1939/){:target="_blank" rel="noopener"} <br>
 These event, tag, and annotation spreadsheets represent a multi-event project including three recordings created by Zora Neale Hurston. [Hurston example spreadsheets](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q){:target="_blank" rel="noopener"}
 
-Sample Video Spreadsheets - 
--[Camille (1921)](https://avannotate.github.io/camille/events/camille-1921/){:target="_blank" rel="noopener"}  <br>
+Sample Video Spreadsheets: 
+- [Camille (1921)](https://avannotate.github.io/camille/events/camille-1921/){:target="_blank" rel="noopener"}  <br>
 These event, tag, and annotation spreadsheets represent a single video event about the 1921 film adaptation of "La Dame aux Camélias" (1848) by Alexandre Dumas, fils. [Camille example spreasheets](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239){:target="_blank" rel="noopener"}
