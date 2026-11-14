@@ -1,8 +1,10 @@
+---
 title: Text Editor
 layout: home
 parent: Custom Pages
-grand_parent: Site Builder
+ancestor: Projects
 nav_order: 1
+---
 # Custom Text Editor Options
 
 The custom rich text editor allows the project's author to flexibly customize page layout, formatting, and content elements.
