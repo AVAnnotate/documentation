@@ -1,10 +1,8 @@
----
 title: Text Editor
 layout: home
 parent: Custom Pages
 grand_parent: Site Builder
 nav_order: 1
----
 # Custom Text Editor Options
 
 The custom rich text editor allows the project's author to flexibly customize page layout, formatting, and content elements.
@@ -24,7 +22,7 @@ To view the Page Layout Options, select the `Insert` menu on the Rich Text Edito
     <source src="https://ia600105.us.archive.org/24/items/insertlayoutsvideo/insertlayoutsvideo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption>This video demonstrates how to select, configure, and delete page layouts on a custom page in AVAnnotate.</figcaption>
+  <figcaption>The above video demonstrates how to select, configure, and delete page layouts on a custom page in AVAnnotate.</figcaption>
 </figure>
 
 ## Insert Horizontal Line
