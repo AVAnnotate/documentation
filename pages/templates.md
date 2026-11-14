@@ -21,7 +21,7 @@ This guide provides instructions and templates for uploading project information
 
 # Spreadsheet Examples
 Sample Audio Spreadsheets:
-- [Leslie Flint's Spiritualism](https://saamturner.github.io/wildedoyleflint/){:target="_blank" rel="noopener"}  <br> 
+- [Leslie Flint's Spiritualism](https://saamturner.github.io/flint/pages/sound-as-rhetorical-assemblage/){:target="_blank" rel="noopener"}  <br> 
 These event, tag, and annotation spreadsheets represent two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. [Flint example spreadsheets](https://drive.google.com/drive/u/0/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU){:target="_blank" rel="noopener"}
 - [Zora Neale Hurston](https://tanyaclement.github.io/znh-1939/){:target="_blank" rel="noopener"} <br>
 These event, tag, and annotation spreadsheets represent a multi-event project including three recordings created by Zora Neale Hurston. [Hurston example spreadsheets](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q){:target="_blank" rel="noopener"}
