@@ -6,13 +6,13 @@ grand_parent: Projects
 nav_order: 2
 ---
 # Creating Custom Pages 
-Custom pages can be used to customize the project home page and individual event pages, as well as to create pages for essays and contextual information. Pages can combine written content with AV events or clips (with or without associated annotations), comparisons of AV events or clips, and images using the [custom text editor](https://avannotate.github.io/documentation/pages/texteditor/).
+Custom pages can be used to customize the project home page and individual event pages, as well as to create pages for essays and contextual information. Pages can combine written content with AV events or clips (with or without associated annotations), comparisons of AV events or clips, and images using the [custom rich text editor](https://avannotate.github.io/documentation/pages/texteditor/).
  
 ## Add a Custom Page
 From the Site Builder tab, create a custom page by selecting `Add` and then selecting `Blank Page`.
 ![Image 2: How to add a custom author-generated page](../../assets/customimage2.png) 
 
-Once the page is added, add a title and assign a parent page. Customize the text and media on the page via the rich text editor. For details on the customization features, see [Custom Text Editor Options](https://avannotate.github.io/documentation/pages/custom/#:~:text=the%20published%20project.-,Custom%20Text%20Editor%20Options,-The%20custom%20rich) below.
+Once the page is added, add a title and assign a parent page. Customize the text and media on the page via the rich text editor.
 ![Image 3: Custom text editor layout options](../../assets/customimage3.png) 
 
 ## Disabling and Re-enabling Auto-generation
