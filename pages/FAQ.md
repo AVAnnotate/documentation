@@ -29,9 +29,6 @@ There is no minimum or maximum, but clarity matters. A small number of well-defi
 ## Does each cell on my Annotations, Events, and Tags spreadsheet have to be filled in?
 Yes! If there is any data in any cell, the whole column should be filled in. (AVAnnotate will let you ignore some columns completely too.)
 
-## Can annotations include external links or citations?
-Yes. External links, bibliographic references, and contextual notes can be added to annotations. See more information under "Editing annotations and timestamps" on the [Annotations](https://avannotate.github.io/documentation/pages/annotations/#editing-annotations-and-timestamps) documentation page. 
-
 ## How do I format multiple tags on a single annotation? 
 In the AVAnnotate editing interface, after adding tags and tag categories, multiple tags can be added to a single annotation by selecting them from the available tag list. For bulk uploading, [adding multiple tags is a little different](https://avannotate.github.io/documentation/pages/templates/)). In the "tags" column, tags and their corresponding categories should be separated by a vertical bar, like this: Tag 1 | Tag 2, and so on. For example, in "[Zora Neale Hurston’s WPA Field Recordings in Jacksonville, FL (1939)](https://tanyaclement.github.io/znh-1939/events/field-recordings-t86-243/){:target="_blank" rel="noopener"}", the first annotation includes two tags: "Unknown" and "Singing," which would show up in the template's "Tag" column as Unknown | Singing.
 
