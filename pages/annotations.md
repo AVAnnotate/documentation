@@ -28,13 +28,13 @@ Annotations and timestamps can be added, edited, or deleted through the AVAnnota
 Navigate to the `Events` dashboard and select an event. 
 ![image1](../../assets/newannotationsimage1.png)
 
-Annotations with timestamps can be added individually by selecting `Create` under the `Add` button.
+Annotations can be added individually by selecting `Create` under the `Add` button.
 ![image 2](../../assets/newannotationsimage2.png)
 
-## Editing annotations and timestamps 
-Annotations and timestamps can be added and edited when creating an annotation.
-![image 3](../../assets/newannotationsimage3.png)
+Individual annotations must include timestamps. They can also include annotation text (that can be further customized using the rich text editor) and tags.
+![image 3](../../assets/newannotationsimage3.png)  
 
+## Editing annotations and timestamps 
 On the event page, timestamps and annotations can be edited by selecting the three-dot menu for each annotation. 
 ![image 4](../../assets/newannotationsimage4.png)
 
