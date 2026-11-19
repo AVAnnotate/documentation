@@ -14,8 +14,6 @@ This "Get Started" section outlines the basics of developing an AVAnnotate proje
 - [Features](https://avannotate.github.io/documentation/pages/features/) outlines what AVAnnotate can do.
 - Details about using GitHub are in [GitHub Accounts and Organizations](https://avannotate.github.io/documentation/pages/orgs/).
 - [Helpful tips](https://avannotate.github.io/documentation/pages/tips/) and tricks are some things to consider before starting.
-- [User Guidelines and Resources](https://avannotate.github.io/guidelines/) are designed to help various stakeholders—institutions, researchers, educators, and communities—navigate conceptual, ethical, and logistical questions regarding how they engage with AV materials in order to build AVAnnotate projects across different contexts. 
+- [User Guidelines](https://avannotate.github.io/guidelines/) are designed to help various stakeholders—institutions, researchers, educators, and communities—navigate conceptual, ethical, and logistical questions regarding how they engage with AV materials in order to build AVAnnotate projects across different contexts. 
 
 Created by [Dr. Tanya Clement](https://tanyaclement.org/){:target="_blank" rel="noopener"}, [Brumfield Labs](https://www.brumfieldlabs.com/){:target="_blank" rel="noopener"}, and [Performant Software Solutions](https://www.performantsoftware.com/){:target="_blank" rel="noopener"}.
-
-The [Monster Mash Documentation Project](https://avannotate.github.io/mm/){:target="_blank" rel="noopener"} is a sample project that demonstrates what kinds of pages are possible for AVAnnotate project authors to make. The screenshots and visual how-to's throughout this documentation are based on the Monster Mash project.
