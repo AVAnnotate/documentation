@@ -7,7 +7,7 @@ nav_order: 4
 ---
 # Annotations and Time Stamps
 
-In AVAnnotate, the body of an annotation is associated with a timestamped point or range in the audio or video. The annotation might include information about the media, such as transcripts, captions, details about formal features (like shot sequence, volume, or lighting), historical or cultural context, environmental noises (like fans or car horns), or conceptual notes or themes, along with a variety of other possible topics. Please see "AVAnnotate Example Annotation Types, Index Terms, and Codes" on the [Additional Researcher Resources](https://avannotate.github.io/guidelines/pages/research-resources.html) page of the [AVAnnotate User Guidelines](https://avannotate.github.io/guidelines/).
+In AVAnnotate, the body of an annotation is associated with a timestamped point or range in the audio or video. The annotation might include information about the media, such as transcripts, captions, details about formal features (like shot sequence, volume, or lighting), historical or cultural context, environmental noises (like fans or car horns), or conceptual notes or themes, along with a variety of other possible topics. Please see the example annotation types, index terms, and codes on the [Researcher Resources](https://avannotate.github.io/guidelines/pages/research-resources.html) page of the [AVAnnotate User Guidelines](https://avannotate.github.io/guidelines/).
 
 Requirements
 - All annotations are part of an [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) that corresponds to an associated [Event](https://avannotate.github.io/documentation/pages/events/).
@@ -16,9 +16,10 @@ Requirements
   - must include a start and an end time. The start and end times can specify a range or a single point in time with the same timestamp for start and end time.
   
 Allowances: 
-- Multiple annotations can be included for the same timestamp.
-- Annotations can be as long as the user finds reasonable.
-- Annotations can include HTML tags 
+- Multiple annotations can be included for the same timestamp
+- Annotations can be as long as the user finds reasonable
+- Annotations can include HTML tags
+- There is no minimum annotation requirement
 
 # Creating, Modifying, and Deleting Annotations
 
