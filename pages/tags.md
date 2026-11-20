@@ -19,7 +19,7 @@ Tags and tag groups can be accessed in AVAnnotate in two places:
 ![Image 2](../../assets/indexpagetags.png)
 
 ## Adding Tags and Tag Groups
-Users can add tags and tag groups on the `Data Manager` page. To add additional tag groups, select the `+ Tag Group` button. To add additional tags, select the `+ Tag` found at the bottom of each tag group.
+Users can add tags and tag groups on the `Data Manager` page. To add additional tag groups, select the `+ Tag Group` button. To add additional tags, select the `+ Tag` found at the bottom of each tag group. Users can add tags and tag groups on the `Data Manager` page. To add additional tag groups, select the `+ Tag Group` button. To add additional tags, select the `+ Tag` found at the bottom of each tag group. Multiple tags can be added to a single annotation.  
 ![Image3](../../assets/datamanagertags1.png)
 
 ## Managing Tags and Tag Groups
