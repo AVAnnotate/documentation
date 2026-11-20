@@ -21,9 +21,8 @@ This template includes project annotations. [`Annotations`](https://avannotate.g
 `strong`
 `br`
 `blockquote`
-`p`
-`a`<br>
-**Tags** (optional): are pipe (|) separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple groups, the group must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”).<br> 
+`p`  
+**Tags** (optional): Multiple tags should be pipe (|) separated, like this: Tag 1 | Tag 2, and so on. For example, in "[Zora Neale Hurston’s WPA Field Recordings in Jacksonville, FL (1939)](https://tanyaclement.github.io/znh-1939/events/field-recordings-t86-243/){:target="_blank" rel="noopener"}", the first annotation includes two tags: "Unknown" and "Singing," which would show up in the template's "Tag" column as Unknown | Singing. If a tag is unique across the project, include just the tag; if a tag belongs to multiple groups, the group must also be included with a colon (e.g., “Speakers: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”).<br> 
 
 {: .warning }
 **Important Note:** In the current version, tags are optional during spreadsheet uploads, but the "tag" header is required. Otherwise, the column can remain blank. 
