@@ -10,6 +10,8 @@ nav_order: 3
 
 AVAnnotate does not store media files. AVAnnotate references audiovisual media through URLs and [IIIF manifests](https://avannotate.github.io/documentation/pages/iiif/). To create an AVAnnotate project with playable audiovisual material, the AV file must be hosted on a public server. 
 
+To find AV files with direct links or [IIIF manifests](https://iiif.io/){:target="_blank" rel="noopener"}, explore the publicly accessible collections of libraries, archives, and museums. The [Internet Archive](https://archive.org/) is another useful resource, with guidance for locating its [IIIF manifests](https://iiif.io/guides/guides/archive.org/){:target="_blank" rel="noopener"}.
+
 {: .note }
 > To create AVAnnotate with private or offline AV media, see [Offline or Alternative Server Projects](https://avannotate.github.io/documentation/pages/offline/).
 
@@ -28,7 +30,7 @@ Projects may be created with audiovisual material from the following sources, ea
 - **File Paths:** Audio files directly hosted on a server or accessible via URLs like MP3, WAV, OGG, etc.
 
 ## Formats that are Invalid for IIIF Manifests
-Projects *can be created using audiovisual material from the following sources*. These file types will be visible in published AVAnnotate projects but will not appear in the associated IIIF manifests.
+Projects **can** be created using audiovisual material from the following sources. These file types will be visible in published AVAnnotate projects but will **not** appear in the associated IIIF manifests.
 
 ### Video
 - **YouTube:** YouTube URLs  
