@@ -23,11 +23,11 @@ Most `Events` are associated with a single AV file, but an event may be associat
 Select `+ Create` under the `+ Add` menu on the `Data Manager` page and input information about the new event, including the event `Label.` For the AV file, include `AV Type` (Audio or Video), `Label`, `URL`, and `Duration.` `Description`, `Citation`, and `Rights Statement` are optional fields. AVAnnotate can reference AV and images through [URLs](https://avannotate.github.io/documentation/pages/av/) or [IIIF manifests](https://avannotate.github.io/documentation/pages/iiif/). `Events` can also be imported via `Import` under the `+ Add` menu on the `Data Manager` page. See [here](https://avannotate.github.io/documentation/pages/templates/) for more on importing events.
 
 {: .note }
-> AVAnnotate does not store AV or image files.
+> AVAnnotate does not store AV or image files. You’ll need a [direct link to the file of your audio or video](https://avannotate.github.io/documentation/pages/av/) or a [IIIF manifest](https://avannotate.github.io/documentation/pages/iiif/) for the AV recording. [Images](https://avannotate.github.io/documentation/pages/texteditor/#insert-and-edit-images) must also have a direct link.
 
 ## Step 4: Add annotations and timestamps
 
-`Annotations` and `Timestamps` are user-created and correspond to a point or range in the audio or video. Annotations contain information about the audio and video that might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or information about conceptual notes or themes. For more information, see [Annotations](https://avannotate.github.io/documentation/pages/annotations/).
+`Annotations` and `Timestamps` are user-created and correspond to a point or range in the audio or video. Annotations contain information about the audio and video that might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or information about conceptual notes or themes. For more information, see [Annotations](https://avannotate.github.io/documentation/pages/annotations/). To ensure error-free uploads, especially when bulk uploading, see [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/).
 
 ## Step 5: Add tags and tag groups
 
@@ -35,11 +35,10 @@ Select `+ Create` under the `+ Add` menu on the `Data Manager` page and input in
 
 ## Step 6: Customize pages to build context
 
-Users can create [auto-generated pages](https://avannotate.github.io/documentation/pages/auto/) for each event as well as design [custom pages](https://avannotate.github.io/documentation/pages/custom/) that include text, whole events, AV clips with or without associated annotations,  AV clip comparisons, and images (via URL links). Users might add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc.
+Users can create [auto-generated pages](https://avannotate.github.io/documentation/pages/auto/) for each event as well as design [custom pages](https://avannotate.github.io/documentation/pages/custom/) that include text, whole events, AV clips with or without associated annotations,  AV clip comparisons, and images (via URL links). Users might add a page that includes an introduction or conclusion to the project; build separate sections of an accompanying analytical essay; add context or pedagogical implications for events and annotations; explain the annotation choices made in the project; etc. For more information, see [Pages](https://avannotate.github.io/documentation/pages/pages/).
 
 ## Step 7: Publish and share your AVAnnotate project with the world!
 
 Go to the `Site Builder` page and select `Publish`! 
 
-## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/tips/) before getting started and [Spreadsheet Templates](https://avannotate.github.io/documentation/pages/templates/) for bulk uploading using spreadsheets. 
-
+## Refer to [Helpful Tips](https://avannotate.github.io/documentation/pages/troubleshooting/) and [User Guidelines](https://avannotate.github.io/guidelines/) before getting started.
